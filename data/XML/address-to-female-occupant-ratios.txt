@@ -1,0 +1,600 @@
+File created with these commands:
+
+grep -c "<addr>" *.xml > addr-counts.txt
+grep -c "\bMrs\b\|\bMiss\b" *.xml > female-counts.txt
+paste addr-counts.txt female-counts.txt > address-to-female-occupant-ratios.txt
+(then a little bit of clean-up in a text editor)
+
+
+Baalzephon st.	0	0
+Bacchus walk.	4	1
+Baches st.	8	0
+Back Church lane.	81	1
+Back hill.	9	0
+Backs row.	22	2
+Bacon st.	5	0
+Baggally street.	2	0
+Bagshot street.	17	2
+Baildon street.	3	1
+Bakers mews.	3	0
+Bakers row 1.	4	0
+Bakers row 2.	25	0
+Baker st.	5	0
+Baker street 1.	19	0
+Baker street 2.	132	20
+Balaclavard.	5	1
+Baldwins grdns.	9	0
+Baldwin st.	1	0
+Baldwin street.	15	2
+Bale st.	6	0
+Balfour road.	73	11
+Ball alley.	6	0
+Ball court 1.	1	0
+Ball court 2.	4	0
+Balls Pond road.	173	20
+Ball st.	20	3
+Balmes road.	35	1
+Balmoral bldgs.	0	0
+Baltic.	0	0
+Baltic pl.	0	0
+Baltic street.	7	0
+Bancroft road.	64	9
+Bank buildings 1.	0	0
+Bank bulidings 2.	12	0
+Bankend.	1	0
+Bankside.	57	0
+Banner street.	40	3
+Banyard road.	2	0
+Barandon st.	8	1
+Barbara st.	4	1
+Barbers yard.	1	0
+Barbican.	76	4
+Barchester street.	6	1
+Barford st.	7	0
+Barge yd.	13	0
+Baring st.	17	1
+Barking alley.	12	1
+Barking road.	0	0
+Bark pl.	30	8
+Barlows mews.	1	0
+Barlow st.	11	3
+Barnards inn.	36	0
+Barnes street.	3	0
+Barnet grove.	13	0
+Barnham st.	3	1
+Barnsbury grove.	11	1
+Barnsbury park.	26	2
+Barnsbury road.	107	12
+Barnsbury square.	14	1
+Barnsbury street.	31	7
+Baroness road.	14	1
+Baron street.	18	0
+Barque ter.	0	0
+Barretts court.	6	0
+Barrons pl.	4	0
+Barrosa place.	0	0
+Barrowhill place.	3	1
+Barrow hill road.	15	0
+Barrs buildings.	0	0
+Bartholomew close.	81	5
+Bartholomew lane.	30	0
+Bartholomew road.	103	17
+Bartholomew sq.	6	0
+Bartholomew villas.	32	6
+Bartletts buildings.	36	2
+Bartletts passg.	6	0
+Barton street.	6	1
+Basing ho Yd.	0	0
+Basing place.	2	0
+Basing rd.	5	0
+Basnghall st.	270	0
+Bassett road.	22	1
+Bassett Street.	3	0
+Batemans buil.	3	0
+Batemans row.	16	0
+Bath pl.	0	0
+Bath place 1.	3	1
+Bath place 2.	0	0
+Bath st 1.	68	5
+Bath st 2.	7	0
+Bath street 1.	12	1
+Bath street 2.	6	1
+Bath street 3.	9	0
+Bath street 4.	1	0
+Bath ter.	2	0
+Bathurst mews.	7	0
+Bathurst st.	10	0
+Batson st.	2	0
+BATTERSEA.	0	0
+Battersea rise.	0	0
+Batty st.	3	0
+Baxter rd.	11	2
+Bayham st.	24	3
+Bayley st.	9	2
+Bayswater hill.	9	1
+Bayswater road.	3	0
+Bayswater terrace.	9	2
+Beacon hill.	28	7
+Beaconsfield vils.	1	0
+Beak st.	11	3
+Beale road.	10	2
+Bear alley.	2	0
+Bear gardon.	4	0
+Bear lane.	6	0
+Bear st.	14	0
+Beatrice rd.	2	0
+Beauchamp st.	9	1
+Beaufort buildings.	36	3
+Beaufort grdns.	43	8
+Beaufort st.	92	28
+Beaumnt st.	56	23
+Beaumont place.	4	0
+Beaumont sq.	28	6
+Beaumont street.	1	0
+Beckway st.	6	0
+Bedfordbury.	19	1
+Bedford chambers.	0	0
+Bedford grdns.	71	14
+Bedford pl.	41	14
+Bedford row.	159	0
+Bedford square.	63	6
+Bedford square east.	17	5
+Bedford st 1.	0	0
+Bedford st 2.	20	6
+Bedford st 3.	81	5
+Bedford street 1.	4	0
+Bedford street 2.	0	0
+Bedford street 3.	2	0
+Bedford street 4.	3	0
+Bedford ter.	0	0
+Bedford terrace.	12	2
+Bedfrd ct.	12	0
+Beech lane.	2	0
+Beech st.	54	2
+Beehive pass.	5	1
+Beer lane.	22	1
+Belgrave mansions.	12	4
+Belgrave mews west.	1	0
+Belgrave mws east.	7	0
+Belgrave rd.	119	28
+Belgrave road.	33	10
+Belgrave square.	66	5
+Belgrave st 1.	43	11
+Belgrave st 2.	2	0
+Belgrave ter.	0	0
+Bell alley.	1	0
+Bell court 1.	1	0
+Bell court 2.	1	0
+Bell lane.	3	0
+Bells buildings.	2	0
+Bell sq.	2	0
+Bell st.	47	7
+Belltha villas.	39	10
+Bell wharf lane.	1	0
+Bell yard 1.	6	0
+Bell yard 2.	31	0
+Bell yd.	5	0
+Belmont street.	6	1
+Belsize park.	0	0
+Belsize road.	155	54
+Belsize square and terrace.	1	0
+Belvedere p1.	2	0
+Belvedere road.	70	2
+Bemerton st.	31	1
+Benjamin st.	3	0
+Ben Jonson road.	71	2
+Bennets hill.	15	0
+Bennett street 1.	10	1
+Bennett street 2.	11	2
+Bentinck mews.	3	0
+Bentinck st 1.	3	0
+Bentinck st 2.	26	9
+Bentinck st 3.	1	0
+Bentinkter.	12	8
+Bentley rd.	2	0
+Benwell rd.	72	13
+Benyon road.	36	7
+Beresford road.	56	22
+Beresford st.	44	5
+Beresford ter.	6	3
+Bere Street.	1	0
+Berkeley chambers.	0	0
+Berkeley gardens.	10	3
+Berkeley mews.	1	0
+Berkeley mews west.	2	0
+Berkeley road.	7	0
+Berkeley sq.	48	4
+Berkeley street 1.	2	0
+Berkeley street 2.	10	3
+Berkley street 1.	10	1
+Berkley street 2.	5	0
+Bermndsey skin market.	8	0
+Bermondsey leather market.	10	0
+Bermondsey New road.	81	3
+Bermondsey sq.	18	1
+Bermondsey st.	152	4
+Bermondsey wall.	29	1
+Bernard mews.	1	0
+Bernard street 1.	11	4
+Bernard street 2.	38	10
+Berners mews.	13	0
+Berners rd.	1	0
+Berners street.	115	12
+Berner street.	9	0
+Berry street.	3	0
+Berwick st.	7	0
+Berwick street.	102	1
+Bessboro gardens.	37	4
+Bessborough p1.	10	0
+Bessborough street.	37	11
+Beta pl.	2	2
+Bethnalgreen road.	380	33
+Betterton street.	18	0
+Betts st.	7	1
+Bevenden st.	33	1
+Bevington rd.	5	1
+Bevis marks.	35	1
+Bickley row.	8	0
+Bidborough street.	7	0
+Billingsgate.	0	0
+Billiter sq 1.	41	0
+Billiter st 2.	33	0
+Bina gardens.	7	2
+Bingfield street.	39	1
+Birchfield street.	7	1
+Birchin la.	41	1
+Bird in Hand court.	5	0
+Birds mews.	1	0
+Bird st.	8	0
+Bird street.	15	1
+Bishops court 1.	2	0
+Bishops court 2.	4	0
+Bishopsgate avenue.	0	0
+Bishopsgrate churchyrd.	4	0
+Bishopsgrate st within.	579	11
+Bishops mews.	2	0
+Bishops rd 1.	59	3
+Bishops rd 2.	0	0
+Bishops ter.	0	0
+Bisterne p.	0	0
+Blackfriars road.	243	24
+Blackheath.	0	0
+Blackheath hill and rd.	0	0
+Blackhorse rd.	5	0
+Blackhorse yard.	1	0
+Black Horse Yard.	6	0
+Blacklands ter.	12	0
+Black Lion yard.	2	0
+Blackman street.	102	5
+Blackmoor st.	21	1
+Black Raven ct.	5	2
+Blackstock rd.	36	5
+Black Swan alley.	1	0
+Black Swan yd.	0	0
+Blackthorn st.	10	2
+Blackwall.	33	0
+Blagrove road.	6	0
+Blakesley st.	1	0
+Blandford mews.	3	0
+Blandford pl.	10	3
+Blandford sq.	45	19
+Blandford st.	39	7
+Blantyrest.	10	2
+Blechynden mews.	8	0
+Blechynden st.	17	3
+Bleeding Hart yard.	5	0
+Blenheim crescent.	113	43
+Blenheim mews.	2	0
+Blenheim passage.	7	0
+Blenheim place.	8	3
+Blenheim road.	27	9
+Blenheim st 1.	10	2
+Blenheim st 2.	11	1
+Blenheim street.	5	1
+Blenheim ter 1.	0	0
+Blenheim ter 2.	17	1
+Blenheim vlls.	0	0
+Blenhelm villas.	23	7
+Blomfield crescent.	7	1
+Blomfield mews.	1	0
+Blomfield place.	1	0
+Blomfield rd.	58	19
+Blomfield st.	36	14
+Blomfield street.	48	2
+Blomfield terrace.	0	0
+Blondin st.	5	0
+Bloomfield place.	4	0
+Bloomfield road.	7	1
+Bloomfield terrace.	13	3
+Bloomsbury ct.	4	0
+Bloomsbury place.	10	0
+Bloomsbury sq.	61	7
+Bloomsbury st.	46	6
+Blossom st.	2	0
+Blount st.	8	0
+Blue Anchor alley.	6	1
+BlueAnchor la.	24	2
+Blue Anchor road.	176	7
+Blue Boar ct.	6	0
+Bluecross st.	10	2
+Blundell street.	11	2
+Blythe street.	5	0
+Blyth ter.	1	0
+Boars Head court.	1	0
+Boars Head yard.	0	0
+Bolsover st.	62	7
+Bolt court.	22	0
+Bolton gardens south.	2	0
+Bolton grdns.	25	2
+Bolton rd 1.	3	0
+Bolton rd 2.	34	4
+Bolton row.	18	2
+Boltons.	29	3
+Bolton st.	31	8
+Bolton street.	12	0
+Bolton yard.	1	0
+Bombay st.	5	0
+Bomore road.	14	1
+Bonchurch rd.	24	4
+Bond court.	41	1
+Bond st 1.	0	0
+Bond st 2.	2	0
+Bond st 3.	7	0
+Bond st 4.	12	1
+Bond street.	0	0
+Bonny st.	4	0
+Bookham st.	10	1
+Booth street.	6	0
+Boot street.	3	0
+Borough High st.	320	4
+Borough market.	55	4
+Borough road.	97	7
+Boscobel gardens.	31	7
+Boscobel place.	9	0
+Bostock st.	2	0
+Boston mews.	1	0
+Boston pl.	22	2
+Boston st.	2	0
+Boston street.	28	4
+Boswell ct.	8	0
+Botolph alley.	10	1
+Botolph lane.	48	1
+Boundary lane.	2	0
+Boundary mews.	7	0
+Boundary road.	128	17
+Boundary rw.	2	0
+Boundary st.	10	0
+Bouverie st.	60	0
+Bouverie street.	4	0
+Bow churchyd.	7	0
+Bow common lane.	75	6
+Bow comn.	17	0
+Bowden street.	4	0
+Bowen street.	2	0
+Bow lane 1.	77	0
+Bow lane 2.	11	1
+Bowles road.	2	0
+Bowley st.	3	0
+Bowling green lane.	23	0
+Bowling green street.	6	0
+Bowling grn wlk.	2	0
+Bowmans buldngs.	1	0
+Bow road.	265	30
+Bow st.	34	4
+Boxworth grove.	8	1
+Boy ct.	5	0
+Boyle st.	3	1
+Boyne ter.	7	1
+Boyson road.	30	4
+Boziers ct.	5	0
+Brabant court.	34	0
+Brackley street.	1	0
+Bracklyn street.	7	0
+Bradleys buildings.	2	0
+Bradwell street.	1	0
+Brady street.	85	9
+Bramley road.	45	7
+Branch place.	4	0
+Brandon road.	5	1
+Brandon street 1.	3	0
+Brandon street 2.	28	1
+Brand st.	2	0
+Braziers buildings.	2	1
+Bread st hill.	16	0
+Bread street.	90	0
+Breams buildings.	2	0
+Brecknock cres.	15	6
+Brecknock road.	157	34
+Brecknock terrace.	0	0
+Breezers hill.	1	0
+Brenton street.	2	0
+Bretts buildings.	3	0
+Brewer st north.	10	1
+Brewer street 1.	1	1
+Brewer street 2.	64	5
+Brewer street 3.	5	0
+Brewer street 4.	8	0
+Brewer street 5.	18	1
+Brewery road.	20	0
+Brewhouse lane.	4	0
+Brewhouse yard.	3	0
+Brick court.	0	0
+Brickhillla.	3	0
+Brick la.	152	9
+Brick st.	6	1
+Bride court.	7	0
+Bride lane.	13	0
+Bride st.	17	3
+Bridewell place.	14	0
+Bridge pl 1.	0	0
+Bridge pl 2.	3	0
+Bridge rd mews.	0	0
+Bridge road 1.	3	0
+Bridge road 2.	11	0
+Bridge st.	29	0
+Bridge st east.	14	1
+Bridge street.	3	0
+Bridge st we.	12	1
+Bridge ter.	0	0
+Bridgewater gdns.	0	0
+Bridgewater sq.	28	4
+Bridle lane.	9	1
+Bridport pl.	96	7
+Bridport st.	3	0
+Brighton street.	3	0
+Bright st.	2	1
+Brig ter.	0	0
+Brill crescent.	2	0
+Brindley st.	1	0
+Bristol gardens.	26	6
+Bristol mews.	1	0
+Bristow street.	6	0
+Britannia pl 1.	2	0
+Britannia pl 2.	5	1
+Britannia row.	21	0
+Britannia st.	15	0
+Britannia street.	33	0
+British st.	4	2
+Britten street.	13	2
+BRIXTON.	0	0
+Brixton road.	0	0
+Broadbridge.	1	0
+Broad court.	10	1
+Broadley st.	1	1
+Broadley terrace.	12	1
+Broad Sanctuary.	23	2
+Broad st.	4	0
+Broad st1.	57	3
+Broad st 2.	51	5
+Broad st 3.	22	2
+Broad st buildings.	3	0
+Broad street.	61	2
+Broadwall.	41	4
+Broadway 1.	0	0
+Broadway 2.	19	1
+Broadway 3.	28	3
+Brockley road.	0	0
+Brodie st.	2	1
+Brokers alley.	1	0
+Bromehead st.	4	1
+Bromley ball.	4	0
+Bromley st.	52	11
+Brompton cres.	55	17
+Brompton road.	267	21
+Brompton square.	55	26
+Bronti place.	10	0
+Brooke st.	28	1
+Brook mews north.	11	1
+Brooksby street.	21	2
+Brooks mews.	3	0
+Brook street 1.	0	0
+Brook street 2.	4	0
+Brook street 3.	107	12
+Brook street 4.	69	8
+Broomfield st.	4	0
+Brownlow mews.	3	0
+Brownlow st.	19	0
+Brownlow street.	1	0
+Browns buildgs.	10	0
+Browns buildings.	0	0
+Browns ct.	3	0
+Brown st 1.	35	5
+Brown st 2.	5	0
+Brucerd.	17	1
+Brunei street.	2	1
+Brunswick close.	5	1
+Brunswick gardens.	37	12
+Brunswick mews.	1	0
+Brunswick mws.	3	0
+Brunswick pl.	8	2
+Brunswick place.	41	2
+Brunswick road.	37	4
+Brunswick row.	1	0
+Brunswick sq.	40	5
+Brunswick st 1.	4	0
+Brunswick st 2.	39	3
+Brunswick st 3.	4	1
+Brunswick st 4.	33	0
+Brunswick st 5.	13	1
+Brunswick ter 1.	7	3
+Brunswick ter 2.	18	3
+Brunswick villas.	0	0
+Brunswick yard.	0	0
+Brushfield street.	73	5
+Bruton st.	60	6
+Bryan pl.	5	0
+Bryanston place.	3	0
+Bryanston square.	56	13
+Bryanston street.	56	13
+Bryan street.	6	0
+Bryantwood road.	51	10
+Buckenham square.	1	0
+Buckeridge st.	2	0
+Buckingham chambers.	0	0
+Buckingham cotts.	1	0
+Buckingham palace gate.	13	1
+Buckingham palace road.	202	30
+Buckingham pl.	0	0
+Buckingham rd.	66	11
+Buckingham street 1.	10	0
+Buckingham street 2.	106	4
+Buckingham ter.	5	0
+Buckland street.	6	0
+Bucklersbury.	50	0
+Buckle st.	7	0
+Buck street.	6	0
+Budgre row.	101	0
+Bull and Mouth st.	28	0
+Bullingham pl.	3	3
+Bull Inn court.	7	0
+Bulls Head passage.	10	0
+Bulstrode mews.	3	0
+Bulstrode st.	16	3
+Bunhill row.	104	4
+Burcham st.	2	0
+Burdett rd.	274	25
+Burdett st.	1	0
+Burgess street.	3	0
+Burghley road.	47	10
+Burleigh street.	12	0
+Burlington arcade.	43	8
+Burlington chambs.	0	0
+Burlington gardens.	6	1
+Burlington mews.	4	0
+Burlington road.	60	22
+Burne street.	15	1
+Burnett st.	2	0
+Burnside st.	3	0
+Burn street.	3	0
+Buross street.	7	0
+Burr st.	13	1
+Burton crescent.	53	21
+Burton street.	11	0
+Burwood mews.	4	0
+Burwood place.	11	3
+Bury court.	21	0
+BuryingGround passage.	1	0
+Bury pl.	3	0
+Bury st.	35	0
+Bury st 1.	10	1
+Bury st 2.	51	6
+Bury street.	2	0
+Busby place.	22	4
+Bushells rents.	1	0
+Bush la.	50	1
+Bush road.	13	0
+Butcher row 1.	6	2
+Butcher row 2.	10	1
+Bute street.	8	0
+Butlers buildings.	1	0
+Butlers place.	5	0
+Buttesland st.	15	0
+Buxton street.	10	1
+Bydes Pl.	1	0
+Byng Pl.	5	2
+Byng street.	2	0
+Byron st.	2	1
+Byron street.	3	1
+Bywater street.	5	1
+
+all b streets.	14021	1465
