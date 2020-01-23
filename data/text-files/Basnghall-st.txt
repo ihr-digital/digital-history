@@ -1,0 +1,351 @@
+Basnghall.st,
+(E.C.)
+(CITY) 91 Greshamst.21 London wall.
+MAP N8, N9.
+1 Long Saml. & Co. woollen manfrs
+Pullen Thomas James, solicitor
+Ross & Glendining, merchants
+Fish Joseph C. translator
+Ward & Sons,gun manufacturers
+Ward Albert Thomas, factor
+Weston John & Co. bill brokers
+GRESHAM BUILDINGS :—
+1 BallJohnBall&Co.accountants
+Benham James Erle
+Benham Mark Benjamin
+Benham & Co. engineers
+Chapman James & Co.solicitors
+Creditors’Mercantile Association.Gamble & Harvey, proprs
+Faehse Robert, merchant
+Gamble & Harvey, accountants
+Goodchild J.E.& Son,surveyors
+Greenlees Brothers, distillers
+Harcourt, Williams & Co. australian merchants
+Harvey &Greenacre,colnl.mers
+HawsRt.Tyndale,public acctnt
+Joachim Henry, wool broker
+Joint Stock Discount Co..(in liquidation),Henry Spain, accountant
+Jones David & Co. merchants
+King John Trim, austrln. mer
+King SamuelGrey,austrln.mer
+Le Rossignol Francis,architect
+Lee Edward, solicitor
+Linsdell & Giffard, architects
+Lockyer George, solicitor
+LondonMercantileBuilding Soc.James Heneage Ginder, sec
+Macfarlane, sen. & Co. west india merchants
+Midland Counties Insurance Co. Lorenzo E. Mawer, manager
+Newry & Armagh Railway Co.. Chas.Hy.Andrewes,Lond.sec
+Sillifant & Whitcombe,acctnts
+Smith William, architect
+Spain, Andrewes & Spain, accountants
+Spitzly John,commission agnt
+Walker Son & Field, solicitors
+WarmingtonGeo.Sept.solicitor
+2 Archer Thomas S. architect
+Ashworth John J. & Brothers, linen manufacturers
+Beddow Josiah & Son,accntnts
+Bedford Robt.commissn.agent
+Boulton Thomas, solicitor
+Butterfleld Brothers, merchts
+British Syphon Manufactory
+Carter Henry, manufrs.’ agent
+Carter Thos. Fuller, accountnt
+CityofLondonConservative Assoc.Edwin Hughes, sec
+Collens William Jas. solicitor
+EhrmannBros.wine merchants
+EhrmannFerdinandB.frgn.agt
+EugsterJsph.&Co.commis.agts
+Evans & Peirson, accountants
+Faulding F.H. & Co.merchants
+Fenner,Hilton&Gifford,accnts
+Field,Son&Eldridge,hat manfs
+Fitzmaurice Thos. auctioneer
+Gard & Corbin, solicitors
+Godfrey Albert Speed, solicitor
+Good, Toms & Co. merchants
+Henwood Paul, african mercht
+Hinings F. & Sons, stuff ma
+Holmes Geo. Hill, accountant
+Hughes & Son, solicitors
+HumeJ. &Co. manuftrng.clthrs
+Hutchinson Bury Victor,solictr
+Ingram Archibald B. acoutnt
+KirkWm. & Son,linen manufrs
+Levy Edwin
+Riddel Joseph, translator
+Sanderson&Murray,wool mers
+Sanderson, Murray & Co. mers
+Schofield James & Sons Limited, flannel manufacturers
+Sharpe Ernest R. accountant
+Shaw & Co. coal factors
+Tucker Robert & Co. merchts
+WalterJohnHy.manufrs.agent
+WetherfieldGeo.Manley,solictr
+White W. & J. & Co. brick & tile merchants
+9 to 11 Whittow W.S. & Co.leather factors & merchants
+10 Arnold Thomas, architect
+Beard & Sons, solicitors
+Buchanan & Rogers, solicitors
+Central London District School, George Edwd. East, clerk
+Champness John Henry & Co. accountants
+Downing William Alex, solicitor
+East George Edward, solicitor
+Heaps John & Son, auctioneers
+HughesHy.P.&Sons, wool brokrs
+10 Johnstone & Co. insurnc brokrs
+Low George, architect & surveyr
+Mann H.y, Son & Co. merchnte
+Mann John Thomas
+Nelson Richd. & Co. accountants
+SchwarzFdk.Maximilian,mercht
+Sherratt Thomas, engraver
+Winstanley Herbert, architect
+12 Bell, JamesRichd.Rbt.Lawrence
+here is Mason’s avenue
+15 Jones John E. account. & survyr
+Barnett Wm. commission mer
+Olin Louis M. E. law stationer
+Sharp John, merchant
+Titterton Chas.Thos. accountant
+Neill Thomas O’Neill, hosier
+16 Thompson & Giles, col. merchte
+Northcote Chas. colonial agent
+Smart & Son, accountants
+Wood Drew & Son, law stationers
+17 & 18 Thomas & Cook,wool broks
+17 Hobbs & Humphreys,woollen wa
+18 Haddon & Sons, worsted spinnrs
+18A, GRESHAM ROOMS :—
+Buxton & Davidson,wool brkrs
+Davis Mark, solicitor
+Holl Henry, wine merchant
+Skeet R. H. & Co. woolln.mers
+Susman Adolphuns, leather mer
+Tayler George, canvas agent
+Terry John F. woollen agent
+Thomson Malcolm Colquhon, sail cloth maker
+Yoxall Samuel, woollen agent
+19 Belgian Glass Co. (The)
+Belgian Government Mail Steam Packets, Jules Houdret, agent
+De Grelle Chas. & Co. merchants
+Houdret Jules,belgian vice-consl
+Hart Melbourne & Co. cigar merchants
+20 & 21 BrunninghausenM. woolmer
+SeweningHermn.Wltr.trsltr
+Beath, Schiess & Co. australian merchants
+Acton MaxB.& Co. com.mers
+Windeler & Bowes, wool brks
+22 WEAVERS’ HALL. :—
+Banes Michael, accountant
+Brown Walter William, solicitor
+Christie,King&Co.austrlian. mrs
+Conrad Herman & Co.merchants
+Craig John, commisn. merchant
+Dremel Augustus &Co.wine mers
+Farmer John, australian mercht
+Gordon & Lowther, architects
+Harrison James, architect
+Harvey Edwd. & Co.accountants
+Hodgkiss John & Co. merchants
+Hodgson, Stein & Co. merchants
+Jones, Scott & Co. merchants
+Krebs Brothers & Co. explosives manufrs. Wm. Seyd, agent
+Knight Harry Egerton, accntnt
+Michaelis, Hallenstein & Co. australian merchants
+Murray David, com. agent
+Retter H. & Co. merchants
+Ross Hamilton, commission mer
+Steer John Joseph, accountant
+Weaver, Craig & Orrock, warehousemen
+24 Gresham (Wm.)& Davies,solictrs
+High Bailiff of Southwark (Office)
+HallMartinChirgwin,woolln.mer
+Lewis Lewis, woollen warehomn
+Lewis & Whitbourne, solicitors
+Lowenstein Solomon, merchant
+Nicholson Fras.J.commssn. agnt
+Nottingham Manufactng.Co.Lim..Thomas Anthony, agent
+Preedy Henry Wilson, woollanagt
+Press Charles, commission agent
+Stancomb Bros, woollen manufrs
+here is Sambrook court
+26 Lawton & Sons, flannel manfrs
+Strauss Adolph& Co. fancy goods importers
+27 Earl Daniel, woollen merchant
+Carless Plaxton, oil & color mer
+Haigh Brothers, merchants
+28 Dunn Brothers, wool brokers
+Dunn Hy.Martin & Co.wool mers
+here is Bevois court
+28A, Eiermann & Tabor, bronze powder makers
+Forrester & Death, private enquiry office
+Seymour WalterHy. woollen mer
+Stagg Leonard C. general mer
+Scott Stephen, solicitor
+29 Katsch August Traugott,importr
+Buckley JohnB. wooln. warehsmn
+Whitlam George, carpenter
+30 Chamberlain Jhn. Matthews,solr
+GUILDHALL CHAMBERS:—
+1 Atkinson & Smith, merchants
+BreckelsJhn.Hy.R.accountnt
+Clarke Henry& Co. shoe makrs
+Dunn Jas. Edward. solicitor
+Keep, Parsons & Co.merchts
+Merkle & Ferd. & Co.merchants
+Morum Brothers, merchants
+Pannell Wm. H. & Co. accnts
+Parnell William, auctioneer
+Pittman & Woodman, acntnts
+Reed & Lovell, solicitors
+Reed Eugene E. B. solicitor
+Robertson Wm. accountant
+Ryall & King,cape merchants
+Slater & Co. accountants
+2 Alabaster Richd. accountant
+Parker & Co. comsn. merchts
+Peddell John James, solicitor
+Perry Walter & Co. publishers
+Perry Geo.Jas.Edgar,architct
+Perry Joseph, solicitor
+WeightmanJas.Milward,solcr
+3 Brown, Ewing & Co. merchts
+Geard & Son, commisn. mers
+Girling Thos. Barker, solicitor
+Hook A. & Co. cigar merchants
+Jarvis Alfd. Ernest, accntant
+Mendelsohn Max, winemrchant
+Randle Samuel Beavis, commission agent
+RudowskyCarlA. commsn.agt
+Stewart & Hemment, mrchnts
+Thompson, Shannon & Co. merchants
+2A, Robins & Peters, solicitors
+4Dryland Thomas
+Philpott Harry John V. solcr
+Grobecker & Kattengell, mers
+Morris Geo. S. cape merchant
+Gernsheim Bernrd. leathr.mer
+5 Durant Benjamin C. solicitor
+Durant Thomas, solicitor
+Gover John Richd. architect
+De Luca G. V. merchant
+Pessina G. cheese factor
+Pettis Hen. Wyndham, accnt
+6 Chandler Dan. Edwin, solicitor
+Hale FrancisJohn, accountant
+Pittman Jas. Banks, solicitor
+Smart Jackson W. solicitor
+SmithJas. Wm.&.Co. accntnts
+Young L. & Co. accountants
+33 Underwood, Penfold & Co. wine & spirit merchants
+34 Dawson Geo. boot & shoe maker
+Smith David, tailor
+Simmons Thomas, tailor
+Tuteur Emil, commission mer
+35 Buckley & Sons, who. hat mnfrs
+Taylor Wm. Thos. pocket bk. ma
+Richardson Wm. pocket book ma
+Poulter Driffell & Co. hat manufrs
+Torry Harold, estate agent
+Buck Rbt.R.& Sons, woollen mans
+36 City of London Tea Company, Wm. Hughes, manager
+Birnstingl Louis & Co. bead mers
+Davidge Fredk. east india agent
+Compagnie G&eacute;n;eacute;rale des Allumettes, Paris, J.Flachfeld&Co
+Continental Caoutchouc & Gutta Percha Co. J.Flachfeld&Co
+Dumeril & Bouveur (St. Omer), clay pipe makers, J. Flachfeld & Co
+Flachfeld J. & Co. merchants
+Hanover Vulcanite Co. J. Flachfeld & Co
+Holmes William, lithographer
+Hergaard, Engguist & Co.factors
+McCabe & Company, merchants
+Rosenbaum Martin, merchant
+Schlesinger Henry & Co. fancy label manufacturers
+Thaege Oscar, straw hat manufr
+39 GIRDLERS’ HALL, Geo. Edwd. Philbrick, clerk
+41 Chappell & Gibbons, solicitors
+Cron, Porter & Co. comsn. agts
+Hyman Hyman, jeweller
+Little Henry Bowman, builder
+here is Shutter’s court
+44 Beesty Jas. Wm.&Co.leather mers
+Lee George, wholesale milliner
+Fohrweisser A. F. commsn. mer
+here is Evans court
+45 Wetherell Robert, private hotel
+Myers Moss, auctioneer
+Holland Hy. umbrella rib maker
+46 CohenAlbert & Edwd. merchants
+Illfelder Leopold, toy merchant
+Dyer, Shorter & Co. merchants
+Shorter & Co. merchants
+49 Dawson Jsph.&Sons. exp. bootma
+here is London wall
+53 Red Lion, Wm. Hy. Burgoyne
+55 Kent John James, accountant
+Campbell & Alexander, sewing cotton manufacturers
+Dunlop Colin H. & Co. sewing cotton manufacturers
+Stirling & Thomson, sewing cotton manufacturers
+Rogerson DavidParnell,engraver
+Beatty, Altgeldt & Co.merchants
+Booth Thomas Wolstencroft, commission agent
+Matthews Wm.umbrella matl. ma
+57 Hoole James & Co. ironmongers
+PlattThos. commercl.boardng.ho
+58 Joseph Geo. J. & Co.export mers
+Hooper Samuel Richard, umbrella material manufacturer
+59 Griesselich Henry&Co.com. mers
+Dobson Alfred B. merchant
+Winter G. & Co. merchants
+Hirsch David, leather merchant
+60 Schofield Jsph. who. haberdasher
+Brown John, manufacturers’ agt
+Clark & Bell, shirt manufacturs
+61 Eder David M. & Co. export mers
+Hart, Dibben & Co. woollen wa
+Oesterreicher Wm. commsn. mer
+62 BendixenMrs.Carl C. leather mer
+Burrowes & Co. ostrich feather merchants
+Harrison & Wells, auctioneers &c
+Wells Arthur
+63 Renninger Chas. agent&importer
+Goodall Frank, woollen agent
+64 Fysh Philip Oakley & Co. australian merchants
+Johnson & Co.Lim.export brwrs
+Kendrick Henry Bazley & Co. Limited, woollen merchants
+McGregor Hugh,wooln. warhsmn
+65 Carter J. & Edward, warehsmen
+Smith (Sydney) & Co.accountants
+Pocock Noel Lewis, solicitor
+NevilleThs.button warehousemn
+Wilson & Son, solicitors
+Wood Hubert, solicitor
+Shorter & Jolliffe, wine &c. mers
+66 Jennings John, cotton manufctr
+Craymer & Co. who. milliners
+Elsworth Hy. collector of taxes
+Skotzky Jacob, fringe maker
+67A, Monk William, agent
+67 Coupland&Co. whalebone cutters
+67A, GoodallHy.manufacturers’ agt
+68 Krausse & Auerbach, forgn. agts
+69 LeMarelsaac D.&Son, shoe mrcrs
+SchoveHermann,fancy goods agt
+Tarring & Harvey, auctioneers
+Tarring & Wilkinson, architects
+70 Butterworth Brothers, merchnts
+Carr, Bannister, Davidson & Morriss, solicitors
+Hall&Pringle,manufacturers’agt
+Weavers’ Co. Alfred Carr, clerk
+here is Church passage
+ST. MICHAEL’S CHURCH
+71 COOPERS’ HALL,Jno.Boyer,clrk
+GUILDHALL LIBRARY
+82 General Register & Record Office of Shipping & Seamen
+here are Guildhall buildings
+84 Lindsay, Mason & Greenfield, solicitors
+Moos David, importer of muslins
+Orion Charles James, solicitor
+Commercial Wine Company
+GRESHAM COLLEGE
