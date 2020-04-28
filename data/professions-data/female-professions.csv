@@ -1,135 +1,111 @@
-acetic acid maker,1
-army accoutrement maker,1
-artificial florist,1
-artist,1
-babylinen warehouse,3
-bag maker,1
-baker,9
-bedding maker,2
-beer retailer,10
-berlin wool warehouse,1
-biscuit baker,1
-boarding house,2
-bonnet maker,2
-bookbinder,1
-bookseller,1
-bootmaker,8
-braidmanfctr,1
-brushmaker,2
-butcher,8
-cabinet maker,1
-carman,1
-carpenter,1
-cart owner,1
-chandler's shop,24
-cheesemonger,4
-china dealer,1
-church embroideress &amp;c,1
-coal dealer,1
-cocoa mat ma,1
-coffee rooms,16
-confectioner,12
-corndealer,6
-corset maker,2
-court dressmaker,2
-cowkeeper,2
-dairy,8
-day school,2
-dealer in fancy goods,1
-dining rooms,5
-draper,1
-dressmaker,34
-dressmakr,2
-dyer,4
-engraver,1
-fancy drpr,1
-fancy rep,1
-farrier,1
-feather distributer,1
-feather dyer,1
-free emigration agency,1
-fruiterer,6
-furniture dealer,3
-glass bottle manufacturers,1
-gold beater,1
-governesses'agent,1
-greengrocer,7
-grindery dealer,1
-grocer,18
-haberdasher,7
-hairdresser,4
-ham&amp;beef dlr,1
-hatter,1
-head mistress,1
-herbalist,2
-hon. sec,1
-hosier,5
-inspector of weights &amp; measures,1
-ironmonger,1
-ivory merchant,1
-jeweller,1
-jobmaster,1
-lace cleaner,2
-lace maker,1
-ladies school,1
-ladies' employment agency,1
-ladies' outfitter,1
-ladies' outftr,1
-ladies' schl (Bullingham house),1
-ladies' schl,3
-ladies' school,4
-lady superintendent,3
-laundress,5
-leatherseller,1
-library,1
-linen collar maker,1
-linendraper,5
-lodging house,44
-manageress,1
-matron,8
-midwife,4
-milliner,31
-mourning warehouse,1
-newsagent,4
-newsvendor,2
-oil &amp; color warehouse,9
-ostrich feather dealer,1
-pastrycook,2
-pawnbroker,3
-perambulator maker,1
-perfumerer,1
-pianoforte silker,1
-piece broker,1
-potato salswomn,1
-preparatory school,1
-private hotel,3
-prof of dancing,1
-proprietor,2
-provision dlr,1
-rag dealer,1
-registry office for servants,3
-saddler,1
-school,9
-secretary,3
-seminary,3
-shirt &amp; collar dresser,3
-sponge dealer,1
-stationer,10
-staymaker,7
-straw hat maker,1
-superintendant,1
-superioress,1
-teacher of music,1
-theatrical costumier,3
-tinplate worker,1
-tobacconist,12
-toyseller,4
-trunk maker,1
-turner,1
-upholsterer,2
-vellum binder,1
-veterinary surgeon,1
-vocalist,1
-wardrobe dealer,5
-widows' cap maker,1
-wine merchant,1
+1,acetic acid maker
+1,army accoutrement maker
+1,artificial florist
+1,artist
+1,bag maker
+9,baker
+2,bedding maker
+10,beer retailer
+1,biscuit baker
+1,boarding house
+2,bonnet maker
+1,bookbinder
+1,bookseller
+8,boot maker
+1,braidmanufacturer
+2,brush maker
+8,butcher
+1,cabinet maker
+1,carman
+1,carpenter
+1,cart owner
+4,cheesemonger
+1,china dealer
+1,church embroideress
+1,coal dealer
+1,cocoa maker
+12,confectioner
+1,corn chandler
+5,corn dealer
+2,corset maker
+2,cowkeeper
+1,dealer in fancy goods
+1,draper
+39,dressmaker
+4,dyer
+1,engraver
+2,fancy draper
+1,farrier
+2,feather dyer
+7,fruiterer
+2,furniture broker
+1,glass bottle manufacturers
+1,gold beater
+1,governesses' agent
+7,greengrocer
+1,grindery dealer
+18,grocer
+7,haberdasher
+4,hairdresser
+1,ham &amp; beef dealer
+1,hatter
+1,head mistress
+2,herbalist
+1,hon. sec
+5,hosier
+1,inspector of weights &amp; measures
+1,ironmonger
+1,ivory merchant
+1,jeweller
+1,jobmaster
+2,lace cleaner
+1,lace maker
+2,ladies' outfitter
+3,lady superintendent
+5,laundress
+1,leatherseller
+1,linen collar maker
+5,linendraper
+1,manageress
+8,matron
+4,midwife
+31,milliner
+5,newsagent
+1,newsvendor
+1,ostrich feather dealer
+2,pastrycook
+3,pawnbroker
+1,perambulator maker
+1,perfumer
+1,pianoforte silker
+1,piece broker
+1,potato seller
+1,private hotel
+1,prof of dancing
+2,proprietor
+1,provision dealer
+1,rag dealer
+2,registry office for servants
+1,saddler
+3,secretary
+2,shirt &amp; collar dresser
+1,shirt maker
+1,sponge dealer
+10,stationer
+7,staymaker
+1,straw hat maker
+1,superioress
+1,teacher of music
+3,theatrical costumier
+1,tinplate worker
+12,tobacconist
+3,toy dealer
+1,trunk maker
+1,turner
+2,upholsterer
+1,vellum binder
+1,veterinary surgeon
+1,vocalist
+5,wardrobe dealer
+1,widows' cap maker
+1,wine merchant

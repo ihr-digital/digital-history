@@ -1,51 +1,33 @@
-babylinen warehouse,1
-baker,1
-berlin wool warehouse,1
-boarding house,1
-bootmaker,1
-butcher,1
-chandler's shop,2
-cheesemonger,1
-coffee rooms,1
-confectioner,5
-dairy,1
-day school,1
-draper,1
-dressmaker,13
-grocer,3
-haberdasher,2
-head mistress,1
-hon. sec,1
-hosier,1
-ladies' school,7
-lady superintendent,3
-laundress,1
-library,1
-linendraper,3
-lodging house,8
-matron,2
-milliner,12
-mourning warehouse,1
-newsvendor,1
-oil warehose,1
-perfumer,1
-pianoforte silker,1
-preprtry schl,1
-private hotel,1
-prof of dancing,1
-proprietor,1
-registry office for servants,1
-school,7
-secretary,3
-seminary,2
-sponge dealer,1
-stationer,6
-staymaker,2
-straw hat maker,1
-teacher of music,1
-theatrical costumier,1
-tobacconist,2
-toy repository,1
-trunk maker,1
-vocalist,1
-widows' cap maker,1
+1,baker
+1,boot maker
+1,butcher
+1,cheesemonger
+5,confectioner
+1,draper
+13,dressmaker
+3,grocer
+2,haberdasher
+1,head mistress
+1,hon. sec
+1,hosier
+3,lady superintendent
+1,laundress
+3,linendraper
+2,matron
+12,milliner
+1,newsvendor
+1,perfumer
+1,pianoforte silker
+1,prof of dancing
+1,proprietor
+3,secretary
+1,sponge dealer
+6,stationer
+2,staymaker
+1,straw hat maker
+1,teacher of music
+1,theatrical costumier
+2,tobacconist
+1,trunk maker
+1,vocalist
+1,widows' cap maker

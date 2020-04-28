@@ -2,9 +2,6 @@ acetic acid maker
 army accoutrement maker
 artificial florist
 artist
-babylinen warehouse
-babylinen warehouse
-babylinen warehouse
 bag maker
 baker
 baker
@@ -27,25 +24,23 @@ beer retailer
 beer retailer
 beer retailer
 beer retailer
-berlin wool warehouse
 biscuit baker
-boarding house
 boarding house
 bonnet maker
 bonnet maker
 bookbinder
 bookseller
-bootmaker
-bootmaker
-bootmaker
-bootmaker
-bootmaker
-bootmaker
-bootmaker
-bootmaker
-braidmanfctr
-brushmaker
-brushmaker
+boot maker
+boot maker
+boot maker
+boot maker
+boot maker
+boot maker
+boot maker
+boot maker
+braidmanufacturer
+brush maker
+brush maker
 butcher
 butcher
 butcher
@@ -58,54 +53,14 @@ cabinet maker
 carman
 carpenter
 cart owner
-chandler's shop
-chandler's shop
-chandler's shop
-chandler's shop
-chandler's shop
-chandler's shop
-chandler's shop
-chandler's shop
-chandler's shop
-chandler's shop
-chandler's shop
-chandler's shop
-chandler's shop
-chandler's shop
-chandler's shop
-chandler's shop
-chandler's shop
-chandler's shop
-chandler's shop
-chandler's shop
-chandler's shop
-chandler's shop
-chandler's shop
-chandler's shop
 cheesemonger
 cheesemonger
 cheesemonger
 cheesemonger
 china dealer
-church embroideress &amp;c
+church embroideress
 coal dealer
-cocoa mat ma
-coffee rooms
-coffee rooms
-coffee rooms
-coffee rooms
-coffee rooms
-coffee rooms
-coffee rooms
-coffee rooms
-coffee rooms
-coffee rooms
-coffee rooms
-coffee rooms
-coffee rooms
-coffee rooms
-coffee rooms
-coffee rooms
+cocoa maker
 confectioner
 confectioner
 confectioner
@@ -118,34 +73,17 @@ confectioner
 confectioner
 confectioner
 confectioner
-corndealer
-corndealer
-corndealer
-corndealer
-corndealer
-corndealer
+corn chandler
+corn dealer
+corn dealer
+corn dealer
+corn dealer
+corn dealer
 corset maker
 corset maker
-court dressmaker
-court dressmaker
 cowkeeper
 cowkeeper
-dairy
-dairy
-dairy
-dairy
-dairy
-dairy
-dairy
-dairy
-day school
-day school
 dealer in fancy goods
-dining rooms
-dining rooms
-dining rooms
-dining rooms
-dining rooms
 draper
 dressmaker
 dressmaker
@@ -181,31 +119,33 @@ dressmaker
 dressmaker
 dressmaker
 dressmaker
-dressmakr
-dressmakr
+dressmaker
+dressmaker
+dressmaker
+dressmaker
+dressmaker
 dyer
 dyer
 dyer
 dyer
 engraver
-fancy drpr
-fancy rep
+fancy draper
+fancy draper
 farrier
-feather distributer
 feather dyer
-free emigration agency
+feather dyer
 fruiterer
 fruiterer
 fruiterer
 fruiterer
 fruiterer
 fruiterer
-furniture dealer
-furniture dealer
-furniture dealer
+fruiterer
+furniture broker
+furniture broker
 glass bottle manufacturers
 gold beater
-governesses'agent
+governesses' agent
 greengrocer
 greengrocer
 greengrocer
@@ -243,7 +183,7 @@ hairdresser
 hairdresser
 hairdresser
 hairdresser
-ham&amp;beef dlr
+ham &amp; beef dealer
 hatter
 head mistress
 herbalist
@@ -262,18 +202,8 @@ jobmaster
 lace cleaner
 lace cleaner
 lace maker
-ladies school
-ladies' employment agency
 ladies' outfitter
-ladies' outftr
-ladies' schl
-ladies' schl
-ladies' schl
-ladies' schl (Bullingham house)
-ladies' school
-ladies' school
-ladies' school
-ladies' school
+ladies' outfitter
 lady superintendent
 lady superintendent
 lady superintendent
@@ -283,57 +213,12 @@ laundress
 laundress
 laundress
 leatherseller
-library
 linen collar maker
 linendraper
 linendraper
 linendraper
 linendraper
 linendraper
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
 manageress
 matron
 matron
@@ -378,22 +263,12 @@ milliner
 milliner
 milliner
 milliner
-mourning warehouse
+newsagent
 newsagent
 newsagent
 newsagent
 newsagent
 newsvendor
-newsvendor
-oil &amp; color warehouse
-oil &amp; color warehouse
-oil &amp; color warehouse
-oil &amp; color warehouse
-oil &amp; color warehouse
-oil &amp; color warehouse
-oil &amp; color warehouse
-oil &amp; color warehouse
-oil &amp; color warehouse
 ostrich feather dealer
 pastrycook
 pastrycook
@@ -401,41 +276,25 @@ pawnbroker
 pawnbroker
 pawnbroker
 perambulator maker
-perfumerer
+perfumer
 pianoforte silker
 piece broker
-potato salswomn
-preparatory school
-private hotel
-private hotel
+potato seller
 private hotel
 prof of dancing
 proprietor
 proprietor
-provision dlr
+provision dealer
 rag dealer
 registry office for servants
 registry office for servants
-registry office for servants
 saddler
-school
-school
-school
-school
-school
-school
-school
-school
-school
 secretary
 secretary
 secretary
-seminary
-seminary
-seminary
 shirt &amp; collar dresser
 shirt &amp; collar dresser
-shirt &amp; collar dresser
+shirt maker
 sponge dealer
 stationer
 stationer
@@ -455,7 +314,6 @@ staymaker
 staymaker
 staymaker
 straw hat maker
-superintendant
 superioress
 teacher of music
 theatrical costumier
@@ -474,10 +332,9 @@ tobacconist
 tobacconist
 tobacconist
 tobacconist
-toyseller
-toyseller
-toyseller
-toyseller
+toy dealer
+toy dealer
+toy dealer
 trunk maker
 turner
 upholsterer

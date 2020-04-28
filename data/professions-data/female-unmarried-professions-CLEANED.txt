@@ -1,20 +1,12 @@
-babylinen warehouse
 baker
-berlin wool warehouse
-boarding house
-bootmaker
+boot maker
 butcher
-chandler's shop
-chandler's shop
 cheesemonger
-coffee rooms
 confectioner
 confectioner
 confectioner
 confectioner
 confectioner
-dairy
-day school
 draper
 dressmaker
 dressmaker
@@ -37,29 +29,13 @@ haberdasher
 head mistress
 hon. sec
 hosier
-ladies' school
-ladies' school
-ladies' school
-ladies' school
-ladies' school
-ladies' school
-ladies' school
 lady superintendent
 lady superintendent
 lady superintendent
 laundress
-library
 linendraper
 linendraper
 linendraper
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
 matron
 matron
 milliner
@@ -74,28 +50,14 @@ milliner
 milliner
 milliner
 milliner
-mourning warehouse
 newsvendor
-oil warehose
 perfumer
 pianoforte silker
-preprtry schl
-private hotel
 prof of dancing
 proprietor
-registry office for servants
-school
-school
-school
-school
-school
-school
-school
 secretary
 secretary
 secretary
-seminary
-seminary
 sponge dealer
 stationer
 stationer
@@ -110,7 +72,6 @@ teacher of music
 theatrical costumier
 tobacconist
 tobacconist
-toy repository
 trunk maker
 vocalist
 widows' cap maker
