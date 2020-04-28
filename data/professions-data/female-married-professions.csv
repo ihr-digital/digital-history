@@ -1,109 +1,96 @@
-acetic acid maker,1
-army accoutrement maker,1
-artificial florist,1
-artist,1
-baby linen warehouse,2
-bag maker,1
-baker,8
-bedding maker,2
-beer retailer,10
-biscuit baker,1
-boarding house,1
-bonnet maker,2
-bookbinder,1
-bookseller,1
-bootmaker,7
-braidmanfctr,1
-brush maker,2
-butcher,7
-cabinet maker,1
-carman,1
-carpenter,1
-cart owner,1
-chandler's shop,21
-cheesemonger,3
-china dealer,1
-church embroideress,1
-coal dealer,1
-cocoa maker,1
-coffee rooms,15
-confectioner,7
-corn chandler,1
-corndealer,5
-corset maker,2
-court dressmaker,2
-cowkeeper,2
-dairy,7
-day school,1
-dealer in fancy goods,1
-dining rooms,5
-dressmaker,24
-dyer,4
-engraver,1
-fancy draper,2
-farrier,1
-feather dyer,2
-free emigration agency,1
-fruiterer,7
-furniture broker,2
-genl.turner,1
-glass bottle manufacturers,1
-gold beater,1
-governesses' agent,1
-greengrocer,7
-grindery dealer,1
-grocer,15
-haberdasher,5
-hairdresser,4
-ham &amp; beef dealer,1
-hatter,1
-herbalist,2
-hosier,4
-inspector of weights &amp; measures,1
-ironmonger,1
-ivory merchant,1
-jeweller,1
-jobmaster,1
-lace cleaner,2
-lace maker,1
-ladies' outfitter,2
-ladies' school,4
-laundress,4
-leatherseller,1
-linen collar maker,1
-linendraper,2
-lodging house,36
-manageress,1
-matron,6
-midwife,4
-milliner,19
-newsagent,5
-oil &amp; color warehouse,8
-ostrich feather dealer,1
-pastrycook,2
-pawnbroker,3
-perambulator maker,1
-piece broker,1
-potato salswoman,1
-private hotel,1
-proprietor,1
-provision dealer,1
-rag dealer,1
-registry office for servants,2
-saddler,1
-school,2
-seminary,1
-shirt &amp; collar dresser,2
-shirt maker,1
-stationer,4
-staymaker,5
-superioress,1
-theatrical costumier,2
-tinplate worker,1
-tobacconist,10
-toy dealer,3
-upholsterer,2
-vellum binder,1
-veterenary surgeon,1
-wardrobe dealer,5
-wine merchant,1
+1,acetic acid maker
+1,army accoutrement maker
+1,artificial florist
+1,artist
+1,bag maker
+8,baker
+2,bedding maker
+10,beer retailer
+1,biscuit baker
+1,boarding house
+2,bonnet maker
+1,bookbinder
+1,bookseller
+7,boot maker
+1,braidmanufacturer
+2,brush maker
+7,butcher
+1,cabinet maker
+1,carman
+1,carpenter
+1,cart owner
+3,cheesemonger
+1,china dealer
+1,church embroideress
+1,coal dealer
+1,cocoa maker
+7,confectioner
+1,corn chandler
+5,corn dealer
+2,corset maker
+2,cowkeeper
+1,dealer in fancy goods
+26,dressmaker
+4,dyer
+1,engraver
+2,fancy draper
+1,farrier
+2,feather dyer
+7,fruiterer
+2,furniture broker
+1,glass bottle manufacturers
+1,gold beater
+1,governesses' agent
+7,greengrocer
+1,grindery dealer
+15,grocer
+5,haberdasher
+4,hairdresser
+1,ham &amp; beef dealer
+1,hatter
+2,herbalist
+4,hosier
+1,inspector of weights &amp; measures
+1,ironmonger
+1,ivory merchant
+1,jeweller
+1,jobmaster
+2,lace cleaner
+1,lace maker
+2,ladies' outfitter
+4,laundress
+1,leatherseller
+1,linen collar maker
+2,linendraper
+1,manageress
+6,matron
+4,midwife
+19,milliner
+5,newsagent
+1,ostrich feather dealer
+2,pastrycook
+3,pawnbroker
+1,perambulator maker
+1,piece broker
+1,potato seller
+1,private hotel
+1,proprietor
+1,provision dealer
+1,rag dealer
+2,registry office for servants
+1,saddler
+2,shirt &amp; collar dresser
+1,shirt maker
+4,stationer
+5,staymaker
+1,superioress
+2,theatrical costumier
+1,tinplate worker
+10,tobacconist
+3,toy dealer
+1,turner
+2,upholsterer
+1,vellum binder
+1,veterinary surgeon
+5,wardrobe dealer
+1,wine merchant

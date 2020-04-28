@@ -2,8 +2,6 @@ acetic acid maker
 army accoutrement maker
 artificial florist
 artist
-baby linen warehouse
-baby linen warehouse
 bag maker
 baker
 baker
@@ -31,14 +29,14 @@ bonnet maker
 bonnet maker
 bookbinder
 bookseller
-bootmaker
-bootmaker
-bootmaker
-bootmaker
-bootmaker
-bootmaker
-bootmaker
-braidmanfctr
+boot maker
+boot maker
+boot maker
+boot maker
+boot maker
+boot maker
+boot maker
+braidmanufacturer
 brush maker
 brush maker
 butcher
@@ -52,27 +50,6 @@ cabinet maker
 carman
 carpenter
 cart owner
-chandler's shop
-chandler's shop
-chandler's shop
-chandler's shop
-chandler's shop
-chandler's shop
-chandler's shop
-chandler's shop
-chandler's shop
-chandler's shop
-chandler's shop
-chandler's shop
-chandler's shop
-chandler's shop
-chandler's shop
-chandler's shop
-chandler's shop
-chandler's shop
-chandler's shop
-chandler's shop
-chandler's shop
 cheesemonger
 cheesemonger
 cheesemonger
@@ -80,21 +57,6 @@ china dealer
 church embroideress
 coal dealer
 cocoa maker
-coffee rooms
-coffee rooms
-coffee rooms
-coffee rooms
-coffee rooms
-coffee rooms
-coffee rooms
-coffee rooms
-coffee rooms
-coffee rooms
-coffee rooms
-coffee rooms
-coffee rooms
-coffee rooms
-coffee rooms
 confectioner
 confectioner
 confectioner
@@ -103,31 +65,18 @@ confectioner
 confectioner
 confectioner
 corn chandler
-corndealer
-corndealer
-corndealer
-corndealer
-corndealer
+corn dealer
+corn dealer
+corn dealer
+corn dealer
+corn dealer
 corset maker
 corset maker
-court dressmaker
-court dressmaker
 cowkeeper
 cowkeeper
-dairy
-dairy
-dairy
-dairy
-dairy
-dairy
-dairy
-day school
 dealer in fancy goods
-dining rooms
-dining rooms
-dining rooms
-dining rooms
-dining rooms
+dressmaker
+dressmaker
 dressmaker
 dressmaker
 dressmaker
@@ -162,7 +111,6 @@ fancy draper
 farrier
 feather dyer
 feather dyer
-free emigration agency
 fruiterer
 fruiterer
 fruiterer
@@ -172,7 +120,6 @@ fruiterer
 fruiterer
 furniture broker
 furniture broker
-genl.turner
 glass bottle manufacturers
 gold beater
 governesses' agent
@@ -226,10 +173,6 @@ lace cleaner
 lace maker
 ladies' outfitter
 ladies' outfitter
-ladies' school
-ladies' school
-ladies' school
-ladies' school
 laundress
 laundress
 laundress
@@ -238,42 +181,6 @@ leatherseller
 linen collar maker
 linendraper
 linendraper
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
-lodging house
 manageress
 matron
 matron
@@ -309,14 +216,6 @@ newsagent
 newsagent
 newsagent
 newsagent
-oil &amp; color warehouse
-oil &amp; color warehouse
-oil &amp; color warehouse
-oil &amp; color warehouse
-oil &amp; color warehouse
-oil &amp; color warehouse
-oil &amp; color warehouse
-oil &amp; color warehouse
 ostrich feather dealer
 pastrycook
 pastrycook
@@ -325,7 +224,7 @@ pawnbroker
 pawnbroker
 perambulator maker
 piece broker
-potato salswoman
+potato seller
 private hotel
 proprietor
 provision dealer
@@ -333,9 +232,6 @@ rag dealer
 registry office for servants
 registry office for servants
 saddler
-school
-school
-seminary
 shirt &amp; collar dresser
 shirt &amp; collar dresser
 shirt maker
@@ -365,10 +261,11 @@ tobacconist
 toy dealer
 toy dealer
 toy dealer
+turner
 upholsterer
 upholsterer
 vellum binder
-veterenary surgeon
+veterinary surgeon
 wardrobe dealer
 wardrobe dealer
 wardrobe dealer
