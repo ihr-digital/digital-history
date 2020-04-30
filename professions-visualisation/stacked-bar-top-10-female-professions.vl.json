@@ -27,7 +27,6 @@
           { "profession": "stationer", "value": 52, "gender": 1 },
           { "profession": "beer retailer", "value": 146, "gender": 1 },
           { "profession": "baker", "value": 202, "gender": 1 },
-          { "profession": "matron", "value": 6, "gender": 1 },
           { "profession": "butcher", "value": 154, "gender": 1 }
       ]
   },
