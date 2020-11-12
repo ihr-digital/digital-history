@@ -1,6 +1,5 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "title": "Top 10 Female professions",
   "description:": "A stcked bar chart, showing the top 10 Female professions, compared with the number of Men working in those same professions.",
   "width": 400,
   "height": 400,
@@ -8,26 +7,26 @@
   
   "data": {
       "values": [
-          { "profession": "dressmaker", "value": 39, "gender": 0 },
-          { "profession": "milliner", "value": 31, "gender": 0 },
-          { "profession": "grocer", "value": 18, "gender": 0 },
-          { "profession": "tobacconist", "value": 12, "gender": 0 },
-          { "profession": "confectioner", "value": 12, "gender": 0 },
-          { "profession": "stationer", "value": 10, "gender": 0 },
-          { "profession": "beer retailer", "value": 10, "gender": 0 },
-          { "profession": "baker", "value": 9, "gender": 0 },
-          { "profession": "matron", "value": 8, "gender": 0 },
-          { "profession": "butcher", "value": 8, "gender": 0 },
+          { "profession": "Dressmaker", "value": 39, "gender": 0 },
+          { "profession": "Milliner", "value": 31, "gender": 0 },
+          { "profession": "Grocer", "value": 18, "gender": 0 },
+          { "profession": "Tobacconist", "value": 12, "gender": 0 },
+          { "profession": "Confectioner", "value": 12, "gender": 0 },
+          { "profession": "Stationer", "value": 10, "gender": 0 },
+          { "profession": "Beer Retailer", "value": 10, "gender": 0 },
+          { "profession": "Baker", "value": 9, "gender": 0 },
+          { "profession": "Matron", "value": 8, "gender": 0 },
+          { "profession": "Butcher", "value": 8, "gender": 0 },
 
-          { "profession": "dressmaker", "value": 41, "gender": 1 },
-          { "profession": "milliner", "value": 49, "gender": 1 },
-          { "profession": "grocer", "value": 190, "gender": 1 },
-          { "profession": "tobacconist", "value": 128, "gender": 1 },
-          { "profession": "confectioner", "value": 69, "gender": 1 },
-          { "profession": "stationer", "value": 52, "gender": 1 },
-          { "profession": "beer retailer", "value": 146, "gender": 1 },
-          { "profession": "baker", "value": 202, "gender": 1 },
-          { "profession": "butcher", "value": 154, "gender": 1 }
+          { "profession": "Dressmaker", "value": 41, "gender": 1 },
+          { "profession": "Milliner", "value": 49, "gender": 1 },
+          { "profession": "Grocer", "value": 190, "gender": 1 },
+          { "profession": "Tobacconist", "value": 128, "gender": 1 },
+          { "profession": "Confectioner", "value": 69, "gender": 1 },
+          { "profession": "Stationer", "value": 52, "gender": 1 },
+          { "profession": "Beer Retailer", "value": 146, "gender": 1 },
+          { "profession": "Baker", "value": 202, "gender": 1 },
+          { "profession": "Butcher", "value": 154, "gender": 1 }
       ]
   },
  
@@ -39,7 +38,8 @@
   "mark": "bar",
   "encoding": {
     "x": {"field": "value", "type": "quantitative", "title": "Number of Humans"},
-    "y": {"field": "profession", "type": "nominal", "title": "Professions"},
+    "y": {"field": "profession", "type": "nominal", "title": "Professions", 
+      "sort": {"op": "sum", "field": "legend"}},
     "color": {
       "field": "legend", "type": "nominal",
       "scale": {"range": ["#675193", "#ca8861"]},
