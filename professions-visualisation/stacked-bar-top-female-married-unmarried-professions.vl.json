@@ -1,6 +1,5 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-    "title": "Top Female married and unmarried professions",
     "description:": "A stcked bar chart, showing the top Female professions for married (Mrs.) and unmarried (Miss.) women.",
     "width": 400,
     "height": 400,
@@ -8,27 +7,27 @@
 
     "data": {
         "values": [
-            { "profession": "dressmaker", "value": 26, "married": 0 },
-            { "profession": "milliner", "value": 19, "married": 0 },
-            { "profession": "grocer", "value": 15, "married": 0 },
-            { "profession": "tobacconist", "value": 10, "married": 0 },
-            { "profession": "beer retailer", "value": 10, "married": 0 },
-            { "profession": "baker", "value": 8, "married": 0 },
-            { "profession": "greengrocer", "value": 7, "married": 0 },
-            { "profession": "fruiterer", "value": 7, "married": 0 },
-            { "profession": "confectioner", "value": 7, "married": 0 },
-            { "profession": "butcher", "value": 7, "married": 0 },
+            { "profession": "Dressmaker", "value": 26, "married": 0 },
+            { "profession": "Milliner", "value": 19, "married": 0 },
+            { "profession": "Grocer", "value": 15, "married": 0 },
+            { "profession": "Tobacconist", "value": 10, "married": 0 },
+            { "profession": "Beer Retailer", "value": 10, "married": 0 },
+            { "profession": "Baker", "value": 8, "married": 0 },
+            { "profession": "Greengrocer", "value": 7, "married": 0 },
+            { "profession": "Fruiterer", "value": 7, "married": 0 },
+            { "profession": "Confectioner", "value": 7, "married": 0 },
+            { "profession": "Butcher", "value": 7, "married": 0 },
 
-            { "profession": "dressmaker", "value": 13, "married": 1 },
-            { "profession": "milliner", "value": 12, "married": 1 },
-            { "profession": "stationer", "value": 6, "married": 1 },
-            { "profession": "confectioner", "value": 5, "married": 1 },
-            { "profession": "secretary", "value": 3, "married": 1 },
-            { "profession": "linendraper", "value": 3, "married": 1 },
-            { "profession": "lady superintendent", "value": 3, "married": 1 },
-            { "profession": "grocer", "value": 3, "married": 1 },
-            { "profession": "tobacconist", "value": 2, "married": 1 },
-            { "profession": "staymaker", "value": 2, "married": 1 }
+            { "profession": "Dressmaker", "value": 13, "married": 1 },
+            { "profession": "Milliner", "value": 12, "married": 1 },
+            { "profession": "Stationer", "value": 6, "married": 1 },
+            { "profession": "Confectioner", "value": 5, "married": 1 },
+            { "profession": "Secretary", "value": 3, "married": 1 },
+            { "profession": "Linendraper", "value": 3, "married": 1 },
+            { "profession": "Lady Superintendent", "value": 3, "married": 1 },
+            { "profession": "Grocer", "value": 3, "married": 1 },
+            { "profession": "Tobacconist", "value": 2, "married": 1 },
+            { "profession": "Staymaker", "value": 2, "married": 1 }
         ]
     },
 
@@ -39,7 +38,7 @@
     "mark": "bar",
     "encoding": {
         "x": { "field": "value", "type": "quantitative", "title": "Number of Females" },
-        "y": { "field": "profession", "type": "nominal", "title": "Professions" },
+        "y": { "field": "profession", "type": "nominal", "title": "Professions", "sort": "-x"},
         "color": {
             "field": "legend",
             "type": "nominal",
