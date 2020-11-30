@@ -1,5 +1,5 @@
 Method for the design of the map visualisation
----
+===
 
 Planning to visualise an XML version of the Post office directory on to a street map starts with a discussion about what we want to achieve generally - combine the individual buildings along the postman walk onto the map image, and then annotate some aspect of the data, somehow. After a brief brainstorm, using the map of the specific street we planned to visualise, Beaufort Street, we came up with some ideas about how to draw the buildings onto of the map and colourise the buildings according to either gender or occupation type. One of the requirements is that the visualisation will be printed in greyscale, so all graphic design steps needed to ensure the visualisation would still be understandable in both colour and greyscale.
 
@@ -29,7 +29,8 @@ The final version 6 was then created, correcting glitches with the buildings, ne
 
 
 
-Version 1
+#### Version 1
+
 - Gather assets - colour/grey map, compases, page scans.
 - Place into Affinity Designer. Start to think about compositions of elements and positions on map.
 - Screencapture from Apple Maps to get compass direction - rotate and align 3 compasses to correct orientation.
@@ -37,16 +38,16 @@ Version 1
 - Cut up directory street walks and position in road segments. Rotate and scale to give an idea of building distribution.
 - Realise that it is easier to rotate the map to place segments.
 
+#### Version 2
 
-Version 2
 - Draw in building outlines (use red colour to aid drawing on top of grey/colour background map).
 - Add building/terrace walls (this is forming the representation for tight/narrow properties, as well as the A/B Flats with two coexisting occupants in a single property).
 - Crop the walk numbers and align with the building walls to check the right number of properties - starting to see how some road sections are denser than others.
 - Feather map background to emphasise the main high street. Side roads are ancillary to the visuation and just visual noise - blue these out?
 - Reposition streetwalk columns to west/east side.
 
+#### Version 3
 
-Version 3
 - Determine which feature to use to colour code the buildings - gender.
 - Gode gender to Pink for Male and Blue for Female.
 - Rasterise building vectors into separate layer - flood fill the houses according to Honorific (or if Honorific not present in street walk, make judgement based on person name).
@@ -54,26 +55,30 @@ Version 3
 - Check greyscale variant - add layer to desaturate gender colours and ensure these look distinct when greyscale (this is what will be printed in the book).
 - Rearrange layers in Affinity designer to make it easy to enable/disable greyscale/colour variants, by turning on/off 2 layers. This speeds up design iterations.
 
+#### Version 4
 
-Version 4
 - Split the postal walks image up even more, remove full listings, start to align and position in columns beside map.
 - Change map feather to reduce amount of map which is visiable/relevant.
 - Draw bubbles/outlines to visually connect the page segments to their map/building segments. The visual connection is important because it draws the eye from the source to the building/gender coded visuals (and Ted Nelson is one of my greatest influences ;-) ).
 - Add semi transparency to the bubbles to obscure more of the background map. This de-emphasises the street details even more.
 - Check greyscale looks okay.
 
+##### Version 5
 
-Version 5
 - We digitised the street directory to XML, so bring this asset in and integrate the XML representation into the visualiation - we now have 1) page scan, 2) map, 3) building, 
 4) gender and 5) XML data assets all spatio-visually integrated into a single visualisation diagram.
 - Realise the most appropraite content component of the XML is the heading and street markers, and these fit naturally between the previous work.
 - Use courier font (old school digital aesthetic) and use <XML> tags - this gives the impression there is a 'background' representation of XML data.
 - Show to colleagues - get feedback. Notice little glitches and correct.
 
+##### Version 6
 
-Version 6
 - Correct glitches, neaten building vector geometry.
 - Tighten the whole layout to make it smaller and fit to the page. Remove more background map.
 - Neaten up and align visually connected bubbles and texts.
 - Add legend (in a nice whitespace at the top left, which is a good location because it prioritises the gender coding but it also happens to fill the space nicely - do you like this a-posteriori justification for the spatial arrangement of visual information?).
 - Used the Comic Sans font for the legend labels deliberately!
+
+
+
+MS, 2020
