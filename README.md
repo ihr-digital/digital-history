@@ -8,7 +8,8 @@ The sample pages have been run through several different OCR applications and th
 
 Adobe Acrobat Pro DC
 ---
-This has to be the profession and paid for versin of Adobe Acrobat DC. The free Acrobat reader will not perform OCR on your pdf files.
+This has to be the professional and paid-for version of Adobe Acrobat DC. The free Acrobat reader will not perform OCR on your pdf files.
+
 First the tiff files were manually converted to individual PDF files, then the feature to recognise text was applied (this feature is available as part of the 'Enhance scans' application functionality). The 'language English (UK)' was used, and the image was downsampled to 600dpi. Then we selected all the text (Ctrl-A) and copyied and pasted this into the text file. Both the PDF and the text files are availalbe for you to view in this repository.
 
 Adobe Acrobat does give you a user interface to correct the recognised text, as well as a way to view the text as an overlay ontop of the scanned page. This can be quite useful. A few screenshots have been included in this repository to give you an idea of what this looks like.
@@ -29,6 +30,6 @@ There are several converns with using free online services like this. First, you
 Tesseract OCR
 ---
 
-The final tool we have used is an opensource command line utility called Tesseract OCR: https://github.com/tesseract-ocr/tesseract
+The final tool we have used is an open source utility called Tesseract OCR: https://github.com/tesseract-ocr/tesseract. This is predominantly a command line program but there are GUI layers available, or Tesseract can be invoked from programming languages such as Python.
 
-There are installation instructions on the link above, but once it is installed, the command to run an image through the OCR with the default settings (English) is: `tesseract 0000.tif 0000-tesseract.txt`
+There are installation instructions on the link above. Tessearct has a number of dependencies which need to be installed. Note that once Tesseract is installed you still need to download the training data for the language you are interested. Once everything is ready, the command to run an image through the OCR with the default settings (English) is: `tesseract 0000.tif 0000-tesseract.txt`
