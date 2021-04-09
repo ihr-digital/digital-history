@@ -1,6 +1,8 @@
-# Sample scans OCR
+# Sample scans
 
-The sample pages have been run through several different OCR applications and the output from each saved to the files in this repository.
+*OCR and Double Rekeying as the digitisation process*
+
+The sample pages in this directory (the `.tif` and `.pdf` files) have been run through several different OCR applications and the output from each saved to the files in this repository.
 
 
 ### Adobe Acrobat Pro DC
@@ -29,3 +31,14 @@ There are several converns with using free online services like this. First, you
 The final tool we have used is an open source utility called Tesseract OCR: https://github.com/tesseract-ocr/tesseract. This is predominantly a command line program but there are GUI layers available, or Tesseract can be invoked from programming languages such as Python.
 
 There are installation instructions on the link above. Tessearct has a number of dependencies which need to be installed. Note that once Tesseract is installed you still need to download the training data for the language you are interested. Once everything is ready, the command to run an image through the OCR with the default settings (English) is: `tesseract 0000.tif 0000-tesseract.txt`
+
+### Double Rekeying
+
+This automated OCR techniques above are often not accurate enough for digitisation of historical printed sources and so the [double rekeying](https://www.british-history.ac.uk/about#technical) technique was used to digitise the Post Office directory page scans.
+
+The resulting XML files are available in the `./data/XML` directory of this repository, and it is these files which were used as the data for all the methodoligical explanations used throughout the book.
+
+The 'Post Office directory keying instructions.docx' Microsoft Word document contains the detailed instructions for the keying company to observe during the manual double rekeying process. Keying instructions are a balance between pragmatic markup (becaue rekeying costs per character) of typographical features and information about how to resolve common print or formatting anomolies present in the source material being digitised. Keying instructions generally should not require the keying company to make decisions based on the content itself. This is to mitigate and reduce the probabiliy of the introduction of any interpretation or source modification biases as a result of the rekeying procedure, and to ensure high quality minimally- structured data files.
+
+
+### 
