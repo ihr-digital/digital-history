@@ -20,6 +20,39 @@ If you do want to parse the XML and the entities cause you a problem, you can st
 
 Entities start with an ampersand and end with a semi-colon, so here we're looking for an ampersand followed by anything not a semi-colon, followed by a semi-colon. Then we use ```sort``` and ```uniq```, which are used extensively in the book, to sort and count our results.
 
-If you want to strip out these entities quickly, we recommend the command line editor ```sed```. We didn't have space to cover this in the book, but it's a way of editing a file or files from the command line.
+If you want to strip out these entities quickly, we recommend the command line editor ```sed```. We didn't have space to cover this in the book, but it's a powerful way of editing a file or files from the command line.
 
 If you ran the ```grep``` above you will have seen that by far the commonest entity is ```&amp;```. This does not cause a validation problem because it is one of three entities which are universally allowed in XML (the others are the greater-than and less-than symbols, ```&gt;``` and ```&lt;```). These three are needed because ```&```, ```<``` and ```>``` are part of the XML syntax, so if you want to use them *as ordinary characters* you would need to use the entity.
+
+A basic replacement in ```sed```, from the command line, goes like this:
+
+```sed 's/find/replace/g' filename```
+
+The initial ```s``` stands for 'substitute' and the trailing ```g``` means 'globally' (if you omit this, ```sed``` will change only the first example it finds).
+
+To change all the XML files in the folder we would do:
+
+```sed 's/find/replace/g' *.xml```
+
+Try this out. You'll see that as it stands it doesn't actually change any files. It prints the changed file or files to screen, so you can see how they *would* look, so that you can check you're not doing something unexpected.
+
+Options for actually changing all the files are:
+1. add an ```-i``` flag after ```sed```, which stands for "in place"
+2. add an ```-i.bak" flag after ```sed```, which does the same thing but makes a backup of all the original files using the specified suffix (here we've used ```.bak```); 
+
+We recommend the second one. If you're happy and want to clean up your folder you can delete all the backups from the command line using ```rm *.bak```.
+
+Regex works by default but it has one small difference from the standard syntax we discuss in the book, which is that the regex ```+``` has to be preceded by a blackslash.
+
+Putting it all together we're going to run three ```sed``` commands:
+
+```sed -i.bak1 's/&amp;/#AMPERSAND#/g' *.xml```
+```sed -i.bak2 's/&[^;]\+;//g' *.xml```
+```sed -i.bak3 's/#AMPERSAND#/&amp;/g' *.xml```
+
+The first and last commands just ensure that we keep the one universal entity in the file, ```&amp;``` by changing it to something else, running the main replacement, and then putting it back.
+
+
+
+
+
