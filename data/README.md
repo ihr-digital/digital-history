@@ -46,15 +46,17 @@ Regex works by default but it has one small difference from the standard syntax 
 
 Putting it all together we're going to run three ```sed``` commands:
 
-```sed -i.bak1 's/&amp;/#AMPERSAND#/g' *.xml```
+```sed -i.bak1 's/&amp;/AMPERSANDAMPERSAND/g' *.xml```
 
 ```sed -i.bak2 's/&[^;]\+;//g' *.xml```
 
-```sed -i.bak3 's/#AMPERSAND#/&amp;/g' *.xml```
+```sed -i.bak3 's/AMPERSANDAMPERSAND/\&amp;/g' *.xml```
 
 The first and last commands just ensure that we keep the one universal entity in the file, ```&amp;``` by changing it to something else, running the main replacement, and then putting it back.
 
+Note that in a replacement in ```sed``` an ampersand is a special character meaning 'everything in the find part'. That's handy but we want a literal ampersand here so we have to escape it: ```\&```.
 
+If you mess anything up (as we did when testing these commands!) then ```git checkout .``` from within the XML folder will restore things.
 
 
 
