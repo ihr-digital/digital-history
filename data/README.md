@@ -38,7 +38,7 @@ Try this out. You'll see that as it stands it doesn't actually change any files.
 
 Options for actually changing all the files are:
 1. add an ```-i``` flag after ```sed```, which stands for "in place"
-2. add an ```-i.bak" flag after ```sed```, which does the same thing but makes a backup of all the original files using the specified suffix (here we've used ```.bak```); 
+2. add an ```-i.bak``` flag after ```sed```, which does the same thing but makes a backup of all the original files using the specified suffix (here we've used ```.bak```); 
 
 We recommend the second one. If you're happy and want to clean up your folder you can delete all the backups from the command line using ```rm *.bak```.
 
@@ -47,7 +47,9 @@ Regex works by default but it has one small difference from the standard syntax 
 Putting it all together we're going to run three ```sed``` commands:
 
 ```sed -i.bak1 's/&amp;/#AMPERSAND#/g' *.xml```
+
 ```sed -i.bak2 's/&[^;]\+;//g' *.xml```
+
 ```sed -i.bak3 's/#AMPERSAND#/&amp;/g' *.xml```
 
 The first and last commands just ensure that we keep the one universal entity in the file, ```&amp;``` by changing it to something else, running the main replacement, and then putting it back.
