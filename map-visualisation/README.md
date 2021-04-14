@@ -1,6 +1,8 @@
 Method for the design of the map visualisation
 ===
 
+See *"Maps", Chapter 7* 
+
 Planning to visualise an XML version of the Post office directory on to a street map starts with a discussion about what we want to achieve generally - combine the individual buildings along the postman walk onto the map image, and then annotate some aspect of the data, somehow. After a brief brainstorm, using the map of the specific street we planned to visualise, Beaufort Street, we came up with some ideas about how to draw the buildings onto of the map and colourise the buildings according to either gender or occupation type. One of the requirements is that the visualisation will be printed in greyscale, so all graphic design steps needed to ensure the visualisation would still be understandable in both colour and greyscale.
 
 We then began by gathering various digital files ('assets' in graphic design terminology) and putting these into a directory. This includes the map images themselves, the page scans of the Post Office directory and the XML data.
@@ -13,7 +15,7 @@ We then proceeded to draw building outlines along each of the street blocks, and
 
 The background map includes more of the surrounding streets, which are not the focus of the visualisation and so we feathered/blurred the edges out to maintain attention on the Beaufort high street.
 
-Now that the building artwork has been generated to scale, we decided which features to use such as the colour coding for each of the buildings. We decided to encode colors for gender, and use pink for Male and blue for Female (because pink/blue colours were not promoted as gender signifiers until just before World War 1 [https://www.smithsonianmag.com/arts-culture/when-did-girls-start-wearing-pink-1370097/])
+Now that the building artwork has been generated to scale, we decided which features to use such as the colour coding for each of the buildings. We decided to encode colors for gender, and use pink for Male and blue for Female ([because pink/blue colours were not promoted as gender signifiers until just before World War 1](https://www.smithsonianmag.com/arts-culture/when-did-girls-start-wearing-pink-1370097/))
 
 The vector shapes of the buildings were duplicated into a second layer and rasterised (which means the shapres were transformed into pixels) then each block could be filled with the appropriate colour, according to Honorific, or if an Honorific was not present in the street walk, we made a judgement based on the persons name (In general the text identifies females explicitly and males implicity). There was one address which listed both a male and female and for this we simply painted both colours into the space. Once the colours were filled we needed to emphasise that these shapes were 'atop' the map, and so a drop shadow was added. The greyscale variant was checked to ensure that the saturation between the blue/pink colour codes was distinct enough to be identifiable when viewed or printed in greyscle and the colours were adjusted until it was.
 
@@ -29,7 +31,9 @@ The final version 6 was then created, correcting glitches with the buildings, ne
 
 
 
-#### Version 1
+------
+
+**Version 1**
 
 - Gather assets - colour/grey map, compases, page scans.
 - Place into Affinity Designer. Start to think about compositions of elements and positions on map.
@@ -38,7 +42,7 @@ The final version 6 was then created, correcting glitches with the buildings, ne
 - Cut up directory street walks and position in road segments. Rotate and scale to give an idea of building distribution.
 - Realise that it is easier to rotate the map to place segments.
 
-#### Version 2
+**Version 2**
 
 - Draw in building outlines (use red colour to aid drawing on top of grey/colour background map).
 - Add building/terrace walls (this is forming the representation for tight/narrow properties, as well as the A/B Flats with two coexisting occupants in a single property).
@@ -46,7 +50,7 @@ The final version 6 was then created, correcting glitches with the buildings, ne
 - Feather map background to emphasise the main high street. Side roads are ancillary to the visuation and just visual noise - blue these out?
 - Reposition streetwalk columns to west/east side.
 
-#### Version 3
+**Version 3**
 
 - Determine which feature to use to colour code the buildings - gender.
 - Gode gender to Pink for Male and Blue for Female.
@@ -55,7 +59,7 @@ The final version 6 was then created, correcting glitches with the buildings, ne
 - Check greyscale variant - add layer to desaturate gender colours and ensure these look distinct when greyscale (this is what will be printed in the book).
 - Rearrange layers in Affinity designer to make it easy to enable/disable greyscale/colour variants, by turning on/off 2 layers. This speeds up design iterations.
 
-#### Version 4
+**Version 4**
 
 - Split the postal walks image up even more, remove full listings, start to align and position in columns beside map.
 - Change map feather to reduce amount of map which is visiable/relevant.
@@ -63,7 +67,7 @@ The final version 6 was then created, correcting glitches with the buildings, ne
 - Add semi transparency to the bubbles to obscure more of the background map. This de-emphasises the street details even more.
 - Check greyscale looks okay.
 
-##### Version 5
+**Version 5**
 
 - We digitised the street directory to XML, so bring this asset in and integrate the XML representation into the visualiation - we now have 1) page scan, 2) map, 3) building, 
 4) gender and 5) XML data assets all spatio-visually integrated into a single visualisation diagram.
@@ -71,14 +75,10 @@ The final version 6 was then created, correcting glitches with the buildings, ne
 - Use courier font (old school digital aesthetic) and use <XML> tags - this gives the impression there is a 'background' representation of XML data.
 - Show to colleagues - get feedback. Notice little glitches and correct.
 
-##### Version 6
+**Version 6**
 
 - Correct glitches, neaten building vector geometry.
 - Tighten the whole layout to make it smaller and fit to the page. Remove more background map.
 - Neaten up and align visually connected bubbles and texts.
 - Add legend (in a nice whitespace at the top left, which is a good location because it prioritises the gender coding but it also happens to fill the space nicely - do you like this a-posteriori justification for the spatial arrangement of visual information?).
 - Used the Comic Sans font for the legend labels deliberately!
-
-
-
-MS, 2020

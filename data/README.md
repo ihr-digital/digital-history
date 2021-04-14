@@ -1,12 +1,14 @@
 # What this folder contains
 
-Here you will find the files you need to follow along with chapters 4 and 5 of *Doing Digital History*. You will also find this the most useful folder for practising Git, as discussed in Chapter 6.
+Here you will find the files you need to follow along with chapters 4 and 5 of *Doing Digital History*. You will also find this the most useful folder for practising Git (as discussed in Chapter 6).
 
-**Chapter 4**
-This covers unstructured text. Use the .txt files for this chapter. These are mostly in the ```text-files``` folder, but we have put a copy of all the streets data at this level, for convenience.
+See *"Chapter 4, Working with text 1: unstructured text"* – This covers unstructured text. Use the .txt files for this chapter. These are mostly in the ```text-files``` folder, but we have put a copy of all the streets data at this level, for convenience.
 
-**Chapter 5**
-This is about structured text. Use the .xml files for this chapter. These are mostly in the ```XML``` folder but, again, we have put a copy of all the streets in one file at this level.
+See *"Chapter 5, Working with text 2: structured text"* – This is about structured text. Use the .xml files for this chapter. These are mostly in the ```XML``` folder but, again, we have put a copy of all the streets in one file at this level.
+
+
+
+------
 
 **Small caveat on the XML files**
 

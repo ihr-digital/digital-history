@@ -1,6 +1,8 @@
 # Visualisation of the Post Office Directory professions
 
-The figures in "Chapter 7 - Visualising your Data" were created using the [Vega and Vega Lite online editor](https://vega.github.io/editor/#/), and the PNG/SVG files submitted to the publisher.
+See *"Chapter 7: Visualising your Data"*
+
+The figures in Chapter 7 were created using the [Vega and Vega Lite online editor](https://vega.github.io/editor/#/), and the PNG/SVG files submitted to the publisher.
 
 The following links can be used to visualise the data as Bar Charts:
 
@@ -14,4 +16,4 @@ And here is the same data visualised using a Radial Arm Chart:
 
 The links above encode the json data into the very long URL, but some older browsers might have problems with the URL length. If the URL's don't work for you, you can copy and paste the .vl.json directly into the online [Vega editor](https://vega.github.io/editor/#/) and view the charts that way. Once in the Vega editor you can modify the data structures, change the captions, legend, colours, or other chart configurations, as well as download the charts as SVG or PNG versions.
 
-The files in the `./professions-visualisation/data` directory were created manually using the methods described in chapters X X and X of the book. These local datum are derived from the XML data files in the main `./data/XML` directory, but were subsequently moved into this directory to keep the relevant data close to the Vega JSON and graphical charts. (there may be references in the book to directories or data file paths which do not match precisely the data file paths in this repository. This is a pretty normal thing but can lead to problems should someone try to hunt down a precise reference to a specific file which was subsequently moved into a new location).
+The files in the `./professions-visualisation/data` directory were created manually using the methods described in Chapter 7 of the book. These local datum are derived from the XML data files in the main `./data/XML` directory (but were subsequently moved into this directory to keep the relevant data close to the Vega JSON and graphical charts). While we have tried to keep all file path references in the book the same as the file path references in this data repository, there may be some references which do not match the precisely. This is a pretty normal thing, especially over time, revisions, editions and as the data continues to be worked on and used for research.
