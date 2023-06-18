@@ -200,7 +200,7 @@
 <xst>here is Granville square</xst>
 <addr>43 Murray Charles Stuart</addr>
 <addr>45 Meyer John, manufg. goldsmith</addr>
-<addr>47 Br&uuml;njes Henry, cab proprietor</addr>
+<addr>47 Br&#252;njes Henry, cab proprietor</addr>
 </street>
 <street>
 <head>Baker st.</head><head2><i>Commercial rd. east</i> (<b>E.</b>), <i>to</i> 91 <i>Nelson st</i>.</head2>
@@ -539,14 +539,14 @@
 <street>
 <head>Ball alley,</head><head2>49 <i>Lombard st</i>. (<b>E.C.</b>) (CITY).</head2><map>MAP O9.</map>
 <addr><i>Langbourn coffee house</i>, George Phillips</addr>
-<addr>ALLHALLOWS CHAMBERS:&mdash;</addr>
+<addr>ALLHALLOWS CHAMBERS:&#8212;</addr>
 <addr>3 &amp; 4 Todd John, merchant</addr>
 <addr>5 Pelly,Boyle &amp; Co.metal brkrs</addr>
 <addr>6 Lascelles, Merry &amp; Co. provision agents</addr>
 <addr>7 How Robt. land &amp; estateagt</addr>
 </street>
 <street>
-<head>Ball court,</head><head2>38&frac12; <i>Cornhill</i>. (<b>E.C.</b>) (CITY).</head2>
+<head>Ball court,</head><head2>38&#189; <i>Cornhill</i>. (<b>E.C.</b>) (CITY).</head2>
 <map>MAP 09.</map>
 <addr><i>Simpson's tavern</i>, John Smith</addr>
 </street>
@@ -572,7 +572,7 @@
 <addr>19 Worthington Walter Thomas, bookbinder</addr>
 <addr>21 Pearce John, glass writer</addr>
 <addr>25 Thomas Hy. Pond, ho. decorator</addr>
-<addr>27 Trachsel &amp; Mod&oelig;ry, provsn. dlrs</addr>
+<addr>27 Trachsel &amp; Mod&#339;ry, provsn. dlrs</addr>
 <addr>29 Norton George, greengrocer &amp;c</addr>
 <addr>31 Doughty James, stationer</addr>
 <addr>33 Kuhn Frederick, baker</addr>
@@ -866,7 +866,7 @@
 <addr>121 MustoThomas Edward &amp; Joseph William, engineers</addr>
 <addr>125 Wade William Gribble, cooper</addr>
 <addr>137 Stonestreet Thomas, carpenter</addr>
-<addr>139 Stoker Mrs. Ph&oelig;be,greengrocer</addr>
+<addr>139 Stoker Mrs. Ph&#339;be,greengrocer</addr>
 <addr>143 Kett Robert, coal dealer</addr>
 <addr>149 Clark Edward Wm. sausage ma</addr>
 <addr>165 Ray Henry, firewood dealer</addr>
@@ -995,7 +995,7 @@ Leeuw P.R.&amp;Co.glass bot.mers</addr>
 <addr>60 <i>Watermen's Arms</i>, Geo. Moorse</addr>
 <addr>63 Meredith Brothers, sawing mills</addr>
 <addr>64 Williams Alfd. civil &amp; gas enginr</addr>
-<addr><i>Ph&oelig;nix Fire Brick Wharf</i>, Alfred Williams</addr>
+<addr><i>Ph&#339;nix Fire Brick Wharf</i>, Alfred Williams</addr>
 <addr>65 Carter &amp; Rolles, coal merchants (Sunderland wharf)</addr>
 <addr>66 Sykes Henry, engineer</addr>
 <xst>here is Love lane</xst>
@@ -1107,7 +1107,7 @@ Witterick James, jun. shoemaker</addr>
 <addr>1 <i>Barbican India Rubber Co</i>. india
 rubber warehouse</addr>
 <addr>2 &amp; 24 Matthews Thomas, hatter
-BARBICAN CHAMBERS :&mdash;
+BARBICAN CHAMBERS :&#8212;
 Webb M. &amp; Son, solicitors
 Coates Bros. varnish makers</addr>
 <addr>4 Berry Fredk. plane &amp; tool manfr</addr>
@@ -1119,7 +1119,7 @@ wholesale ironmongers</addr>
 <i>Central Permanent Benefit Build ing Society</i>,
 J. Edwin Ponder, man. &amp; co
 Page Joseph &amp; Co. skirt manufrs</addr>
-<addr>7 Nestle Henri, milk food dep&ocirc;t</addr>
+<addr>7 Nestle Henri, milk food dep&#244;t</addr>
 <addr>Cockson Chas. Wm. &amp; Co. advertising agents</addr>
 <addr>8 &amp; 9 Macqueen &amp; Co. hat manfrs</addr>
 <addr>12,13 &amp; 14 Murray David &amp; Wm. merchants</addr>
@@ -1236,7 +1236,7 @@ MacGavin &amp; Co.wine merchants</addr>
 <addr>Savory Henry, merchant</addr>
 <addr>Peel Jonathan, merchant
 Macfarlan John Fletcher &amp; Co. manufacturing chemists
-Hunt &amp; Sacr&eacute;, engineers
+Hunt &amp; Sacr&#233;, engineers
 Cartwright Richd. law stationer</addr>
 <addr>Thorpe Samuel, printer
 Cammell Charles &amp; Co. Limited, steel &amp; file manufacturers</addr>
@@ -1323,7 +1323,7 @@ st</i>. &amp; 24 <i>Seething lane</i>.</head2>
 <addr>Golding Joseph, hairdresser</addr>
 </street>
 <street>
-<head>Barking road.,</head><head2>(<b>E.</b>) <i>See "</i> SUBURBAN DIRECTORY"&mdash; CANNING TOWN.</head2>
+<head>Barking road.,</head><head2>(<b>E.</b>) <i>See "</i> SUBURBAN DIRECTORY"&#8212; CANNING TOWN.</head2>
 </street>
 <street>
 <head>Barlow st.,</head><head2><i>Walworth</i> (<b>S.E.</b>), <i>East street</i>.</head2><map>MAP O12.</map>
@@ -1333,7 +1333,7 @@ st</i>. &amp; 24 <i>Seething lane</i>.</head2>
 <addr>29 Fletcher Joseph, chandler's shop</addr>
 <addr>79 Wilkinson Joseph, blacksmith</addr>
 <addr>81 Hill Henry Thos. chair maker</addr>
-<addr>121 Edwards William, b&emacr;er retailer</addr>
+ <addr>121 Edwards William, b&#275;er retailer</addr>
 <addr>2 <i>Duchess of York</i>, Edward Lomas</addr>
 <addr>32 <i>Victory</i>, Samuel Milne</addr>
 <addr>54 Mudge James, chandler's shop</addr>
@@ -1646,7 +1646,7 @@ Davies R. Hunter</addr>
 <addr>4 Cooper Ellis, shoemaker</addr>
 <addr>8 Skinner Thomas, tailor</addr>
 <addr>10 Busby Thomas, engineer</addr>
-<addr>10&frac12; Jaques Geo. hardwood turner</addr>
+<addr>10&#189; Jaques Geo. hardwood turner</addr>
 <addr>Pomfret Thomas, wood turner</addr>
 <addr>Perry Arson, gas block turner</addr>
 <addr>Tomlinson &amp; Co. lithographers</addr>
@@ -1663,7 +1663,7 @@ Davies R. Hunter</addr>
 <head>Baroness road,</head><head2>102 <i>Hackney road</i>. (<b>E.</b>)</head2><map>MAP P7.</map>
 <addr>ParkinSons&amp;Co.who.shoe mnfrs</addr>
 <addr>22 &amp; 23 McEwen Thomas William, </addr><addr>wholesale boot manufacturer</addr>
-<addr>COLUMBIA MARKET :&mdash;</addr>
+<addr>COLUMBIA MARKET :&#8212;</addr>
 <addr>6 Monk Henry, corn chandler</addr>
 <addr>7 PorterMrs.Jemima,fishmonger</addr>
 <addr>9 Hall William, greengrocer</addr>
@@ -1763,7 +1763,7 @@ Davies R. Hunter</addr>
 <addr>22 Jackson Wm.Henry&amp;Son,tailors</addr>
 <addr>Thorburn Alex. mount cutter</addr>
 <addr>Jackson Wm. Hy. jun. vestry clrk</addr>
-<addr>22&frac12; Adlard James Evan, printer</addr>
+<addr>22&#189; Adlard James Evan, printer</addr>
 <addr>23 Eglington William, printer</addr>
 <addr>24 Samuel Lambert, artifl.flower ma</addr>
 <addr>25 <i>Royal General Dispensary</i></addr>
@@ -1823,7 +1823,7 @@ Davies R. Hunter</addr>
 <head>Bartholomew lane,</head><head2><i>East side of the Bank, Threadneedle street to Lothbury</i>. (<b>E.C.</b>) (CITY).</head2><map>MAP O9.</map>
 <addr>1&amp;2 <i>Alliance British &amp; Foreign Life &amp; Fire Assurance Company</i>, Robert Lewis, secretary</addr>
 <xst>here is Capel court</xst>
-<addr>3 BARTHOLOMEW HOUSE :&mdash;</addr>
+<addr>3 BARTHOLOMEW HOUSE :&#8212;</addr>
 <addr>Dennistoun, Cross &amp; Co. mers</addr>
 <addr>Borthwick, Wark &amp; Co.stockbs</addr>
 <addr><i>Tramways Union Co. Limited</i>, John Edward Walker, sec</addr>
@@ -2102,7 +2102,7 @@ BERMAN'S ALMSHOUSES</addr>
 <addr>Ward &amp; Sons,gun manufacturers</addr>
 <addr>Ward Albert Thomas, factor</addr>
 <addr>Weston John &amp; Co. bill brokers</addr>
-<addr>GRESHAM BUILDINGS :&mdash;</addr>
+<addr>GRESHAM BUILDINGS :&#8212;</addr>
 <addr>1 BallJohnBall&amp;Co.accountants</addr>
 <addr>Benham James Erle</addr>
 <addr>Benham Mark Benjamin</addr>
@@ -2209,7 +2209,7 @@ Buchanan &amp; Rogers, solicitors
 <addr>17 &amp; 18 Thomas &amp; Cook,wool broks</addr>
 <addr>17 Hobbs &amp; Humphreys,woollen wa</addr>
 <addr>18 Haddon &amp; Sons, worsted spinnrs</addr>
-<addr>18A, GRESHAM ROOMS :&mdash;
+<addr>18A, GRESHAM ROOMS :&#8212;
 Buxton &amp; Davidson,wool brkrs</addr>
 <addr>Davis Mark, solicitor</addr>
 <addr>Holl Henry, wine merchant</addr>
@@ -2229,7 +2229,7 @@ De Grelle Chas. &amp; Co. merchants</addr>
 Beath, Schiess &amp; Co. australian merchants
 Acton MaxB.&amp; Co. com.mers</addr>
 <addr>Windeler &amp; Bowes, wool brks</addr>
-<addr>22 WEAVERS' HALL. :&mdash;</addr>
+<addr>22 WEAVERS' HALL. :&#8212;</addr>
 <addr>Banes Michael, accountant</addr>
 <addr>Brown Walter William, solicitor
 Christie,King&amp;Co.austrlian. mrs</addr>
@@ -2281,7 +2281,7 @@ Scott Stephen, solicitor</addr>
 <addr>Buckley JohnB. wooln. warehsmn</addr>
 <addr>Whitlam George, carpenter</addr>
 <addr>30 Chamberlain Jhn. Matthews,solr</addr>
-<addr>GUILDHALL CHAMBERS:&mdash;</addr>
+<addr>GUILDHALL CHAMBERS:&#8212;</addr>
 <addr>1 Atkinson &amp; Smith, merchants
 BreckelsJhn.Hy.R.accountnt
 Clarke Henry&amp; Co. shoe makrs
@@ -2607,7 +2607,7 @@ wholesaleconfectioner. 3 James Palace</addr>
 <addr>61 Parfitt Mrs. Sarah, baker</addr>
 <addr>62 Thomas John, grocer</addr>
 <xst>here is Lever street</xst>
-<addr>64 &amp; 64&frac12; Phillips Abrhm. paperstnr</addr>
+<addr>64 &amp; 64&#189; Phillips Abrhm. paperstnr</addr>
 <addr>65 Abell Thos.Edmnd.umbrellamkr</addr>
 </street>
 <street>
@@ -2710,7 +2710,7 @@ Hitchcock Arthur William</addr>
 <head>BATTERSEA.</head><head2>(<b>S.W.</b>) <i>See</i> "SUBURBAN DIRECTORY."</head2>
 </street>
 <street>
-<head>Battersea rise.</head><head2>(<b>S.W.</b>) <i>See</i> "SUBURBAN DIRECTORY "&mdash;WANDSWORTH.</head2>
+<head>Battersea rise.</head><head2>(<b>S.W.</b>) <i>See</i> "SUBURBAN DIRECTORY "&#8212;WANDSWORTH.</head2>
 </street>
 <street>
 <head>Batty st.</head><head2><i>from</i> 98 <i>Commercial road east</i> (<b>E.</b>).</head2>
@@ -2962,7 +2962,7 @@ dealer Beale place</addr>
 Wm. Chas. Clarke, chief clerk
 John Williams, assistant clerk</addr>
 <addr>RimmelEug&amp;egrave;ne,perfumer (Beaufort house)</addr>
-<addr>BEAUFORT CHAMBERS :&mdash;</addr>
+<addr>BEAUFORT CHAMBERS :&#8212;</addr>
 <addr>Quick Frederick James</addr>
 <addr>Mitchell Henry</addr>
 <addr>Wood Wightman</addr>
@@ -3645,7 +3645,7 @@ Joseph Lavender, surveyor (thurs. from 12 to 3 p.m)</addr>
 <addr>31 Carter John Sloane</addr>
 <addr>32 Walker James Pattison, M.D.surgeon-general</addr>
 <addr>surgeon-general</addr>
-<addr>33 Cross &mdash;</addr>
+<addr>33 Cross &#8212;</addr>
 <addr>34 Harris Hasler, dentist</addr>
 <addr>35 Pankhurst Frederick Battam</addr>
 <addr>36 Richards Samuel, physician</addr>
@@ -3743,15 +3743,15 @@ Joseph Lavender, surveyor (thurs. from 12 to 3 p.m)</addr>
 <addr>72 Low Mrs. Elizabeth, hosier</addr>
 </street>
 <street>
-<head>Bedford st.</head><head2><i>Covent garden</i>(<b>W.C.</b>), <i>from</i>422 &amp; 424 <i>Strand to 18 &amp; 19<i> King st.</i></head2>
+<head>Bedford st.</head><head2><i>Covent garden</i>(<b>W.C.</b>), <i>from</i>422 &amp; 424 <i>Strand to 18 &amp; 19 King st.</i></head2>
 <map>MAP K9, L9.</map>
 <addr>1 <i>Lancet Office</i></addr>
 <addr>2 &amp; 3 <i>Bedford tav.</i>Chas.Coles&amp;Son</addr>
 <addr>3 Webb Thomas, milliner</addr>
-<addr><i>Civil Service Supply Association</addr>
-<addr>Limited</i>,William Rodgers, sec</addr>
+<addr><i>Civil Service Supply Association</i></addr>
+<addr><i>Limited</i>,William Rodgers, sec</addr>
 <xst>here is Chandos street</xst>
-<addr>10 MONTAGUE CHAMBERS:&mdash;</addr>
+<addr>10 MONTAGUE CHAMBERS:&#8212;</addr>
 <addr>Strudwick Jas. H. surveyor</addr>
 <addr>Wilson Henry</addr>
 <addr>10 &amp; 11 Roope &amp; Davidge, wholesale
@@ -3771,11 +3771,11 @@ linendrapers</addr>
 <addr>20 Durand, Sedgwick &amp; Bird, wine</addr><addr>merchants</addr>
 <addr>Alias Chas. theatrical costumier</addr>
 <addr>22 Dangerfield Fredk. lithographer</addr>
-<addr>RUSSELL CHAMBERS :&mdash;</addr>
+<addr>RUSSELL CHAMBERS :&#8212;</addr>
 <addr>Leslie&amp; Co.hairdrsrs.'sundrymen</addr>
 <addr>Gleadall Wm. Chas. picture restr</addr>
 <addr>23 Nattali &amp; Bond, booksellers</addr>
-<addr>ST. PAUL'S CHAMBERS :&mdash;</addr>
+<addr>ST. PAUL'S CHAMBERS :&#8212;</addr>
 <addr>White William H.</addr>
 <addr>Stark Wilson Emery &amp; Co.</addr>
 <addr>clerical agents</addr>
@@ -3805,7 +3805,7 @@ Charles Obach, manager</addr>
 <addr>33 Cornish Mrs.Mary, cocoa mat ma</addr>
 <addr>Hughes &amp; Son, solicitors</addr>
 <addr>Mountcastle Geo. bookseller &amp;c</addr>
-<addr>34 Griffiths &amp; Smith, educational</i></addr>
+<addr>34 Griffiths &amp; <i>Smith, educational</i></addr>
 <addr>agency offices</addr>
 <xst>here is Henrietta street</xst>
 <addr>35 Allsop George, wholesale turner</addr>
@@ -3885,7 +3885,7 @@ Charles Obach, manager</addr>
 <addr>38 Rogers Mrs. Eliza, tinplate wrkr</addr>
 <xst>here are Little May's bldngs.</xst>
 <addr>42 <i>Goldsmiths' Arms</i>,Chs.Fdk.Bates</addr>
-<addr>44&frac12; Chapman Thos.Wm.leather.cutr</addr>
+<addr>44&#189; Chapman Thos.Wm.leather.cutr</addr>
 </street>
 <street>
 <head>Beech lane.,</head><head2>13 <i>Beech st. Barbicn.</i>(<b>E.C.</b>)(CITY)</head2>
@@ -3922,7 +3922,7 @@ Charles Obach, manager</addr>
 <page start="175"/>
 <addr>29 Gouldstone Jhn.Hy.dining rooms</addr>
 <addr>Robert Moses Allen, machinist</addr>
-<addr>30<i>A&euml;rated Bread Company's Dep&ocirc;t</i></addr>
+<addr>30<i>A&#235;rated Bread Company's Dep&#244;t</i></addr>
 <addr>32 Foote Hen. &amp; Co. scarf wareho</addr>
 <addr>Jarvis Henry, hairdresser</addr>
 <xst>here is Whitecross street.</xst>
@@ -3983,7 +3983,7 @@ Charles Obach, manager</addr>
 <addr>Putley James, cooper</addr>
 <addr>20 Clark Thomas Henry,lighterman</addr>
 <addr>21 Hinds Charles, bottle merchant</addr>
-<addr>22 TOWER STREET BUILDINGS :&mdash;</addr>
+<addr>22 TOWER STREET BUILDINGS :&#8212;</addr>
 <addr>Ilbery James, shipping agent</addr>
 <addr>Ward Geo. &amp; Sons, lightermen</addr>
 <addr>HerringE.Giles&amp;Co.isingls.mers</addr>
@@ -4263,7 +4263,7 @@ Yool George Valentine</addr>
 <addr>Count E. Batthyany,</addr>
 <addr>Count F. V. de Lutzou,</addr>
 <addr>Robert D. Althann,</addr>
-<addr>Baron H. Spaun, naval attach&eacute;</addr>
+<addr>Baron H. Spaun, naval attach&#233;</addr>
 <addr>T. Sedlaczek, chancellor</addr>
 <addr>19 Feversham Earl</addr>
 <addr>20 Holmesdale Viscount, M.P</addr>
@@ -4366,7 +4366,7 @@ of Montrose</addr>
 <head>Belgrave ter,</head><head2><i>.Holloway</i>(<b>N.</b>) <i>See Holloway rd. West side</i>.</head2>
 </street>
 <street>
-<head>Belltha villas,</head><head2><i>Barnsbury</i> (<b>N.</b>), <i>from 152 <i>Hemingford road</i>.</head2>
+<head>Belltha villas,</head><head2><i>Barnsbury</i> (<b>N.</b>), <i>from</i> 152 <i>Hemingford road</i>.</head2>
 <map>MAP L 5, M 5.</map>
 <side>NORTH SIDE.</side>
 <addr>1 Costa Frederick, dentist</addr>
@@ -4428,9 +4428,9 @@ of Montrose</addr>
 <map>MAP P8, P9.</map>
 <addr><i>Aire &amp; Calder Bottle Warehouse</i>
 <i>Jews' Free School</i>
-<i>London General Omnibus Co. Dep&ocirc;t</i>, Aug. Geo. Church, sec
+<i>London General Omnibus Co. Dep&#244;t</i>, Aug. Geo. Church, sec
 Newman John &amp; Son, beer mers</addr>
-<addr>16 Reed Leonard, butcher</i></addr>
+<addr>16 Reed Leonard, <i>butcher</i></addr>
 <addr>18 Walton John, cowkeeper</addr>
 </street>
 <street>
@@ -4451,9 +4451,9 @@ Newman John &amp; Son, beer mers</addr>
 <addr>9 Lowmass Wm.Hy.who. confctnr</addr>
 <addr>10 Hogg George, grocer</addr>
 <addr>11 Hoare Richard, cooper</addr>
-<addr>12 <i>Workmen's Hall</i>
-<i>North West London Free Dispensary for Sick Children under Twelve Years of Age,</i> Dr. T. C. Kirby, L.K.Q.C.P</i>
-<i>Bible &amp; Domestic Mission,</i> Mrs. Sarah Jane Cook, bible woman</addr>
+<addr>12 <i>Workmen's Hall</i></addr>
+<addr><i>North West London Free Dispensary for Sick Children under Twelve Years of Age,</i> Dr. T. C. Kirby, L.K.Q.C.P</addr>
+ <addr><i>Bible &amp; Domestic Mission,</i> Mrs. Sarah Jane Cook, bible woman</addr>
 <addr>14 Packer Michael, axletree maker
 Wheeler Joseph, coachsmith
 Gedge Charles Aug. hairdresser</addr>
@@ -4532,7 +4532,7 @@ Allhausen &amp; Johnston, wholesale furriers</addr>
 <street>
 <head>Bell yard,</head><head2><i>Templebar</i>(<b>W.C.</b>) (<i>partly within the</i> CITY), 204 <i>Fleet st. to Carey st</i>.</head2>
 <map>MAP L9, M9.</map>
-<addr>1 <i>Haunch of Venion</i>, John Stening</i></addr>
+<addr>1 <i>Haunch of Venion</i>, <i>John Stening</i></addr>
 <addr>2 Bennett &amp; Co. law stationers</addr>
 <addr>Holmes &amp; Son, deed box makers</addr>
 <addr>3 <i>Effra Mutual Building Society</i>, W. H. Harwar, sec Harwar &amp; Son, law stationers Metherell John K. law wig ma Tyrrell Edwin, solicitor</addr>
@@ -4545,7 +4545,7 @@ Allhausen &amp; Johnston, wholesale furriers</addr>
 <addr>10 Hull Thomas, fireproof box mkr</addr>
 <addr>12 Chevalier,Bowness &amp; Son, fishing tackle makers</addr>
 <addr>13 Stevens(HenryGeorge)&amp;Haynes (R. W.), law booksellers</addr>
-<addr>14 SELBORNE CHAMBERS :&mdash;</addr>
+<addr>14 SELBORNE CHAMBERS :&#8212;</addr>
 <addr>Hatton &amp; Son, law stationers</addr>
 <addr>Henderson Thos.P.M.A. solicitor</addr>
 <addr>Bleby Henry William, barrister</addr>
@@ -4595,7 +4595,7 @@ Schramm Karl Robert, surgical instrument maker</addr>
 <head>Belsize park,</head><head2>Park gardens &amp; Park terrace, <i>Hampstead.</i>. (<b>N.W.</b>)</head2>
 </street>
 <street>
-<head>Belsize road,</head><head2><i>from Swiss <i>terrace,Finchley road.</i> (<b>N.W.</b>)</head2>
+<head>Belsize road,</head><head2><i>from</i> Swiss <i>terrace,Finchley road.</i> (<b>N.W.</b>)</head2>
 <map>MAP F5, G5.</map>
 <side>SOUTH SIDE.</side>
 <addr>1 Fox George</addr>
@@ -4764,13 +4764,13 @@ PILLAR LETTER BOX</addr>
 <addr>186 Stainton Mrs</addr>
 <addr>188 Rogers Joseph</addr>
 <addr>190 Wright John Lawrence</addr>
-<addr>192 De N&eacute;gri Mrs
+<addr>192 De N&#233;gri Mrs
 De Negri Alexis,surgeon dentist</addr>
 <xst>here is Abbey road</xst>
 </street>
 <street>
 <head>Belsize square &amp; terrace,</head><head2><i>Hampstead</i> (<b>N.W.</b>)</head2>
-<addr><i>See</i> "SUBURBAN DIRECTORY"&mdash;HAMPSTEAD.</addr>
+<addr><i>See</i> "SUBURBAN DIRECTORY"&#8212;HAMPSTEAD.</addr>
 </street>
 <street>
 <head>Belvedere p1.,</head><head2>45 <i>Borough road</i>. (<b>S.E.</b>)</head2><map>MAP N11.</map>
@@ -4792,7 +4792,7 @@ De Negri Alexis,surgeon dentist</addr>
 <addr>Thomas Alfred, jun</addr>
 <addr>25 Townshend &amp; Son, india rubber manufacturers</addr>
 <addr>27 Thomas Alfred Moore</addr>
-<addr>INDIA STORE DEP&Ocirc;T</addr>
+<addr>INDIA STORE DEP&#244;T</addr>
 <xst>here is College street</xst>
 <addr>37 Barham Hy.Hope,chndlr.'s shop</addr>
 <addr>41 Meredith Brothers, saw mills</addr>
@@ -4815,7 +4815,7 @@ Howell Henry</addr>
 <addr>63 Walkere, Parker &amp; Co. lead mers</addr>
 <addr>65 Knight,Bevan&amp;Sturge,cmnt.ma</addr>
 <addr>67 &amp; 69 Gabriel Joseph S.stonemer</addr>
-<addr><i>London Portland Cement Co, Limited</i>,</i> Jamos Brierley Crossley, managing director (Canterbury wharf)</addr>
+<addr><i>London Portland Cement Co, Limited</i>, Jamos Brierley Crossley, managing director (Canterbury wharf)</addr>
 <side>SOUTH SIDE.</side>
 <addr><i>from West minster bridge road to Waterloo bridge</i>.</addr>
 <addr>18 Williams William, lodging house</addr>
@@ -4835,10 +4835,10 @@ Howell Henry</addr>
 <addr>78 AudsleyJohn Wm. boat builder</addr>
 <addr>80 Chamberlain Benj.&amp;Son, carmen</addr>
 <addr>82 Hawkes &amp; Co. army outfitters</addr>
-<addr></street>
+</street>
 <street>
 <head>Cresent</head> 1 Brown &amp; Urlwin, timber mers
-Smith Jonas &amp; Co. wood moulding works</addr>
+<addr>Smith Jonas &amp; Co. wood moulding works</addr>
 <xst>here is Vine street</xst>
 <addr>Cresent, 15 Clapton John, trunk manfctr</addr>
 <addr>Cresent, 10 ReynoldsH.J.&amp;Co.army conts</addr>
@@ -5061,7 +5061,7 @@ Wagner Edward, tailor</addr>
 <head>Bentinck st.,</head><head2>81 <i>Berwick st. Soho</i>.(<b>W.</b>)</head2><map>MAP J9.</map>
 <addr>8 Carter John, jewel case maker</addr>
 <addr>14 Couper Edwin Alfred, pewterer</addr>
-<addr>14&frac12; Rogers Charles, bootmaker</addr>
+<addr>14&#189; Rogers Charles, bootmaker</addr>
 </street>
 <street>
 <head>Bentinck st.,</head><head2><i>Manchester sq</i>. (<b>W.</b>) 54 <i>Welbeck st. to</i> 23 <i>Marylebone lane</i>.</head2>
@@ -5090,7 +5090,7 @@ Wagner Edward, tailor</addr>
 <addr>19 Dumont Madame Adele, milliner</addr>
 <addr>20 Moody Mrs. Mary, lace cleaner</addr>
 <addr>21 Hutt William</addr>
-<addr>22 B&eacute;di&eacute; Madame Sidonie, milliner</addr>
+<addr>22 B&#233;di&#233; Madame Sidonie, milliner</addr>
 <addr>23 Lewis Mrs</addr>
 </street>
 <street>
@@ -5415,7 +5415,7 @@ Plummer George</addr>
 <addr>4 Wedlake Hy. Thos. organ builder</addr>
 </street>
 <street>
-<head>Berkeley sq. <b>(W.),</head><head2><i>north end of Berkeley st. Piccadilly</i>.</head2>
+<head>Berkeley sq. <b>(W.)</b>,</head><head2><i>north end of Berkeley st. Piccadilly</i>.</head2>
 <map>MAP I9, J9, J10.</map>
 <addr>1 Burnett Athole</addr>
 <addr>2 Shafto John</addr>
@@ -5550,7 +5550,7 @@ PoppletonRichd.D.leather factor</addr>
 <addr>10 &amp; 11 Carrington Julius Isaiah John, linendraper</addr>
 <addr>12 Lampon Thomas, beer retailer</addr>
 <addr>13 Ledicott Alfred, cheesemonger</addr>
-<addr>13&frac12; Grover &amp;Bartlett, wheelwrights</addr>
+<addr>13&#189; Grover &amp;Bartlett, wheelwrights</addr>
 <addr>14 Grover &amp; Bartlett, wheelwrights</addr>
 <addr>15 Pinnion Wm.ginger beer manufr</addr>
 <addr>16 Hubbard John, corn dealer</addr>
@@ -5588,7 +5588,7 @@ Delay James, dealer in horns &amp;c. Green walk</addr>
 <addr>66 Read &amp; Co. grocers</addr>
 <addr>64 Taylor George, saddler</addr>
 <addr>65 Sawyer Brothers, cheesemongers</addr>
-<addr>69 <i>Compagnie Fran&ccedil;aise</i> (Pelletier &amp; Co.), chocolate &amp; cocoa manfrs</addr>
+<addr>69 <i>Compagnie Fran&#231;aise</i> (Pelletier &amp; Co.), chocolate &amp; cocoa manfrs</addr>
 <addr>70 Allen Enos Geo. chandler's shop</addr>
 <addr>72 Rouse Edwin, greengrocer</addr>
 <addr>73 <i>Three Compasses,</i> Joseph Bull</addr>
@@ -5625,10 +5625,10 @@ Delay James, dealer in horns &amp;c. Green walk</addr>
 <addr>111 Russell Thomas James, oilman</addr>
 <addr>112 Crouch &amp; Co. who. confectionrs</addr>
 <addr>113 Lyons William, hairdresser</addr>
-<addr>114 <i>Aerated Bread Co.'s Dep&ocirc;t</i>
+<addr>114 <i>Aerated Bread Co.'s Dep&#244;t</i></addr>
 </street>
 <street>
-<head>Bermndsey. skin market.</head> (<b>S.E.</b>)</addr>
+<head>Bermndsey. skin market.</head> <addr>(<b>S.E.</b>)</addr>
 <map>MAP O 11</map>
 <addr>Bray W.R.&amp; Co.hide&amp; skin salsmn</addr>
 <addr>Clench &amp; Co. hide &amp; skinsalesmn</addr>
@@ -5644,7 +5644,7 @@ Delay James, dealer in horns &amp;c. Green walk</addr>
 <map>MAP O 11.</map>
 <addr>1 Gibson Augustus George, baker</addr>
 <addr>2 <i>Five Bells</i>, Thomas Napier Beach</addr>
-<addr>3&frac12; Balls William Henry, architect</addr>
+<addr>3&#189; Balls William Henry, architect</addr>
 <addr>4 Hesketh Robt. district surveyor</addr>
 <addr>11 White Mrs</addr>
 <addr>14 Reid Charles, tailor</addr>
@@ -5852,11 +5852,11 @@ Roberts, Adlard &amp; Co. slate merchants (Mill stairs)
 Downing William, barge owner
 Starkey, Sons &amp; Co. sail makers (Mill stairs)
 Dudin Henry &amp; Sons, wharfingers &amp; c. (Springall's wharf)</addr>
-<addr>PENRHYN WHARF :&mdash;</addr>
+<addr>PENRHYN WHARF :&#8212;</addr>
 <addr>Brindley Joseph &amp; Co.slate merchants</addr>
 <addr>Ashby Arthur William, hop &amp; seed warehouse (wharf)</addr>
 <addr>Halcomb&amp;Co.sack contrctrs.Lim</addr>
-<addr>MURRELL'S WHARF :&mdash;</addr>
+<addr>MURRELL'S WHARF :&#8212;</addr>
 <addr> Murrell Wm. Chas. coal mercht</addr>
 <addr>Murrell Robert, granary keeper (East Lane wharf)</addr>
 <addr>11 <i>Golden Fleece</i>, John Davis <i>Bunch of Grapes</i>, Henry Hawk/?/</addr>
@@ -5895,7 +5895,7 @@ Johnson R. &amp; Co. lightermen</addr>
 <page start="180"/>
 </street>
 <street>
-<head>Bernard mews,</head><head2>9 <i>Little</i> Guilfordst</i>. (<b>W.C.</b>) </head2><map>MAP K8</map>
+<head>Bernard mews,</head><head2>9 <i>Little Guilfordst</i>. (<b>W.C.</b>) </head2><map>MAP K8</map>
 <addr>Murch Wm. veterinary surgeon</addr>
 </street>
 <street>
@@ -5927,7 +5927,7 @@ sq</i>.(<b>W.C.</b>)</head2><map>MAP K8, L8</map>
 <addr>13 Negus Miss</addr>
 <addr>15 Salisbury Charles</addr>
 <addr>17 Hewitt John Henry, lodging ho</addr>
-<addr>21 Spiers Richard Phen&eacute;</addr>
+<addr>21 Spiers Richard Phen&#233;</addr>
 <addr>Spiers Walter Lewis</addr>
 <addr>Spiers Ernest G-eorge</addr>
 <addr>22 Moulton Richard</addr>
@@ -5967,7 +5967,7 @@ sq</i>.(<b>W.C.</b>)</head2><map>MAP K8, L8</map>
 <addr>46 Bishopp John, beer retailer</addr>
 <addr>48 Silverstone Michael,chndlr.'s shp</addr>
 <addr>58 NazerMrs.Mry.Ann,featherdrssr</addr>
-<addr>68 <i>George IV. James Cooper</addr>
+<addr>68 <i>George IV. James Cooper</i></addr>
 <addr>70 Damm Frederick William, baker</addr>
 <addr>74 Nicholas William, greengrocer</addr>
 <xst>here is Everard street</xst>
@@ -6006,7 +6006,7 @@ to34 Charles st</i>.</head2><map>MAP J8.</map>
 <addr>3 Faraday &amp; Son, gas engineers</addr>
 <addr>FaradayHarold,importr.of lamps</addr>
 <addr>4 Taylor Wm.Geo.stainedgls.artst</addr>
-<addr><i>United Kingdom Beneficent Association</i>, Wm. Hy. Hart, sec</i></addr>
+<addr><i>United Kingdom Beneficent Association</i>, <i>Wm. Hy. Hart, sec</i></addr>
 <addr>5 Baileys,Shaw &amp; Gillett,solicitors</addr>
 <addr>6 &amp; 7 Kershaw Richd, private hotl</addr>
 <addr>8 Toplis Geo. Albert, upholsterer</addr>
@@ -6022,13 +6022,13 @@ to34 Charles st</i>.</head2><map>MAP J8.</map>
 <addr>Bertschinger James, tailor</addr>
 <addr>Stedman John, musical agency</addr>
 <addr>13 Venables Adolphus Robt. artist</addr>
-<addr>Mani&eacute;re Edward, solicitor</addr>
+<addr>Mani&#233;re Edward, solicitor</addr>
 <addr>Carleton Misses Ada &amp; Rose, teachers of dancing</addr>
 <addr>Oppenheimer Ludwig, parquet floor maker</addr>
 <addr>14 Eavestaff Wm. G. pianoforte ma</addr>
 <addr>15 Myers&amp; Co.educational publshrs</addr>
 <addr>16 Dod &amp; Longstaffe, solicitors
-<i>London Association for Protection of Trade</i>, Wm. Hy.Cubison,sec<i></addr>
+<i>London Association for Protection of Trade</i>, <i>Wm. Hy.Cubison,sec</i></addr>
 <addr>17 Brooking Louis&amp;Co.mantle mkrs</addr>
 <addr>18 Bryant Wm. E. costume manufr</addr>
 <addr>19 Barnard J. &amp; Son, artist colormn</addr>
@@ -6074,11 +6074,11 @@ fare of the Blind</i>,</addr>
 Pinti Raffaelle, artist</addr>
 <addr>47 Jones Shadraoh Edward Robert, M.D. surgeon</addr>
 <addr>48 Jones Rt. &amp; Wm. manf. jewellers</addr>
-<addr>49<i>General Apothecaries' Co. Limtd</i> F. Messer, sec</i></addr>
+<addr>49<i>General Apothecaries' Co. Limtd</i> <i>F. Messer, sec</i></addr>
 <addr>50 Schueremans Madame, lace dealr</addr>
 <addr>51 Schweppe J.&amp;Co.soda water ma/?/</addr>
 <addr>52 Sanderson Arthur, paper hanging maker</addr>
-<addr>53 <i>Clinical Society of London</i>,Geo.Wm. Callender, F.R.S. presWilliam Caley, M.D. &amp; Howard Marsh, esqrs. secs</i></addr>
+<addr>53 <i>Clinical Society of London</i>,Geo.Wm. Callender, F.R.S. presWilliam Caley, M.D. &amp; Howard Marsh, esqrs. secs</addr>
 <addr><i>Royal Medical &amp; Chirurgical Socty</i>.Charles West, M.D. presidentJames Andrew, M.D. &amp; Timothy Holmes, esq. hon. SecsBnj.Rt.Wheatley,res.librarian
 <i>Pathological Society of London</i>, Chs.Murchison,M.b.,F.R.S.pres</addr>
 <addr>R. Douglas Powell, M.D. hon. secs</addr>
@@ -6104,14 +6104,14 @@ Martin Geo. F. commission agnt</addr>
 <addr>60 Howard Theodore A. architect</addr>
 <addr>Homann W.H.&amp;Son.interr.dcrtrs</addr>
 <addr>61 Dubois-GelleyEdwd.upholsterer
-<i>Dubois-Gelley Madame Marie. Louise, dressmaker</addr>
+<i>Dubois-Gelley Madame Marie. Louise, dressmaker</i></addr>
 <addr>62 <i>French Dyeing &amp; Bleaching Co</i>. George Henry, man</addr>
 <addr>Sanciel &amp; Fasler Misses, embroideresses.</addr>
 <xst>here is Castle street east</xst>
 <addr>63 Woodin John, upholsterer</addr>
 <addr>Polak Louis &amp; Co. comsn. agents</addr>
 <addr>64 <i>National Society for Women's Suffrage</i>,Miss Kate Thornbury, sec
-Suffrage</i> Miss Kate Thornbury, sec <i>Lunacy Law Reform Association</i>,Mrs. Louisa Lowe, hon. sec</addr>
+<i>Suffrage</i> Miss Kate Thornbury, sec <i>Lunacy Law Reform Association</i>,Mrs. Louisa Lowe, hon. sec</addr>
 <addr>65 Buckenham T.W.&amp; J.linen mnfrs</addr>
 <addr>66 Chandler Henry Parry, surgeon</addr>
 <addr>66 Chandler &amp; Co. surgical inst.ma</addr>
@@ -6245,7 +6245,7 @@ Harbud Charles, french polisher</addr>
 <addr>87 Peacock John Manning.boot ma</addr>
 <addr>88 Ridden William, tobacconist</addr>
 <addr>89 Saile Pius, provision dealer</addr>
-<addr>90 <i>Hampshire Bog</i>, Joseph Loyd Apsey</i></addr>
+<addr>90 <i>Hampshire Bog</i>, Joseph Loyd Apsey</addr>
 <addr>91 Hennings Hy. jun. ironmonger</addr>
 <addr>92 Hustler Chas. Devereux,coro dlr</addr>
 <addr>93 Winterson MissCharlot.linendrpr</addr>
@@ -6258,10 +6258,10 @@ Harbud Charles, french polisher</addr>
 <addr>102 Yorke William, oil &amp; color man</addr>
 <addr>103 Roffey Henry, pork butcher</addr>
 <addr>104 <i>City of London</i>,Jhn.Chas.Porter</addr>
-<addr></street>
+</street>
 <street>
 <head>Bessboro'gardens,</head> <i>Pimlico</i>(<b>S.W.</b>),<i>Belgrave road, foot of Vauxhall bridge.</i>
-lico</i> (<b>S.W.</b>), <i>Belgraveroad, foot of Vauxhall bridge</i>.</addr>
+<addr><i>lico</i> (<b>S.W.</b>), <i>Belgraveroad, foot of Vauxhall bridge</i>.</addr>
 <map>MAP K12.</map>
 <addr>HOLY TRINITY CHURCH</addr>
 <addr>1 <i>Young Women Servants' Temporary Home</i>, Miss Jane Chaffer, lady supt</addr>
@@ -6316,7 +6316,7 @@ lico</i> (<b>S.W.</b>), <i>Belgraveroad, foot of Vauxhall bridge</i>.</addr>
 <addr><i>West London Shoeblack Society</i>,</addr>
 <addr>Robert Jenner, sec</addr>
 <addr><i>Bessborough Mission Hall</i></addr>
-<addr>S&eacute;lincourt&amp;Colman,mantle mnfs</addr>
+<addr>S&#233;lincourt&amp;Colman,mantle mnfs</addr>
 </street>
 <street>
 <head>Bessborough street,</head><head2><i>Pimlico</i> (<b>S.W.</b>),<i>Lupus street to Bessborough gardens</i>.</head2>
@@ -6595,7 +6595,7 @@ Relief &amp; Repressing Mendicity</i>,</addr>
 <xst>here is Club row</xst>
 <addr>62 Millo Richard, fruiterer</addr>
 <addr>64 Skelton Frederick, coffee rooms</addr>
-<addr>66 <i>A&euml;rated Bread Co. Limited</i></addr>
+<addr>66 <i>A&#235;rated Bread Co. Limited</i></addr>
 <addr>68 Huxtable John, beer retailer</addr>
 <addr>70 Muller Charles, cabinet maker</addr>
 <addr>72 Le Beau Daniel, dealer in birds</addr>
@@ -6851,7 +6851,7 @@ Relief &amp; Repressing Mendicity</i>,</addr>
 <addr>3 Mason Thomas, watchmaker</addr>
 <addr>5 Heffill George, tailor</addr>
 <addr>7 Handley Mrs. Amelia,confectnr</addr>
-<addr>7&frac12; Newitt Henry, shoemaker</addr>
+<addr>7&#189; Newitt Henry, shoemaker</addr>
 <addr>9 Tayler Rowland umbrella makr</addr>
 <addr>13 PapworthRchd.Jhn.Wm.bootma</addr>
 <addr>17 Thorne William &amp; Co. dyers</addr>
@@ -6953,12 +6953,12 @@ cres</i>. (<b>W.C</b>), 18 <i>Mabledon pl.to </i>46 <i>Juddst</i>.</head2><map>M
 st</i>. (<b>E.C.</b>). (CITY).</head2><map>MAP O9.</map>
 <addr>1 Croxson F. &amp; Co. dining rooms</addr>
 <addr>2 Bell,Brandenburg&amp; Co.e.ind.mrs</addr>
-<addr>2 Sacs &amp; H&ouml;hchheimer, wine mers</addr>
+<addr>2 Sacs &amp; H&#246;hchheimer, wine mers</addr>
 <addr>Dawson Bros, agents Dawson Brothers, ship&amp;ins.agnts</addr>
 <addr>Neave Richard &amp; Thos. merchnts</addr>
 <addr>Robertson James Roderick</addr>
 <addr>FenestreJosph.french gds.imprtr</addr>
-<addr>Nuwendam &amp; Klu&yuml;skens, wine
+<addr>Nuwendam &amp; Klu&#255;skens, wine
 importers, J. Fenestre, agt</addr>
 <addr>3 Hopcraft&amp; Broadwater,shipping agents</addr>
 <addr>Moore &amp; Manby, iron merchants</addr>
@@ -6991,7 +6991,7 @@ Thomson P. J. &amp; Co. merchants</addr>
 <addr>10 Druce, Sons &amp; Jackson, solicitors</addr>
 <addr>Pritchard Henry, solicitor</addr>
 <addr>11 Fuller, Horsey, Sons&amp;Co.auctinrs</addr>
-<addr>R&ouml;sing Bros. &amp; Co. merchants</addr>
+<addr>R&#246;sing Bros. &amp; Co. merchants</addr>
 <addr>11 ShadboltGeo.&amp;Son,mhgny. brkrs</addr>
 <addr>BannerBros. &amp;Co.mers.&amp;shipown</addr>
 <addr>Bassermann Fredk. Louis, mer</addr>
@@ -7008,7 +7008,7 @@ Leadenhall st</i>.</head2><map>MAP O9.</map>
 <addr>1 Jackson Wm. &amp; Co. outfitters &amp;c</addr>
 <addr>2 Bramble, Wilkins &amp; Co. tobacco 
 brokers</addr>
-<addr>4 Sch&ouml;tte Antonio Luis &amp; Co.mers
+<addr>4 Sch&#246;tte Antonio Luis &amp; Co.mers
 Low, Huckvale&amp;Co. provsn.mers
 Tingle, Jacobs &amp; Co. carmen</addr>
 <addr>5 Cooper &amp; Walker, solicitors</addr>
@@ -7020,16 +7020,16 @@ McLellandW.&amp; Co. com. merchnt</addr>
 Jones R. E. Searle &amp; Co. shipagts
 <i>Athenian Marble Co. Limited</i></addr>
 <addr><i>East &amp; West India Dock Co</i>.John Lowther du Plat Taylor, sec. Dock house</addr>
-<addr>BILLITER HOUSE:&mdash; <i>First Floor</i></addr>
+<addr>BILLITER HOUSE:&#8212; <i>First Floor</i></addr>
 <addr>Novelli &amp; Co. merchants <i>Second Floor</i>.</addr>
-<addr>M&uuml;llerJhn.C.&amp;Co.american mers.</addr>
+<addr>M&#252;llerJhn.C.&amp;Co.american mers.</addr>
 <xst>here is Billiter square</xst>
 <addr>11 Bottomley Robert F. nautical instrument maker</addr>
 <addr>12 Carter George, tailor</addr>
 <addr>13 Suter, Austin &amp; Co. ship &amp;c. provision merchants</addr>
 <addr>14 Crispin (Alex.) &amp; Horncastle, auctioneers &amp;c</addr>
 <addr>Smith Alfred, hardware agent
-Hartley J&mdash; G&mdash;, merchant</addr>
+Hartley J&#8212; G&#8212;, merchant</addr>
 <addr>Hemken Emil&amp;Co.wine mrchnts
 Arundel Matthew, tailor</addr>
 <addr>15 WalletDuncan&amp;Co. winemers.&amp;c</addr>
@@ -7058,7 +7058,7 @@ Hudson &amp; Co.commsn.merchants
 <addr>27 &amp; 28 Garland J. &amp; Son, wine mers</addr>
 </street>
 <street>
-<head> Bina gardens,</head><head2><i>South Kensington. (<b>S.W.</b>)<i> Gledhow gardens</i>.</head2>
+<head> Bina gardens,</head><head2><i>South Kensington</i>. (<b>S.W.</b>)<i> Gledhow gardens</i>.</head2>
 <map>MAP F 12.</map>
 <side>WEST SIDE.</side>
 <addr>1 Brownlow Mrs</addr>
@@ -7068,11 +7068,11 @@ Hudson &amp; Co.commsn.merchants
 <addr>4 Chapman Mrs</addr>
 <addr>8 Moggridge Matthew</addr>
 <addr>10 Valpy Robert</addr>
-<addr>12 Chapman Gen. Sir F. E. G.C.B.
+<addr>12 Chapman Gen. Sir F. E. G.C.B.</addr>
 </street>
 <street>
 <head>Bingfield street </head>(<b>N.</b>), 257 
-<i>Caledonian rd</i>.</addr><map>MAP L 5.</map>
+<addr><i>Caledonian rd</i>.</addr><map>MAP L 5.</map>
 <side>SOUTH SIDE.</side>
 <addr>11 Blunt Edward, pocket book ma</addr>
 <addr>29 Frost Robert Charles, builder</addr>
@@ -7118,12 +7118,12 @@ Hudson &amp; Co.commsn.merchants
 <xst>here is Pembroke street</xst>
 <addr>60 Faber John, baker</addr>
 <addr>68 &amp; 71 Tomlin James, greengrocer</addr>
-<addr>74 to 80 Marshall &amp; Hatch,engineers
+<addr>74 to 80 Marshall &amp; Hatch,engineers</addr>
 </street>
 <street>
-<head>Birchfield street (<b>E.</b>),</head><i>from 
+<head>Birchfield street (<b>E.</b>),</head><addr><i>from 
 West, to </i> 50 <i>East India dock road</i>.
-dock road</i>.</addr>
+dock road.</addr>
  <map>MAP T9, T 10.</map>
 <addr>1 Mahony Daniel, greengrocer</addr>
 <xst>here is Amoy place</xst>
@@ -7134,11 +7134,11 @@ dock road</i>.</addr>
 <addr>14 Veryard Robert, tobacconist</addr>
 <addr>18 Holliday James David Watson, house decorator</addr>
 <addr>24 &amp; 26 Etheridge Wm. beer retailer</addr>
-<addr>28 Hermann Frederick Fritz, dunnage wood dealer
+<addr>28 Hermann Frederick Fritz, dunnage wood dealer</addr>
 </street>
 <street>
 <head>Birchin la.</head><i>Cornhill</i> (<b>E.C.</b>) 
-(CITY), 35 <i>Cornhill </i> &amp; 63 <i>Lombard st.</i>.</addr>
+<addr>(CITY), 35 <i>Cornhill </i> &amp; 63 <i>Lombard st.</i>.</addr>
 <map>MAP O9.</map>
 <addr>2 Gaimes &amp; Co. hatters</addr>
 <addr>2 &amp; 3<i>Mercantile Marine Insurance 
@@ -7243,23 +7243,23 @@ Lambeth.</i> (<b>S.E.</b>) </head2><map>MAP M 12.</map>
 <street>
 <head>Bird's mews (<b>W.</b>)<i>Little Queen street, Edgware road</i>. </head>
 <map>MAP H 9.</map>
-<addr>Cooper Henry Wm. ventilator ma
+<addr>Cooper Henry Wm. ventilator ma</addr>
 </street>
 <street>
-<head>Birdcage walk (S.W.),</head> <i>St. James's park</i>.</addr>
+<head>Birdcage walk (S.W.),</head> <addr><i>St. James's park</i>.</addr>
 <map>MAP J 11, K11.</map>
 <addr>WELLINGTON BARRACKS,</addr>
-<addr>John Wright Duncan,barrk.sergt
+<addr>John Wright Duncan,barrk.sergt</addr>
 </street>
 <street>
-<head>Bishop's court (W.C.),</head> 79<i>Chancery la. to Lincoln'sinn</i>.</addr>
+<head>Bishop's court (W.C.),</head><addr> 79<i>Chancery la. to Lincoln'sinn</i>.</addr>
 <map>MAP L8, L9.</map>
 <addr>4 &amp; 5 Phillips John &amp; James, law 
 stationers</addr>
-<addr>8 Eyles George, coffee rooms
+<addr>8 Eyles George, coffee rooms</addr>
 </street>
 <street>
-<head>Bishop's court,</head>17 <i>Old 
+<head>Bishop's court,</head><addr>17 <i>Old 
 Bailey</i>. (<b>E.C.</b>) (CITY)</addr>
 <map>MAP M9.</map>
 <addr>2 Webb William, plumber</addr>
@@ -7434,7 +7434,7 @@ Limited</i>, A. G. McNeill, sec</addr>
 <addr>23 BrewerSamuel&amp;Co. pianofort.ma</addr>
 <addr>Gwyer Wm.&amp; Jsph.russia mrchts</addr>
 <addr> 24 Gabriel William, watchmaker
-CROSBY HALL CHAMBERS :&mdash;-
+CROSBY HALL CHAMBERS :&#8212;-
 2 Belaieff A.P. commissn. mer</addr>
 <addr>3 Collins Joseph P. solicitor</addr>
 <addr>4 &amp; 16 Ascher, Ash&amp; Co. cigar
@@ -7533,7 +7533,7 @@ Lec,Paterson &amp; Co. chemists</addr>
 <addr>52 Robinson Edwd.Hy.&amp; Co.cutlrs</addr>
 <addr>53 Robinson Edwd.Hy.&amp; Co.options</addr>
 <addr>54 Levy Mark, tailor</addr>
-<addr>54&frac12; <i>Marine Society</i>,S.W. Sadler, R.N. secretary</addr>
+<addr>54&#189; <i>Marine Society</i>,S.W. Sadler, R.N. secretary</addr>
 <addr>Buckland Francis, solicitor</addr>
 <addr>Truefitt &amp; Gane, solicitors</addr>
 <addr>Bellamy,Strong &amp;Bennett, solrs</addr>
@@ -7638,7 +7638,7 @@ Hall &amp; Son, boot &amp; shoe maker</addr>
 <addr>72 Brown &amp; Green Lim. range mkrs</addr>
 <addr>72 &amp; 73 Peachey Geo.pianoforte ma</addr>
 <addr>77 Fox Thomas &amp; Co. cabinet mas</addr>
-<addr>77&frac12; Bedell J. M. &amp; Co. printers</addr>
+<addr>77&#189; Bedell J. M. &amp; Co. printers</addr>
 <addr>Herbert &amp; Godfrey, opticians (7 Peahen court)</addr>
 <addr>78 <i>Peahm</i>, Stevens &amp; Sons</addr>
 <addr>79 Emden Woolf, sponge merchant</addr>
@@ -7664,7 +7664,7 @@ Hall &amp; Son, boot &amp; shoe maker</addr>
 <addr>Fell,Mackintosh &amp; Co.genrl.mcrs</addr>
 <addr>86 <i>Green Dragon</i>, Hy.Peter O'Meara</addr>
 <addr>89 Townson &amp; Mercer, oprtv.chmsts</addr>
-<addr>93 PALMERSTON BUILDINGS :&mdash;</addr>
+<addr>93 PALMERSTON BUILDINGS :&#8212;</addr>
 <addr><i>City Offices Co. Limited</i> Joseph Strike, sec,</addr>
 <addr><i>Palmerston Restaurant</i></addr>
 <addr>Mazet Hy. &amp; Co. hairdressrs</addr>
@@ -7677,7 +7677,7 @@ Hall &amp; Son, boot &amp; shoe maker</addr>
 <addr>40 &amp; 41 Vachon C. &amp; Co. mers</addr>
 <addr>42 Savage &amp; Hill, merchants</addr>
 <addr>43 &amp; 43A, Mansell Frederick W. &amp; Co. stock brokers</addr>
-<addr>44 to 46 Brandt Richard,mercht</addr><addr>Hoth J. manufacturer (Rd.Brandt, agent)</addr><addr>kupferschmidt  C&aelig;sar</addr>
+<addr>44 to 46 Brandt Richard,mercht</addr><addr>Hoth J. manufacturer (Rd.Brandt, agent)</addr><addr>kupferschmidt  C&#230;sar</addr>
 <addr>48 &amp; 49 <i>CambrianMiningCo.Lim Talybont Silver Lead Mining Co. Limited</i>. Geo. H. Keene, man. dir</addr>
 <addr>50 <i>Mediterranean Association</i> (<i>The</i> M.G.Webb, man</addr>
 <addr>76 Sclavo P. C. &amp; Co. mrchnts</addr>
@@ -7699,7 +7699,7 @@ Hall &amp; Son, boot &amp; shoe maker</addr>
 <addr>184 Phillips Henry Louis, mer</addr>
 <addr>185 Walmsley &amp; Co.ins. brokers</addr>
 <addr>188 Joy Edward, seed broker</addr>
-<addr>95 CROSBY HOUSE :&mdash;</addr>
+<addr>95 CROSBY HOUSE :&#8212;</addr>
 <addr>Dunn William &amp; Co. merchts</addr>
 <addr>Goodliffe &amp; Smart, merchants</addr>
 <addr>Heisch, Dodd &amp; Co. merchants</addr>
@@ -7724,7 +7724,7 @@ Hall &amp; Son, boot &amp; shoe maker</addr>
 <addr>104 &amp; 105 Moore John &amp; Henry, pianoforte makers</addr>
 <addr>106 <i>King'sArms</i>, Thos. Jas. Guilford</addr>
 <addr>107 Hughes &amp; Co. confectioners &amp;c</addr>
-<addr>108 BALTIC CHAMBERS :&mdash;</addr>
+<addr>108 BALTIC CHAMBERS :&#8212;</addr>
 <addr>GordonAlexander,accountnt</addr>
 <addr>Dawson Fredk. G. shipng. agt</addr>
 <addr>Watson Edward, russia brokr</addr>
@@ -7751,7 +7751,7 @@ Hall &amp; Son, boot &amp; shoe maker</addr>
 <addr>Hayne Charles &amp; Co. wood brks</addr>
 <addr>119 &amp; 120 Ross A.&amp; Sons, perfumers</addr>
 <addr>121 Gordon Henry E. stock broker</addr>
-<addr>121 NEW CITY CHAMBERS :&mdash;</addr>
+<addr>121 NEW CITY CHAMBERS :&#8212;</addr>
 <addr>1 Hide Edward, architect</addr>
 <addr>Buckland Frank, surveyor</addr>
 <addr>2 Balli Alexandre, merchant</addr>
@@ -7772,7 +7772,7 @@ Hall &amp; Son, boot &amp; shoe maker</addr>
 <addr>121 <i>Petroleum Storage Co. Thames Haren, Limited</i>, W. H. Thompson sec</addr>
 <addr>122 Tollworthy James, hosier</addr>
 <addr>Wendon John, tailor</addr>
-<addr>123 Royal Bank of Scotland</i>, J. T. Horley, London mang</addr>
+<addr>123 <i>Royal Bank of Scotland</i>, J. T. Horley, London mang</addr>
 <addr><i>Australian Mortgage, Land &amp; Finance Co.Lim</i> P. W. Clement, sec</addr>
 <addr>Grahams &amp; Co. east india mers</addr>
 <addr>126 Norris &amp; Joyner, shipbrokers</addr>
@@ -7872,7 +7872,7 @@ here is Catherine wheel alley</addr>
 <addr>65 Kelsey &amp; Co. woollen drapers</addr>
 <xst>here is Union street</xst>
 <addr>68,69 &amp; 70 Adley George &amp; Co. baby &amp; underlinen warehouse</addr>
-<addr>71 <i>Star Tea Co.Joseph Cadman,man</addr>
+<addr>71 <i>Star Tea Co.Joseph Cadman,man</i></addr>
 <addr>72 to 75 Thomas J. &amp; Sons, feather &amp; flock merchants</addr>
 <addr>76 Vollam Edw.&amp;Son,boot&amp;shoe wa
 BISHOPSGATE CHAPEL</addr>
@@ -7881,7 +7881,7 @@ BISHOPSGATE CHAPEL</addr>
 <xst>here is George &amp; Catherine Wheel yard</xst>
 <addr>81 Griffiths Miss Mary A. H. dressma</addr>
 <addr>May James Pearson, solicitor</addr>
-<addr><i>Potato &amp; Fruit Salesmen's Co. Lim. Robt. Parker, manager</addr>
+<addr><i>Potato &amp; Fruit Salesmen's Co. Lim. Robt. Parker, manager</i></addr>
 <addr>Porter William, shoe warehouse</addr>
 <addr>Cranefield &amp; Son, printers</addr>
 <addr>82 Grant Mrs. Susan E. mantle wa</addr>
@@ -7930,7 +7930,7 @@ here is Skinner street</addr>
 <addr>123 Mitchell William, butcher</addr>
 <addr>124 Goldstein Israel &amp; Son, tailors</addr>
 <xst>here is Acorn street</xst>
-<addr>128 <i>King's Arms, Charles Tatton</addr>
+<addr>128 <i>King's Arms, Charles Tatton</i></addr>
 <addr>129 Pain John, teadealer</addr>
 <addr>130 Woods Hen.&amp; Thos.tripedressrs</addr>
 <addr>131 Cluff Wm. George, silk manufr</addr>
@@ -7974,7 +7974,7 @@ here is Skinner street</addr>
 <addr>Cackett &amp; Hill, lithographers</addr>
 <addr>167 Sorrell William, coffee rooms</addr>
 <xst>here is Half Moon street</xst>
-<addr>169<i>Sir Paul Pindar,John Howe</addr>
+<addr>169<i>Sir Paul Pindar,John Howe</i></addr>
 <addr>172 Smith Rigby D. bootmaker</addr>
 <addr>Cook James, manufg. jeweller</addr>
 <addr>173 Shoobert &amp;Grove, wine mrchts</addr>
@@ -8014,7 +8014,7 @@ here is Skinner street</addr>
 <addr>Jackson Chas. Edwd. solicitor</addr>
 </street>
 <street>
-<head>Bisterne p </head><head2><i>Poplar(<b>E.</b>)<i>See Preston's road</i></head2>
+<head>Bisterne p </head><head2><i>Poplar</i>(<b>E.</b>)<i>See Preston's road</i></head2>
 </street>
 <street>
 <head>Blackfriars road (S.E.),</head><head2><i>leading from Blackfriars bridge to the Obelisk</i></head2>
@@ -8041,7 +8041,7 @@ here is Skinner street</addr>
 <addr>16 <i>Garibaldi</i>, Charles Vitalis Jones</addr>
 <addr>here is Stamford street</addr>
 <addr>17 Huggins Henry, coffee rooms</addr>
-<addr>17&frac12; Tress &amp; Co. hat manufacturers</addr>
+<addr>17&#189; Tress &amp; Co. hat manufacturers</addr>
 <addr>18 Wharton Henry, pawnbroker</addr>
 <addr>19 Skinner Richard, printer</addr>
 <addr>20 Zufferey Michel, tobacconist</addr>
@@ -8065,7 +8065,7 @@ here is Skinner street</addr>
 <addr>40 Chisholm Alexander, dining rms</addr>
 <addr>41 Cassidy &amp; Tusler, grocers</addr>
 <addr>41 Spurr Jno. &amp; Wm. livery stables</addr>
-<addr>42 Stanley Frdk. Thos.vet. surgeon</addr><addr><i>Running Horses David Hamis</addr> 
+<addr>42 Stanley Frdk. Thos.vet. surgeon</addr><addr><i>Running Horses David Hamis</i></addr> 
 <addr>43 Bevins Alfred, gasfitter</addr>
 <addr>44 Robinson John &amp; Son, hatters</addr>
 <addr>45 Dowie John, beer retailer</addr>
@@ -8109,7 +8109,7 @@ here is Skinner street</addr>
 <addr>85 &amp; 174 Jones Howard Charles, solr</addr>
 <addr>86 DeFontaine Rev. Alfred Hutchings, M.A</addr>
 <addr>87 Palmer &amp; Cottrell, draughtsmen</addr>
-<addr>88 <i>Female Servants' Home Society, Mrs. Linley, matron</addr>
+<addr>88 <i>Female Servants' Home Society, Mrs. Linley, matron</i></addr>
 <addr>89 CarrRobt. &amp;Son,blacking manfrs</addr>
 <xst>here is John street west</xst>
 <addr>90 Burnett John</addr>
@@ -8154,7 +8154,7 @@ here is Skinner street</addr>
 <addr><i>Equestrian tavern</i>, Thomas Astbury Dewsbery</addr>
 <xst>here is St. George's circus</xst>
 <addr>125 Crabb James, beer retailer</addr>
-<addr>127 Frosch&ouml;na Louis, tobacconist</addr>
+<addr>127 Frosch&#246;na Louis, tobacconist</addr>
 <addr>128 Lauder Charles, coffee rooms</addr>
 <addr>129 Donahoo Thomas M. surgeon</addr>
 <addr>131 Stroud Mrs.Hannah,genl.turner</addr>
@@ -8286,13 +8286,13 @@ Gibbs Walter, glass writer (Railway arch)</addr>
 <addr>Toiray Gustave, ink manufctr.</addr>
 <addr>CauvetCharles &amp;Co.capsule mas Paulin Lauranson, agent</addr>
 <addr>239 &amp; 240 Cohen Isaac, machinery broker</addr>
-<addr><i>London, Chatham &amp; Dover Railway Co.'s Goods Dep&ocirc;t</i></addr>
+<addr><i>London, Chatham &amp; Dover Railway Co.'s Goods Dep&#244;t</i></addr>
 </street>
 <street>
 <head>Blackheath. (<b>S.E.</b>)</head><head2> <i>See</i> ''SUBURBAN DIRECTORY.''</head2>
 </street>
 <street>
-<head>Blackheath hill&amp;rd.(<b>S.E.</b>)</head><head2><i>See</i> "SUBURBAN DIRECTORY"&mdash; GREENWICH.</head2>
+<head>Blackheath hill&amp;rd.(<b>S.E.</b>)</head><head2><i>See</i> "SUBURBAN DIRECTORY"&#8212; GREENWICH.</head2>
 </street>
 <street>
 <head>Blackhorse rd.</head><head2><i>Blackhorse bridge, Deptford</i>. (<b>S.E.</b>)</head2>
@@ -8380,7 +8380,7 @@ Edward ThomasHall,med.supt</addr>
 <addr>26 Williams Edward,mantle wareho</addr>
 <addr>27 Breillat Joseph, china &amp; glass dlr</addr>
 <addr>28 SharmanWm.Hy.mantle wareho</addr>
-<addr>29 Pickford &amp; Co.'s cartage dep&ocirc;t (Swan yard)</addr>
+<addr>29 Pickford &amp; Co.'s cartage dep&#244;t (Swan yard)</addr>
 <addr>29 &amp; 30 OttleyGeo.paper hanging ma</addr>
 <addr>31 Holmes Frederick Chs. tobaccnst</addr>
 <addr>32 Withers Sam. &amp; John, brushmas</addr>
@@ -8407,12 +8407,12 @@ Edwin William, solicitor</addr>
 <xst>here are King's place &amp; Newington causeway</xst>
 <addr>55 <i>St.Saviour's ReliefStation &amp; Dispensary for the Northern Division</i></addr>
 <addr>56 <i>Metropolitan Bread &amp; Biscuit Co</i>. Alfred Geere, manager</addr>
-<addr>SOUTHWARK POLICE COURT :&mdash;</addr>
-<addr><i>Magistrates</i>&mdash;Wm. Partridge &amp; Ralph Augustus Benson
-<i>Clerks</i>&mdash;H. Nairn &amp; Harry Titterton
-<i>Ushers</i>&mdash; John T. Moran &amp; Richard Sparks
-<i>Office Keeper</i>&mdash; Geo. Hankinson
-<i>Messenger</i>&mdash; Wm. Plumridge</addr>
+<addr>SOUTHWARK POLICE COURT :&#8212;</addr>
+<addr><i>Magistrates</i>&#8212;Wm. Partridge &amp; Ralph Augustus Benson
+<i>Clerks</i>&#8212;H. Nairn &amp; Harry Titterton
+<i>Ushers</i>&#8212; John T. Moran &amp; Richard Sparks
+<i>Office Keeper</i>&#8212; Geo. Hankinson
+<i>Messenger</i>&#8212; Wm. Plumridge</addr>
 <addr>60 Joseph Jacob, cigar manufactr</addr>
 <addr>62 <i>Foresters' Arms</i>, Walter J.Mussell</addr>
 <addr>64 Peddle William, coffee rooms</addr>
@@ -8658,7 +8658,7 @@ John Gosling Durant, chief pier inspector Arthur Lewis Church, assistant pier in
 <addr>1 Dawson Mrs</addr>
 <addr>3 Pickersgill William Crellin</addr>
 <addr>4 Hayes Rev. Sir John Warren, bart</addr>
-<addr>5 Bodichon Eug&egrave;ne</addr>
+<addr>5 Bodichon Eug&#232;ne</addr>
 <addr>6 Wilde Ernest James</addr>
 <addr>7 Hutchons Mrs</addr>
 <addr>Hutchons Rev. James, M.A</addr>
@@ -8740,7 +8740,7 @@ John Gosling Durant, chief pier inspector Arthur Lewis Church, assistant pier in
 <addr>18 Young &amp; Buss, ironmongers</addr>
 <addr>19 Bowler Jas. boot tree &amp; last mkr</addr>
 <addr>19A, Crassweller Samuel, builder</addr>
-<addr>19&frac12; Hunt George, printer</addr>
+<addr>19&#189; Hunt George, printer</addr>
 <addr>20 Jones Nathaniel, coach plater</addr>
 <addr>Delphine Madame Elisc, dressma</addr>
 <addr>Nourrissat Madm.A. juv.dressma</addr>
@@ -8966,7 +8966,7 @@ John Gosling Durant, chief pier inspector Arthur Lewis Church, assistant pier in
 <addr>10 Murtagh Mrs</addr>
 </street>
 <street>
-<head>Blenheim road,</head><head2><i>St. <i>John's wood</i> (<b>N.W.</b>), <i>between</i> 42 &amp; 44 <i>Abbey rd</i>.</head2>
+<head>Blenheim road,</head><head2><i>St. John's wood</i> (<b>N.W.</b>), <i>between</i> 42 &amp; 44 <i>Abbey rd</i>.</head2>
 <map>MAP F6, G6.</map>
 <addr>1 Thornton James</addr>
 <addr>2 Goodiff Francis Taylor</addr>
@@ -9156,7 +9156,7 @@ John Gosling Durant, chief pier inspector Arthur Lewis Church, assistant pier in
 <addr>42 Sharp Frederick William</addr>
 <addr>43 Walker Miss</addr>
 <addr>44 Fairhead Frederick</addr>
-<addr>45 Boos&eacute; Mrs</addr>
+<addr>45 Boos&#233; Mrs</addr>
 <addr>46 Salter John</addr>
 <xst>here are Clifton villas</xst>
 <addr>47 Eacott Mrs. Diana, ladies' school</addr>
@@ -9168,7 +9168,7 @@ John Gosling Durant, chief pier inspector Arthur Lewis Church, assistant pier in
 <addr>54 Adams Edward Charles</addr>
 <addr>55 Beal Edward William</addr>
 <addr>56 Verner Miss</addr>
-<addr>57 L&uuml;tgen Henri</addr>
+<addr>57 L&#252;tgen Henri</addr>
 <addr>59 Hallett Marmaduke</addr>
 <addr>60 King Francis</addr>
 <addr>61 Hueffer Franz</addr>
@@ -9196,7 +9196,7 @@ John Gosling Durant, chief pier inspector Arthur Lewis Church, assistant pier in
 <addr>Temple &amp; Moore, auctioneers</addr>
 <addr>Nehemias Moses, merchant</addr>
 <addr>5 Goldstein David, dining rooms
-FINSBURY CHAMBERS :&mdash;3 Skeel William, merchant <i>German Empire Consulate General</i>,. Dr. Von Bojanowski, consul-general</addr>
+FINSBURY CHAMBERS :&#8212;3 Skeel William, merchant <i>German Empire Consulate General</i>,. Dr. Von Bojanowski, consul-general</addr>
 <addr>5 &amp; 7 Thomson &amp; Co. stationers</addr>
 <addr>6 <i>City Arms</i>, Alfred William &amp; Edward George Fitch Jones</addr>
 <addr>7 Sander Gustav Adolph, mercham</addr>
@@ -9235,7 +9235,7 @@ Rev.Robt.Robinson,home sec</addr>
 Curtis R. L. &amp; Sons, surveyors</addr>
 <addr>Noon &amp; Clarke, solicitors</addr>
 <addr>17 White Augustus &amp; Co. printers</addr>
-<addr>18 Phen&eacute; Nicholas, upholsterer</addr>
+<addr>18 Phen&#233; Nicholas, upholsterer</addr>
 </street>
 <street>
 <head>Blomfield st.,</head><head2><i>Harrow rd</i>. (<b>W.</b>) 1 <i>Up. Westbourne ter</i>.</head2>
@@ -9469,7 +9469,7 @@ Lowenstein Lazare M</addr>
 <addr>Hobson &amp; Co. auctioneers</addr>
 <addr>30 Gottheil James, lodging house</addr>
 <addr>33 Papworth Wyatt, architect</addr>
-<addr><i>Society of Biblical Archa&oelig;logy</i>, W. H. Rylands, sec</addr>
+<addr><i>Society of Biblical Archa&#339;logy</i>, W. H. Rylands, sec</addr>
 <xst>here is Streatham street</xst>
 <addr>34 Ruth Mrs. Hannah, dressmaker</addr>
 <addr>35 Bruff Peter Schuyler,civil enginr</addr>
@@ -9845,7 +9845,7 @@ Spanswick Miss Ellen, teacher of the pianoforte</addr>
 <addr>Nina Miss Jessie, vocalist</addr>
 <addr>52A, Ings Thomas John, fishmonger</addr>
 <addr>53 Stump Hy.Jno. artificial limb ma</addr>
-<addr>56 <i>The National Orthop&oelig;dic Hospital</i>, Stanford Smith, sec</addr>
+<addr>56 <i>The National Orthop&#339;dic Hospital</i>, Stanford Smith, sec</addr>
 <addr>60 Bradsell Francis, profr. of music</addr>
 <addr>61 &amp; 82 WellsAlfred John,lodging ho</addr>
 <addr>63 Steward William, dentist</addr>
@@ -9882,7 +9882,7 @@ Spanswick Miss Ellen, teacher of the pianoforte</addr>
 <head> Bolt court,</head><head2>151 <i>Fleet street</i>. (<b>E.C.</b>) (CITY)</head2>
 <map>MAP M9.</map>
 <addr>1 <i>The Albert Club Limited</i>, Ishmael Fisher, manager</addr>
-<addr>3 <i>Baptist Tract Society Dep&ocirc;t</i></addr>
+<addr>3 <i>Baptist Tract Society Dep&#244;t</i></addr>
 <addr>Pearson Geo. engraver on wood</addr>
 <addr>Barnes John Wickham, surgeon
 <i>Poor Law Medical Officers' Association</i>, Jno. WickhamBarnes, hon. sec</addr>
@@ -9957,7 +9957,7 @@ Spanswick Miss Ellen, teacher of the pianoforte</addr>
 <addr>6 Laxton John</addr>
 <addr>7 Turner Barrow</addr>
 <addr>8 Hook John Spinks</addr>
-<addr>10&frac12; Welch Edward, marble mason</addr>
+<addr>10&#189; Welch Edward, marble mason</addr>
 <addr>10 Ellis George</addr>
 <addr>14 Winter Ernest</addr>
 <addr>16 Moses Mrs</addr>
@@ -10167,7 +10167,7 @@ St. Mark's rd</i>.</head2><map>MAP M13.</map>
 <street>
 <head>Bond court,</head><head2>31 <i>Walbrook</i>. (<b>E.C.</b>) (<b>CITY</b>)</head2><map>MAP N 9.</map>
 <addr>1 Herring, Dewick &amp; Hardy, wholesale stationers</addr>
-<addr>2 BOND COURT CHAMBERS :&mdash;</addr>
+<addr>2 BOND COURT CHAMBERS :&#8212;</addr>
 <addr>Tarrant &amp; Mackrell, solicitrs</addr>
 <addr>MacAndrew Robt.&amp;Co.mers</addr>
 <addr>MeadowsJhn.Osmond, solotr</addr>
@@ -10175,7 +10175,7 @@ St. Mark's rd</i>.</head2><map>MAP M13.</map>
 <addr><i>New Zealand Manganese Mines Limited</i>, Geo. Scott, man. dir</addr>
 <addr>Searle Astley, surveyor</addr>
 <addr>Searle Malcolm, auctioneer</addr>
-<addr>3 BOND COURT HOUSE :&mdash;</addr>
+<addr>3 BOND COURT HOUSE :&#8212;</addr>
 <addr>Budd Edward,copper smeltr</addr>
 <addr>Vivian &amp;Sons,copper smltrs</addr>
 <addr><i>Asphaltic Wood Pavement Co. Limited (The)</i>, N. R. Bushnan, man</addr>
@@ -10286,7 +10286,7 @@ Gautier Jules, pianoforte maker</addr>
 <head>Borough High st.</head><head2>(<b>S.E.</b>) <i>fromLondon bridge to Blackman street</i>.</head2>
 <map>MAP N10, N11, O10.</map>
 <side>EAST SIDE.</side>
-<addr>1 WELLINGTON CHAMBERS :&mdash;</addr>
+<addr>1 WELLINGTON CHAMBERS :&#8212;</addr>
 <addr>1 Link Jhn.David,prvsn. agnt
 Matterson, O'Neil &amp; Co. provision agents</addr>
 <addr>4 Boyd T.L.&amp; Co. provsn. mers</addr>
@@ -10375,7 +10375,7 @@ GEORGE INN YARD.</addr>
 <addr>Evans &amp; Co. hop merchants</addr>
 <addr>Coulter Richard, hop factor</addr>
 <addr>79 Waters Charles, oyster rooms</addr>
-<addr>BOROUGH CHAMBERS :&mdash;
+<addr>BOROUGH CHAMBERS :&#8212;
 Few John Wilton, solicitor
 Rashleigh Philip Geo.solicitor
 Leake Henry, hop merchant</addr>
@@ -10423,7 +10423,7 @@ THREE TUNS COURT.</addr>
 <addr>117 <i>London &amp; North Western, South Western, &amp; General Goods &amp; Parcel Office</i></addr>
 <addr>119 Crowhurst Wm.&amp; Co.tobaccnsts</addr>
 <addr>121 <i>Grapes</i>, Henry Howard</addr>
-<addr>123 KENTISH BUILDINGS :&mdash;</addr>
+<addr>123 KENTISH BUILDINGS :&#8212;</addr>
 <addr>Josolyne Walter S. plumber</addr>
 <addr>Grafham M. &amp; Co. hop mercts</addr>
 <addr>Turnbull Alfred R. hop mercht</addr>
@@ -10432,7 +10432,7 @@ THREE TUNS COURT.</addr>
 <addr>Cornell &amp; Co. hop merchants</addr>
 <addr>123,125 &amp; 101 GillBros.carpet warch</addr>
 <addr>127 Smith William, hatter</addr>
-<addr>129 SPUR INN YARD :&mdash;</addr>
+<addr>129 SPUR INN YARD :&#8212;</addr>
 <addr>Drewett Jas. &amp; Son,booking.off</addr>
 <addr>Hodges W. hop &amp; seed merchnt</addr>
 <addr>Lovatt Henry, hop merchant</addr>
@@ -10441,7 +10441,7 @@ THREE TUNS COURT.</addr>
 <addr>NAG'S HEAD BUILDINGS.</addr>
 <addr>137 <i>Nag's Head inn</i> &amp; booking office, P. &amp; A. R. Harris</addr>
 <addr><i>Great Western &amp; London, Chatham &amp; Dover Raily. Agency Off</i></addr>
-<addr>G&uuml;termann Julius,hop mrchant</addr>
+<addr>G&#252;termann Julius,hop mrchant</addr>
 <addr>RileyGeo.&amp;Son,woollen drapers</addr>
 <addr>Wilkinson Robt.&amp;Co.wine mers</addr>
 <addr>139 &amp; 124 SmthGeo.M.oil&amp;colr.man</addr>
@@ -10495,7 +10495,7 @@ LAYTON'S BUILDINGS.</addr>
 <addr>ST. GEO. THE MARTYR CHURCH</addr>
 <xst>here is Great Dover street</xst>
 <side>WEST SIDE.</side>
-<addr>HIBERNIA CHAMBERS :&mdash;</addr>
+<addr>HIBERNIA CHAMBERS :&#8212;</addr>
 <addr>Denny Thos.A.&amp; Co. merchants.</addr>
 <addr>Eastty &amp; Corderoy,provsn.mers</addr>
 <addr>Corderoy John, provision mer</addr>
@@ -10517,7 +10517,7 @@ LAYTON'S BUILDINGS.</addr>
 <addr>10 Ash &amp; Co. printers &amp; stationers</addr>
 <xst>here is St.Saviour's churchyd</xst>
 <addr>10A, MedlandJhn.Brandon,optician</addr>
-<addr>BRIDGE CHAMBERS :&mdash;
+<addr>BRIDGE CHAMBERS :&#8212;
 Clark Thomas, hop merchant
 Evans Alfred Foster, merchant
 Finch George Henry, solicitor</addr>
@@ -10545,7 +10545,7 @@ Finch George Henry, solicitor</addr>
 <addr>30 Pedley George, dentist</addr>
 <addr>Pedley Thomas F. dental surgeon</addr>
 <addr>32 POSTAL Telegraph Office, Receiving House, Money Order Office &amp; Savings Bank</addr>
-<addr>34 TOWN HALL CHAMBERS :&mdash;</addr>
+<addr>34 TOWN HALL CHAMBERS :&#8212;</addr>
 <addr>Birt Daniel, solicitor</addr>
 <addr>Arnold William, solicitor</addr>
 <addr>Whiteley Geo. Crispe, barrister</addr>
@@ -10560,7 +10560,7 @@ Finch George Henry, solicitor</addr>
 <addr>46 Turnbull Henry &amp; Co. hop mers</addr>
 <addr>48 Radbourne Charles, beer retailer</addr>
 <addr>50 Latter (Laurence) &amp;Co.hop factrs</addr>
-<addr>52 CALVERT'S BUILDINGS :&mdash;</addr>
+<addr>52 CALVERT'S BUILDINGS :&#8212;</addr>
 <addr>Usborne Thos.&amp;Co.hop factors</addr>
 <addr>Kenward&amp;Astington, hop mers</addr>
 <addr>MesserWm.T.E.&amp;Son,hopfactrs</addr>
@@ -10582,7 +10582,7 @@ Finch George Henry, solicitor</addr>
 <addr>70 Monk George, confectioner</addr>
 <addr>72 Foster Thomas &amp; Co. wine mers</addr>
 <addr>WatermanThos.&amp;Son, hop factrs</addr>
-<addr>74 MAIDSTONE BUILDINGS :&mdash;</addr>
+<addr>74 MAIDSTONE BUILDINGS :&#8212;</addr>
 <addr>Dunk Wm. &amp; Sons, hop factors</addr>
 <addr>SheppardThos.&amp;Co. bacon stores</addr>
 <addr>76 Olver John, hairdresser</addr>
@@ -10621,7 +10621,7 @@ Lutwyche &amp;Co.boot &amp; shoe mas</addr>
 <addr>144 &amp; 148 Bishop Thomas, unredeemed pledge warehouse</addr>
 <addr>146 Redman Alfred &amp; Son, butchers</addr>
 <xst>here is Brent's court</xst>
-<addr>150 Chaplin Sl.Ford,ind.rubbr.dep&ocirc;t</addr>
+<addr>150 Chaplin Sl.Ford,ind.rubbr.dep&#244;t</addr>
 <addr>152 Morrison Alex. boot &amp; shoe ma</addr>
 <xst>here is Falcon court</xst>
 <addr>154 Stanford Benjamin, fishmonger</addr>
@@ -10943,7 +10943,7 @@ Mosley &amp; Sons, veterinary srgns</addr>
 <xst>here is Milton street</xst>
 <addr>15 Lord Mrs. Mary, baker</addr>
 <addr>16 Wells George, greengrocer</addr>
-<addr>16 &frac12; Hoare &amp; Sons, coopers</addr>
+<addr>16 &#189; Hoare &amp; Sons, coopers</addr>
 <addr>17 Paisley John, greengrocer</addr>
 <addr>18 Bellamy George, Butcher</addr>
 <xst>here is Milton street</xst>
@@ -10985,7 +10985,7 @@ Mosley &amp; Sons, veterinary srgns</addr>
 <addr>6 Elwin Mrs. Annie, beer retailer</addr>
 <addr>7 Vickers William Henry, butcher</addr>
 <addr>8 Harvey John, chandler's shop</addr>
-<addr>9 <i>Universal Oyster dep&ocirc;t</i> T. W. Brightman, manager</addr>
+<addr>9 <i>Universal Oyster dep&#244;t</i> T. W. Brightman, manager</addr>
 </street>
 <street>
 <head>Botolph lane (E.C.) (CITY),</head><head2>111 <i>Lower Thames st. &amp;</i> 14 <i>Eastcheap</i>.</head2>
@@ -11023,7 +11023,7 @@ Mosley &amp; Sons, veterinary srgns</addr>
 <addr>Feaks &amp; Masters, carmen</addr>
 <addr>Glyn John, &amp; Co. fruit merchnts</addr>
 <addr>NathanLionel&amp; Co.cigar imprtrs</addr>
-<addr>30 &frac12; Hill, John, wine merchant</addr>
+<addr>30 &#189; Hill, John, wine merchant</addr>
 <addr>31 &amp; 35 Knill &amp; Grant, fruit brokrs</addr>
 <addr>32 Fenn &amp; Ellis, wholesale grocers</addr>
 <addr>32&amp;9to15 Keeling &amp; Hunt, fruit bkrs</addr>
@@ -11261,7 +11261,7 @@ Evison &amp; Barter, whols. grocers</addr>
 <addr>16 Burnell H. Hockey, F.S.A.archtct</addr>
 <addr>17 Robinson &amp; Sons, pill box makers</addr>
 <addr>Davies Charles Edward, printer</addr>
-<addr>17 &frac12; Clayton &amp; Co. printers</addr>
+<addr>17 &#189; Clayton &amp; Co. printers</addr>
 <addr>18 Miall Edward</addr>
 <addr>Miall Charles Septimus</addr>
 <addr>Miall George Clark</addr>
@@ -11718,7 +11718,7 @@ music warehouse</addr>
 <addr>32 Monks Fredk. Aubyn, physician</addr>
 <addr>34 Koski Charles</addr>
 <addr>36 Lacy Edward</addr>
-<addr>38 Henderson Thomas M. hom&oelig;opathic physician</addr>
+<addr>38 Henderson Thomas M. hom&#339;opathic physician</addr>
 <addr>40 Dunstan M. James, registrar</addr>
 <xst>here is Wellington road</xst>
 <addr>42 Harwood Thomas</addr>
@@ -11825,7 +11825,7 @@ Henry Plater, high bailiff</addr>
 <addr>218 Robinson Henry, dyer</addr>
 <addr>220 Crawley John Willis, chemist</addr>
 <addr>222 Sorrell Joseph, tailor</addr>
-<addr>224 M&uuml;ller George, butcher</addr>
+<addr>224 M&#252;ller George, butcher</addr>
 <addr>226 Rose Alfred Thomas, hosier</addr>
 <addr>228 Crawley Richard Walter (exors. of), pawnbroker</addr>
 <xst>here is School House yard</xst>
@@ -11845,7 +11845,7 @@ Henry Plater, high bailiff</addr>
 <addr>1 <i>Grapes</i>, William Hy. Bridgman</addr>
 <addr>2 Jones Thomas William, baker</addr>
 <addr>Moore John, ivory brush maker</addr>
-<addr>4 Bow ST. POLICE COURT :&mdash; <i>Magistrates</i>.</addr>
+<addr>4 Bow ST. POLICE COURT :&#8212; <i>Magistrates</i>.</addr>
 <addr>Sir James Taylor Ingham, chief magistrate of police
 James Vaughan, esq</addr>
 <addr>Frederick Flowers, esq</addr>
@@ -11992,7 +11992,7 @@ Farrant Mrs.A. &amp; Co.stay makers</addr>
 <map>MAP E10.</map>
 <addr>4 Chisolm James, M.A. school</addr>
 <addr>5 <i>Gas Light &amp; Coke Co</i></addr>
-<addr>Hersey Thomas C&mdash;</addr>
+<addr>Hersey Thomas C&#8212;</addr>
 <addr>7 Archer William</addr>
 <addr>8 Lynch Jordan Roche, surgeon</addr>
 <xst>here is Lansdowne road</xst>
@@ -12076,9 +12076,9 @@ Farrant Mrs.A. &amp; Co.stay makers</addr>
 <addr>Hunt, Roope, Teage&amp; Co. (Oporto)</addr>
 <addr>Culpeper John Collingwood B. solicitor</addr>
 <addr>Loos Augustus, commission mer</addr>
-<addr>Francotte, Pirlot &amp; Co. zinc manufacturers (Li&egrave;ge, Belgium), Augustus Loos, sole agent</addr>
+<addr>Francotte, Pirlot &amp; Co. zinc manufacturers (Li&#232;ge, Belgium), Augustus Loos, sole agent</addr>
 <addr><i>Wine &amp; Spirit Association</i>, Lawrence Mariscaux, sec</addr>
-<addr>Rem&eacute; Hermann, merchant</addr>
+<addr>Rem&#233; Hermann, merchant</addr>
 <addr>Friederichs Ferd. H. merchant</addr>
 <addr>Williams Frank &amp; Co. merchnts</addr>
 <addr>Addison G. P. &amp; Co. ship owners</addr>
@@ -12317,7 +12317,7 @@ Farrant Mrs.A. &amp; Co.stay makers</addr>
 <xst>here is Short street</xst>
 <addr>25 Savill John, beer retailer</addr>
 <xst>here is Sarah Ann street</xst>
-<addr>35&frac12; Edgley Robert William, builder</addr>
+<addr>35&#189; Edgley Robert William, builder</addr>
 <addr>37 Wells Joseph, hairdresser</addr>
 <addr>59 <i>Duke of Suffolk</i>, Chas. Cresswell</addr>
 <addr>75 Mansfield Mrs. S. chandler's shp</addr>
@@ -12360,7 +12360,7 @@ Farrant Mrs.A. &amp; Co.stay makers</addr>
 <addr>6 &amp; 6A, Isner August, comsn.agent</addr>
 <addr>7 &amp; 8 Bouch, Coath&amp;Co. warehosmn</addr>
 <addr>9 Horrockses, Miller&amp;Co.cottn.mfs</addr>
-<addr>10 &amp; 11 FosterThos.&amp;Son,linen mfsd' Orival R. &amp; Lugenb&uuml;hl, manufacturers of french merinos</addr>
+<addr>10 &amp; 11 FosterThos.&amp;Son,linen mfsd' Orival R. &amp; Lugenb&#252;hl, manufacturers of french merinos</addr>
 <addr>12 Wallace Wm.linen warehousman</addr>
 <addr>Barbour Wm.&amp;Sons, flax spinners</addr>
 <addr>Macoun William &amp; James, handkerchief manufacturers</addr>
@@ -12386,7 +12386,7 @@ Farrant Mrs.A. &amp; Co.stay makers</addr>
 <addr>Bettson &amp; Bryan, warehousemen</addr>
 <addr>Brown&amp;Collander, woolln. mnfrs</addr>
 <addr>Cooke Philip Gattey, linen agent</addr>
-<addr>21 &amp; 21&frac12; Thompson, Pattinson &amp; Son, merchants</addr>
+<addr>21 &amp; 21&#189; Thompson, Pattinson &amp; Son, merchants</addr>
 <addr>22 Coulson William, Sons &amp; Co. linen manufacturers</addr>
 <xst>here is Cannon street</xst>
 <addr>23 to 28 Devas, Routledge &amp; Co. warehousemen</addr>
@@ -12402,7 +12402,7 @@ Farrant Mrs.A. &amp; Co.stay makers</addr>
 <addr>Salomons A. &amp; Co. comsn. agnts</addr>
 <addr>Perry John Hen. mantle manfr</addr>
 <addr>33 Murrell John, commission agent</addr>
-<addr>Lehmann D&mdash; J&mdash;.woollen mnfr. John Murrell, agent</addr>
+<addr>Lehmann D&#8212; J&#8212;.woollen mnfr. John Murrell, agent</addr>
 <addr>Knights Wm.&amp; Co. who.clothiers</addr>
 <addr>34 Schlund Theodore, comsn. agent</addr>
 <xst>here are Bread street hill, Knightrider street, Great Trinity lane &amp; Queen Victoria street</xst>
@@ -12433,7 +12433,7 @@ Farrant Mrs.A. &amp; Co.stay makers</addr>
 <page start="197"/>
 <addr>48 Dixon Arthur Fredk.&amp;Co.mantle manufacturers</addr>
 <addr>49 Dicksons, Ferguson &amp; Co. irish linen manufacturers</addr>
-<addr>49&frac12; Unger Ernest, manufactrs'agent</addr>
+<addr>49&#189; Unger Ernest, manufactrs'agent</addr>
 <addr>Schwarz &amp; Heymann, fancy woollen manufacturers</addr>
 <addr>Dicker John, costume manufactr</addr>
 <xst>here is Watling street</xst>
@@ -12446,8 +12446,8 @@ Farrant Mrs.A. &amp; Co.stay makers</addr>
 <addr>56 Holms (Wm.) &amp; Bros.manufctrs</addr>
 <addr>57 Folkard &amp;Sons,wholesale statnrs</addr>
 <addr>Archibald &amp; Leslie, warehousmn</addr>
-<addr>Knoepfel Edward, commission agent, &amp; agent for Ba&uuml;mann &amp; Co. swiss embroidery manufrs</addr>
-<addr>G&uuml;tmann H.&amp;Co. corset manfrs</addr>
+<addr>Knoepfel Edward, commission agent, &amp; agent for Ba&#252;mann &amp; Co. swiss embroidery manufrs</addr>
+<addr>G&#252;tmann H.&amp;Co. corset manfrs</addr>
 <addr>58 to 63 Copestake, Hughes, Crampton &amp; Co. lace manufacturers</addr>
 <addr>64 &amp; 65 GowerJohn&amp;Co. lace agents
 Bowdage &amp; Co. hatters</addr>
@@ -12458,7 +12458,7 @@ Bowdage &amp; Co. hatters</addr>
 <head>Bread st. hill (E.C.),</head><head2>(<b>CITY</b>) 201 <i>Up. Thames st</i>.</head2><map>MAP N9.</map>
 <addr>6 to 8 ClayR. Sons &amp; Taylor, printrs</addr>
 <addr>9 Sabatier Jules, hardware mercht</addr>
-<addr>Japy Fr&egrave;res &amp; Co. watch &amp; clock makrs. J. Sabatier, sole agent</addr>
+<addr>Japy Fr&#232;res &amp; Co. watch &amp; clock makrs. J. Sabatier, sole agent</addr>
 <addr>11 Sheather &amp; Co. who. stationers</addr>
 <addr>12 Couldrey &amp; Co. who. stationers</addr>
 <addr>13 <i>Horse &amp; Dorsers</i>, William Brinn</addr>
@@ -12798,7 +12798,7 @@ Flaws HenryGeo.gold lace maker</addr>
 <xst>here is Allington street</xst>
 <addr>1 Whiting Frederick, oilman</addr>
 <addr>2 Coppock Richard, gasfitter</addr>
-<addr>10&frac12; Norie George Elder, bootmaker</addr>
+<addr>10&#189; Norie George Elder, bootmaker</addr>
 <addr>11 Waters Thos. Richd.greengrocer</addr>
 <addr>12 Oulds William, oilman</addr>
 <addr>12A, Pope Jacob William, newsagnt</addr>
@@ -12970,7 +12970,7 @@ Flaws HenryGeo.gold lace maker</addr>
 <addr>123 Griggs Philip, cheesemonger</addr>
 <addr>124 Jones William, greengrocer</addr>
 <addr>125 &amp; 126 Payne John, butcher</addr>
-<addr>126&frac12; Gilbert Mrs. Hannah, grocer</addr>
+<addr>126&#189; Gilbert Mrs. Hannah, grocer</addr>
 <addr>127 Elves George, cheesemonger</addr>
 <addr>128 Elliott Richard, grocer</addr>
 <addr>129 Geisel Christopher, baker</addr>
@@ -13001,7 +13001,7 @@ Flaws HenryGeo.gold lace maker</addr>
 <addr>153 &amp; 154 Dobell Matthias, corn dlr</addr>
 <addr>156 Barnes Robert, drysalter</addr>
 <addr>157 Salmon Robert, fishmonger</addr>
-<xst>here are King st. &amp; Ph&oelig;nix st.</xst>
+<xst>here are King st. &amp; Ph&#339;nix st.</xst>
 <addr>164 Hadkiss Thomas, file manufactr</addr>
 <addr>166 Morris William, boot &amp; shoe ma</addr>
 <addr>167 Dipple Charles, tailor</addr>
@@ -13153,7 +13153,7 @@ Spicer Bros. wholesale stationers</addr>
 <map>MAP J12.</map>
 <addr>(No thoroughfare.)</addr>
 <addr>1 Armstead Hy. H.A.R.A. sculptor</addr>
-<addr><i>London Dep&ocirc;t Carriage Co</i>. James Harrington, manager</addr>
+<addr><i>London Dep&#244;t Carriage Co</i>. James Harrington, manager</addr>
 </street>
 <street>
 <head>Bridge road,</head><head2>17 <i>Adelaide road</i> (<b>N.W.</b>), <i>Camden town</i>.</head2>
@@ -13168,7 +13168,7 @@ Spicer Bros. wholesale stationers</addr>
 <addr>West JohnFredk.mast&amp;block ma</addr>
 <xst>here is Bowley street</xst>
 <addr><i>Elliott's Metal Co. Limited</i></addr>
-<addr><i>Midland Railway Co.'s Goods Dep&ocirc;t</i></addr>
+<addr><i>Midland Railway Co.'s Goods Dep&#244;t</i></addr>
 <addr>Smith Frederick, sailmaker</addr>
 <addr>Chancellor &amp; Co. carmen</addr>
 <addr>Blidberg&amp;Tholander, ship chndls</addr>
@@ -13193,7 +13193,7 @@ Spicer Bros. wholesale stationers</addr>
 <map>MAP K11.</map>
 <addr>1 <i>St. Stephen's Club</i>, Col. the Hon. Edward Henry Legge, sec</addr>
 <addr>METROPOLITAN DISTRICT RAILWAY STATION</addr>
-<addr>ST. STEPHEN'S CHAMBERS:&mdash;</addr>
+<addr>ST. STEPHEN'S CHAMBERS:&#8212;</addr>
 <addr><i>Conservative Central Office</i></addr>
 <addr>Skene William Baillie</addr>
 <addr><i>Conservative Registration Association</i>, Wm.Hugh Rowe,sec</addr>
@@ -13211,7 +13211,7 @@ Spicer Bros. wholesale stationers</addr>
 <addr>7 Goodes Ebenezer Samuel&amp;Alfred George, tobacconists</addr>
 <addr>8 ArchbuttJno.&amp;Wm.Ed.optician</addr>
 <page start="199"/>
-<addr>9 PALACE CHAMBERS, ST. STEPHEN'S:&mdash;</addr>
+<addr>9 PALACE CHAMBERS, ST. STEPHEN'S:&#8212;</addr>
 <addr>Almond Richard, architect</addr>
 <addr>Stewart Gilbert Macleod, civil engineer</addr>
 <addr><i>The Bridge &amp; Roofing Co. Lim</i></addr>
@@ -13289,7 +13289,7 @@ Fish Richard, engraver</addr>
 <addr>10 Warbey John, fancy box maker</addr>
 <xst>here is Princes street</xst>
 <addr>10 Tranter Mrs. Louisa, boarding ho</addr>
-<addr>10 &frac12; Yardley Thomas, bookbinder</addr>
+<addr>10 &#189; Yardley Thomas, bookbinder</addr>
 <addr>12 Brown John, boarding house</addr>
 <addr>13 Taylor Bros. wholesale milliners</addr>
 <addr>14 Spencer Mrs. Lucy, bookbinder</addr>
@@ -13439,13 +13439,13 @@ Fish Richard, engraver</addr>
 <head>Brig ter,</head><head2><i>Manchester rd</i>.(<b>E.</b>) <i>See Manchester rd.Southside</i>.</head2>
 </street>
 <street>
-<head>Bright st</head><head2><i>Bromley</i> (<b>E.</b>), <i>From 167 <i>St. Leonard's road</i>.</head2>
+<head>Bright st</head><head2><i>Bromley</i> (<b>E.</b>), <i>From</i> 167 <i>St. Leonard's road</i>.</head2>
 <map>MAP U9.</map>
 <addr>11 AttwoodMrs. Ann, chndlr.'s shop</addr>
 <addr>15 Lashmar Miss Paulina, dairy</addr>
 </street>
 <street>
-<head>Brighton street,</head><head2><i>Brunswick square</i> (<b>W.C.</b>), <i>between 96 &amp; 98 <i>Cromer street</i>.</head2>
+<head>Brighton street,</head><head2><i>Brunswick square</i> (<b>W.C.</b>), <i>between</i> 96 &amp; 98 <i>Cromer street</i>.</head2>
 <map>MAP L7.</map>
 <addr>8 Fitt Noah, tobacco pipe maker</addr>
 <addr>12 Saunders Joseph, baker</addr>
@@ -13495,7 +13495,7 @@ Fish Richard, engraver</addr>
 <addr>32 Knight John, bootmaker</addr>
 </street>
 <street>
-<head>Bristol mews,</head><head2><i>between 28 &amp; 30 <i>Bristol gardns. Warwick rd. west, Paddington</i>. (<b>W.</b>)</head2>
+<head>Bristol mews,</head><head2><i>between</i> 28 &amp; 30 <i>Bristol gardns. Warwick rd. west, Paddington</i>. (<b>W.</b>)</head2>
 <map>MAP F8.</map>
 <addr>21 <i>Metropoltn. HorseShoeingSoc.Lim</i></addr>
 </street>
@@ -13512,11 +13512,11 @@ Fish Richard, engraver</addr>
 <street>
 <head>Britannia pl,</head><head2>184 <i>Bishopsgate without</i>. (<b>E.C.</b>) (CITY)</head2>
 <map>MAP O8.</map>
-<addr>13 <i>Britannia</i>, Arthur Potter</i></addr>
+<addr>13 <i>Britannia</i>, Arthur Potter</addr>
 <addr><i>Armourers' &amp; Braziers' Almshous</i>. Marshall Pontifex, clerk</addr>
 </street>
 <street>
-<head>Britannia pl</head><head2><i>Islington</i> (<b>N.</b>), <i>from Britanni&aacute; row</i>.</head2>
+<head>Britannia pl</head><head2><i>Islington</i> (<b>N.</b>), <i>from Britanni&#225; row</i>.</head2>
 <map>MAP N6.</map>
 <addr>1 Tarrant Mrs. Anne,tobacconist</addr>
 <addr>Poirrier&amp;Tarrant,artificial first</addr>
@@ -13564,7 +13564,7 @@ Fish Richard, engraver</addr>
 <addr>30 <i>Crown &amp; Sceptre</i>, Peter Smith</addr>
 <addr>31 Stagg Joseph Thomas, butcher</addr>
 <addr>32 Russell George, chandler's shop</addr>
-<addr>35 Bu&racute;rows William, bootmaker</addr>
+<addr>35 Bu&#341;rows William, bootmaker</addr>
 <addr>53 Browning Charles James, tailor</addr>
 <addr>59 SchwarzeBros.wlkng. stick mkrs</addr>
 <addr>70 Klein George, tailor</addr>
@@ -13659,7 +13659,7 @@ Harpham &amp; Co. saw mills</addr>
 <head>Broad Sanctuary (<b>S.W.</b>),</head><head2><i>near Westminster abbey</i>.</head2>
 <map>MAP K11.</map>
 <addr>ST. MARGARET'S CHURCH</addr>
-<addr>NATIONAL SOCIETY, <i>for Promoting the Education of the Poor in the Principles of the Established Church</i>,Rev. Canon Gregory, M.A. treasurer Rev. James Duncan, M.A.sec<i>Depository&mdash;</i> Elijah Simpson, superintendent</addr>
+<addr>NATIONAL SOCIETY, <i>for Promoting the Education of the Poor in the Principles of the Established Church</i>,Rev. Canon Gregory, M.A. treasurer Rev. James Duncan, M.A.sec<i>Depository&#8212;</i> Elijah Simpson, superintendent</addr>
 <addr>WESTMINSTER HOSPITAL, Sidney M. Quennell, sec
 <i>Westminster Hospital School of Medicine</i>, Wm.H.Allchin,M.B.esq.dean</addr>
 <addr>GUILDHALL &amp; SESSIONSHOUSE, <i>Westminster Burgess Court</i>, Mrs. E. V. Millett, housekepr Wm. Charles Bussell, inspector of weights &amp; measures</addr>
@@ -13762,7 +13762,7 @@ Mathews &amp; Smith, solicitor</addr>
 <addr>Osborn Robt. H. &amp; P. carpenters</addr>
 <addr>6 Champney Felix, dairyman</addr>
 <addr>7, 8 &amp; 9 Ash C. &amp; Sons, mineral teeth makers</addr>
-<addr>10 Jamieson Walt. &amp; Jhn. dntl.dp&ocirc;t</addr>
+<addr>10 Jamieson Walt. &amp; Jhn. dntl.dp&#244;t</addr>
 <addr>Greenfield John, gun machinist</addr>
 <addr>Gifford William, music engraver</addr>
 <addr>11 PrattRobt.sen.dentl.materialma</addr>
@@ -13851,28 +13851,28 @@ Mathews &amp; Smith, solicitor</addr>
 <street>
 <head>Broad street,</head><head2><i>Ratcliff</i> (<b>E.</b>) <i>continuation of Shadwell High st. to Narrow street</i>.</head2><map>MAP R9, R10.</map>
 <side>SOUTH SIDE.</side>
-<addr>CHARRINGTON'S WHARF :&mdash;</addr>
+<addr>CHARRINGTON'S WHARF :&#8212;</addr>
 <addr>Charrington, Sells &amp; Co. coal &amp; coke merchants</addr>
 <addr><i>Coal Whippers' Office</i></addr>
 <addr>8 &amp; 10 Bennett R. B. who. potter</addr>
-<addr>BOWLES' WHARF :&mdash;</addr>
+<addr>BOWLES' WHARF :&#8212;</addr>
 <addr>Cameron &amp; Saunders, beer mers</addr>
 <addr>Moore G. &amp; Sons, bottle manfrs</addr>
 <addr>12 <i>Pewter Platter</i>, Jas.Keating Butler</addr>
 <addr>18 Soanes J.Son&amp;Co.rope&amp;twine ma</addr>
 <addr>20 Moore Mrs. Grace &amp; Sons, glass bottle manufacturers</addr>
-<addr>28 FREE TRADE WHARF :&mdash;</addr>
+<addr>28 FREE TRADE WHARF :&#8212;</addr>
 <addr><i>Gun &amp; Shot &amp; Griffin's Wharves Co. Limited</i>, Jas. Graves, managng.dirctr</addr>
 <addr>Breffit Edgar &amp; Co. glass manfrs
 <i>Aire &amp; Calder Glass Bottle Co</i></addr>
-<addr>NEPTUNE WHARF :&mdash;</addr>
+<addr>NEPTUNE WHARF :&#8212;</addr>
 <addr>30 Coubro &amp; Potter, ship chandlers</addr>
 <addr>36 Hallett &amp; Wilson, outfitters</addr>
-<addr>38 STONE STAIRS WHARF :&mdash;</addr>
+<addr>38 STONE STAIRS WHARF :&#8212;</addr>
 <addr>Sargeant &amp; Sons, coal merchnts</addr>
-<addr>STONE STAIRS :&mdash;</addr>
+<addr>STONE STAIRS :&#8212;</addr>
 <addr>40 <i>Angel</i>, James Edward Blaxland</addr>
-<addr>HUBBUCK'S WHARF :&mdash;</addr>
+<addr>HUBBUCK'S WHARF :&#8212;</addr>
 <addr>44 to 48 Hubbuck Thomas &amp; Son, oil &amp; lead works</addr>
 <addr>52 Holt &amp; Co. brewers</addr>
 <addr>56 <i>Ship Aground</i>, Wm. Dean Arnold</addr>
@@ -14239,7 +14239,7 @@ Mathews &amp; Smith, solicitor</addr>
 <addr>64 Sparks Richard, saddler</addr>
 <addr>66 <i>Fulham Bridge</i>, James Drake</addr>
 <addr>66 &amp; 34 Ward Chas. S. livery stables</addr>
-<addr>68 <i>A&euml;rated Bread Co</i>. (<i>dep&ocirc;t</i>)</addr>
+<addr>68 <i>A&#235;rated Bread Co</i>. (<i>dep&#244;t</i>)</addr>
 <addr>70 Van VlietMissSarah, curiosity dlr</addr>
 <addr>Van Vliet Emanuel, antique furniture dealer</addr>
 <addr>Laidler Alexander, builder</addr>
@@ -14260,7 +14260,7 @@ Mathews &amp; Smith, solicitor</addr>
 <addr>92 Mills Amos, printseller &amp;c</addr>
 <addr>94 Walker Henry, wine merchant</addr>
 <addr>96 Jones James, dyer</addr>
-<addr>98 Chaventr&eacute; Alexandre.hairdresser</addr>
+<addr>98 Chaventr&#233; Alexandre.hairdresser</addr>
 <addr>100 Channon Thos. Saml.booksellr</addr>
 <addr>100 POSTAL Telegraph Office, Receiving House, Money</addr><addr>100 Order Office &amp; Savings Bank</addr>
 <addr>102 Graham Madame Ann, milliner</addr>
@@ -14291,7 +14291,7 @@ Bartlett William, dentist</addr>
 <addr>Willmore William Hooton</addr>
 <addr>Willmore Bros.Window glass wa</addr>
 <addr>142 Parsons James, picture dealer</addr>
-<addr>144 <i>Branch Dep&ocirc;t of the Singer Sewing Machine Co</i></addr>
+<addr>144 <i>Branch Dep&#244;t of the Singer Sewing Machine Co</i></addr>
 <addr>146 Milner Mrs.Mary,boot&amp; shoe ma</addr>
 <addr>148 Smith Richd. &amp;Son,upholsterers</addr>
 <addr>150 Pochet Fras. &amp; Co. wine mers</addr>
@@ -14338,7 +14338,7 @@ Postlewaight Wm. decorator</addr>
 <addr>194 &amp; 196 Bryant Henry, jun. portmanteau maker</addr>
 <addr>198 Barrat Thomas, dyer</addr>
 <addr>200 Merrick George, carver &amp; gilder</addr>
-<addr>202 &amp; 204 <i>Gladstone tav</i>.Geo.Nutkins</i></addr>
+<addr>202 &amp; 204 <i>Gladstone tav</i>.Geo.Nutkins</addr>
 <addr>Channell Harry (6 Cottage pl)</addr>
 <addr>Gosling William, coffee house (Cottage place)</addr>
 <addr>HOLY TRINITY CHURCH</addr>
@@ -14740,7 +14740,7 @@ Postlewaight Wm. decorator</addr>
 <addr>105 Wills John Edgar, farrier</addr>
 <addr>109 Whitmore Charles, oilman</addr>
 <addr>113 Belcher Hy. William, baker</addr>
-<addr>119 <i>Queen Catherine John Pruce</addr>
+<addr>119 <i>Queen Catherine John Pruce</i></addr>
 <xst>here is Caroline street</xst>
 <addr>121 Fardell Chas, &amp; Son, coal mers</addr>
 <addr>127 Low Isaac, ships' smith</addr>
@@ -14809,7 +14809,7 @@ Postlewaight Wm. decorator</addr>
 <addr>15 Maidment Mrs. Maria, army accoutrement maker</addr>
 <addr>16 Carrington Wm. marine store dlr</addr>
 <xst>here are Beauchamp street,  
-Brooke's ct. &amp; White Hart yd.</i></xst>
+Brooke's ct. &amp; White Hart yd.</xst>
 <addr>ST. ALBAN'S CHURCH</addr>
 <addr>Mackonochie Rev.A. H.M.A.Clergy ho</addr>
 <addr>Maxwell H. G. M.A.Clergy ho</addr>
@@ -14820,12 +14820,12 @@ Brooke's ct. &amp; White Hart yd.</i></xst>
 <addr>25 Daniell William, baker</addr>
 <addr>26 Knott William, general printer</addr>
 <addr>27 Pockett George, pawnbroker</addr>
-<addr>28 &amp; 29 <i> Wellington tav.Fdk.Wm.May</addr>
+<addr>28 &amp; 29 <i> Wellington tav.Fdk.Wm.May</i></addr>
 <addr>30 Mayhew Joseph, chandler's shop</addr>
 <addr>31 &amp; 11 CettiE.&amp;Co.barometermkrs</addr>
 <addr>32 DingwallNapoleon,bottle mercht</addr>
 <addr>34 Blewett George, cheesemonger</addr>
-<addr>35 St. Alban's Working Men's Club</i></addr>
+<addr>35 St. Alban's Working Men's Club</addr>
 <addr>37 Jones David, gasfitter</addr>
 <addr>38 Newman Henry, tailor</addr>
 </street>
@@ -15133,7 +15133,7 @@ Currans</addr>
 <addr>6 Horsburgh Mrs</addr>
 <addr>7 Ellis Walter Lima Joel</addr>
 <addr>8 Grousset Paschal</addr>
-<addr><i>Convent of Marie R&eacute;paratrice</i>, Motherst.Magdalene,lady superioress (Harley house)</addr>
+<addr><i>Convent of Marie R&#233;paratrice</i>, Motherst.Magdalene,lady superioress (Harley house)</addr>
 </street>
 <street>
 <head>Brunswick road,</head><head2><i>from</i> 299 <i>EastIndia Dock road</i> (<b>E.</b>), <i>near the Dock gates</i>.</head2>
@@ -15398,10 +15398,10 @@ Currans</addr>
 <addr>4 Clapham John</addr>
 <addr>5 Tracq Felix Charles</addr>
 <addr>6 Echalaz Mrs</addr>
-<addr>7 Craufurd Harry James
+<addr>7 Craufurd Harry James</addr>
 </street>
 <street>
-<head>Brunswick villas,</head> <i>St. John's wood</i>. (<b>N.W.</b>) <i>See Hill road, St. John's wd</i>.</addr>
+<head>Brunswick villas,</head> <addr><i>St. John's wood</i>. (<b>N.W.</b>) <i>See Hill road, St. John's wd</i>.</addr>
 </street>
 <street>
 <head>Brunswick yard,</head><head2><i>City rd</i>. (<b>E.C.</b>) <i>SeeCity rd.South side.</i>.</head2>
@@ -15506,14 +15506,14 @@ Currans</addr>
 <addr>D'AuzelMadameAuguste, governesses' association</addr>
 <addr>7 Macgowan John, fishg. tackle ma</addr>
 <addr>Farie Robert</addr>
-<addr>8 K&ouml;hler John Wm. italian warcho</addr>
+<addr>8 K&#246;hler John Wm. italian warcho</addr>
 <addr>9 Hulme Richard Gleave, chemist</addr>
 <addr>Tomkins Mrs. Flavie, dressmakr</addr>
 <page start="205"/>
-<addr>10 Bland Thos. C. juvenile dep&ocirc;t</addr>
+<addr>10 Bland Thos. C. juvenile dep&#244;t</addr>
 <addr>11 Descou Miss Carina, milliner</addr>
 <addr>12 Gaisford Major Thomas</addr>
-<addr>13 BERKELEY CHAMBERS :&mdash;</addr>
+<addr>13 BERKELEY CHAMBERS :&#8212;</addr>
 <addr>Archer Thomas Searancke
 Atkins Henry
 Courtney Godhart</addr>
@@ -15564,10 +15564,10 @@ Wilson Mrs.Elizabeth,lodging ho</addr>
 <addr>37 Bright Rd. &amp; Co. lamp &amp; oil warh</addr>
 <addr>38 &amp; 39 Hancocks &amp; Co. jewellers</addr>
 <addr>39 Dore Henry John</addr>
-<addr>Stewart Horatio
+<addr>Stewart Horatio</addr>
 </street>
 <street>
-<head>Bryan pl.</head>. 190 <i>Caledonian road</i> (<b>N.</b>)</addr>
+<head>Bryan pl.</head><addr>. 190 <i>Caledonian road</i> (<b>N.</b>)</addr>
 <map>MAP L6.</map>
 <addr>1 Aylett John, bricklayer</addr>
 <addr>9 Garcka Henry, chandler's shop</addr>
@@ -15600,7 +15600,7 @@ Wilson Mrs.Elizabeth,lodging ho</addr>
 <addr>Musurus Etienne Bey.councllr
 Musurus Paul Bey, second. secs</addr>
 <addr>Behdjet Youssouf Bey, second. secs</addr>
-<addr>Abdul Rahman Effendi, military attach&eacute;</addr>
+<addr>Abdul Rahman Effendi, military attach&#233;</addr>
 <addr>Trewby Joseph Henry,chancelr</addr>
 <addr>2 Alexander James Bruce</addr>
 <addr>3 Beauclerk Lord Amelius W. J.P</addr>
@@ -15664,7 +15664,7 @@ Musurus Paul Bey, second. secs</addr>
 <addr>4 Litchfield Richard Buckley</addr>
 <addr>6 Allcard George Frederic</addr>
 <addr>8 Baber William, lodging house</addr>
-<addr>10 AmbroisMadme. H&eacute;loise,dressma</addr>
+<addr>10 AmbroisMadme. H&#233;loise,dressma</addr>
 <addr>12 Coats George Lawton</addr>
 <addr>14 Solari Miss Adele</addr>
 <addr>16 Denny Robert Arthur</addr>
@@ -15848,7 +15848,7 @@ Musurus Paul Bey, second. secs</addr>
 <addr>30 WatsonChs. Wm.china&amp;lamp dlr</addr>
 <addr>Northover (Homer) &amp; Ebbetts, dentists</addr>
 <addr><i>Concerti Da Camera</i></addr>
-<addr>Hahnemann, Hahnemann &amp; Co. hom&oelig;opathic chemists</addr>
+<addr>Hahnemann, Hahnemann &amp; Co. hom&#339;opathic chemists</addr>
 <addr>32 Goodwin Thos. Collins, bootma</addr>
 <addr>34 &amp; 79 Williams Walter, grocer</addr>
 <addr>Graham Mrs. Louisa, registry office for servants</addr>
@@ -15858,7 +15858,7 @@ Musurus Paul Bey, second. secs</addr>
 <addr>42 Webb Charles David,tobacconist</addr>
 <addr>44 Dixon Thomas, ironmonger</addr>
 <xst>here are Belgrave mansions &amp; Grosvenor gardens</xst>
-<addr>46 <i>Victoria hotel,Geo.AnthonySmith</addr>
+<addr>46 <i>Victoria hotel,Geo.AnthonySmith</i></addr>
 <addr>48 <i>St. George's Committee of the Society for Organizing Charitable Relief &amp; Repressing Mendicity</i>,C. C. Fitzroy, Hon.secs</addr><addr>Hon.Rd.C. Moreton, hon.secs</addr>
 <addr>50 Parrett George, fruiterer</addr>
 <addr>52 MitchellRt.Josh.&amp;Sons,booksllrs</addr>
@@ -15887,7 +15887,7 @@ Musurus Paul Bey, second. secs</addr>
 <addr>Doggett Frederick Horace, registrar of births &amp; deaths</addr>
 <addr>90 Purnell Francis, lodging house</addr>
 <addr>92 Dee James, carpenter</addr>
-<addr>94 Des&agrave;brisBenjamin,lodging house</addr>
+<addr>94 Des&#224;brisBenjamin,lodging house</addr>
 <addr>96 Belsey Robert, dentist</addr>
 <addr>98 Ridley Mrs. Elizabeth,lodging ho</addr>
 <addr>100 Winch Henry</addr>
@@ -16000,7 +16000,7 @@ Bangham Wm. &amp; Co. undertakers</addr>
 <addr>105 &amp; 107 Harvey Alfred, grocer</addr>
 <addr>109 &amp; 195 Wren John, marble wrks</addr>
 <addr>111 Harvey Alfd. wine &amp; spirit mer</addr>
-<addr>113 D&uuml;nki Emil, picture gallery
+<addr>113 D&#252;nki Emil, picture gallery
 Andrews Miss</addr>
 <addr>115 WardMrs.Emily,glass&amp;chna.dlr</addr>
 <addr>117 Wells Wm. Stubbing, butcher</addr>
@@ -16174,7 +16174,7 @@ water manufacturers</addr>
 <addr>Woodifield Matthew, civil enginr</addr>
 <addr>Lacey John Turk, architect</addr>
 <addr>Wildy Alfred Henry</addr>
-<addr>11 BUCKINGHAM CHAMBERS: &mdash;</addr>
+<addr>11 BUCKINGHAM CHAMBERS: &#8212;</addr>
 <addr><i>Irish Church Missions to the Roman Catholics</i>, Rev. Canon Cory, M.A. missionary, secretary William Pasley, esq. lay sec</addr>
 <addr><i>Pure Literature Society</i>, Richard Turner, sec</addr>
 <addr><i>The Word on the Waters Missions to Seamen</i>, Commander William Dawson, R.N. sec</addr>
@@ -16185,7 +16185,7 @@ water manufacturers</addr>
 <addr>Josephs Michl. wood engraver</addr>
 <addr>Bloxham Geo. Fredk.wine mer</addr>
 <addr><i>Royal Canoe Club</i>, H. Evans, sec</addr>
-<addr>12 HANOVER CHAMBERS:&mdash;</addr>
+<addr>12 HANOVER CHAMBERS:&#8212;</addr>
 <addr>Draper Edward Thomson, agent to Royal Marincs
 Logan Thomas &amp; Co. wine &amp; spirit merchants</addr>
 <addr><i>Colne Valley Water Co</i>. Philip Verini, sec</addr>
@@ -16205,7 +16205,7 @@ Logan Thomas &amp; Co. wine &amp; spirit merchants</addr>
 <addr>14 Pitts Frederick</addr>
 <addr>Fraser Arthur J</addr>
 <addr>Johnson John. architect</addr>
-<addr><i>Church Association,</i> Capt. W. C. Palmer, sec</i></addr>
+<addr><i>Church Association,</i> Capt. W. C. Palmer, sec</addr>
 <addr>Williams John</addr>
 <addr>Alexander Henry</addr>
 <addr>Bellamy Edward Vaux</addr>
@@ -16243,7 +16243,7 @@ Logan Thomas &amp; Co. wine &amp; spirit merchants</addr>
 <addr>Williams George &amp; Stanley F. architects</addr>
 <addr>20 Cope Thomas</addr>
 <addr>21 Towell Miss</addr>
-<addr>22 CHANDOS CHAMBERS :&mdash;</addr>
+<addr>22 CHANDOS CHAMBERS :&#8212;</addr>
 <addr>Wise William Lloyd, engineer &amp; patent agent</addr>
 <addr>Field, Field &amp; Cotton, consulting engineers</addr>
 <addr>Sewell Charles, surveyor</addr>
@@ -16254,7 +16254,7 @@ Logan Thomas &amp; Co. wine &amp; spirit merchants</addr>
 <addr>Morton A. Sidney cement mer</addr>
 <addr>Ingrey Charles, civil engineer</addr>
 <xst>here is Duke street</xst>
-<addr>22&frac12; Norris Edward &amp; Co. wine mers</addr>
+<addr>22&#189; Norris Edward &amp; Co. wine mers</addr>
 <addr>23 &amp; 24 SellerMchl.portmanteauma</addr>
 <addr>24 Gould John Thomas, fishmonger</addr>
 <addr>27 Crocker William, boot maker</addr>
@@ -16282,7 +16282,7 @@ Logan Thomas &amp; Co. wine &amp; spirit merchants</addr>
 <addr>11 Maurer Charles, wax modeller</addr>
 <addr>8 Walles Michael, chandler's shop</addr>
 <page start="207"/>
-<addr>9 Voightl&auml;nder Germain, bootma</addr>
+<addr>9 Voightl&#228;nder Germain, bootma</addr>
 <addr>20 <i>Half Moon &amp; Punch Bowl</i>,Conrad Hansmann</addr>
 <xst>here is Plough street</xst>
 <addr>10 Wooding George, bootmaker</addr>
@@ -16337,7 +16337,7 @@ HubbardJ.J.Son &amp;Eve,solicitors</addr>
 <addr><i>Exeter &amp; Crediton Railway Co</i>. George Henry Harris, sec</addr>
 <addr>Jackson Hy. railway contractor</addr>
 <addr><i>Victoria Stream Tin Co. Limited</i></addr>
-<addr>35 <i>Young's Paraffin Light &amp; Mineral Oil Co. Limited</i>, Thomas H. Hay, manager</i></addr>
+<addr>35 <i>Young's Paraffin Light &amp; Mineral Oil Co. Limited</i>, Thomas H. Hay, manager</addr>
 <addr>Drury &amp; Lovejoy, architects</addr>
 <addr>Davenport Charles, estate agent</addr>
 <addr>Lacey John, surgeon</addr>
@@ -16358,7 +16358,7 @@ HubbardJ.J.Son &amp;Eve,solicitors</addr>
 <addr>Browne &amp; Eagle, wool warehouse keepers</addr>
 <addr>Torr George, animal charcoal manufacturer</addr>
 <addr>Brown James, builder (Queen Anne's wharf)</addr>
-<addr>GREAT EASTERN RAILWAY COAL DEP&Ocirc;T:&mdash;</addr>
+<addr>GREAT EASTERN RAILWAY COAL DEP&#244;T:&#8212;</addr>
 <addr>1 Murrell Wm. Chas.coal mer</addr>
 <addr>2 TiteBenjn.Michael,coalmer</addr>
 <addr>3 &amp; 15 Abbott Mary &amp; Co. coal merchants</addr>
@@ -16386,7 +16386,7 @@ HubbardJ.J.Son &amp;Eve,solicitors</addr>
 <addr>1 Phillipson&amp;Co.who.perfumers&amp;c</addr>
 <addr>BrandeisE.&amp;Co. bronze pwdr.ma</addr>
 <addr>Sichel Bros, commission agents</addr>
-<addr>Trapp &amp; M&uuml;nch,chemicalmanfrs</addr>
+<addr>Trapp &amp; M&#252;nch,chemicalmanfrs</addr>
 <addr>Trapp Ludwig &amp; Co. comsn.mers</addr>
 <addr>2 Wigan Hy.&amp; Co.impr.of isinglass</addr>
 <addr>3 Henle Louis, merchant</addr>
@@ -16417,12 +16417,12 @@ HubbardJ.J.Son &amp;Eve,solicitors</addr>
 <addr><i>Patent Nut &amp; Bolt Co. Limited</i></addr>
 <addr>Emmott Chris. Fredc. solicitor</addr>
 <addr><i>Cwm Bryno Lead Mining Co.Lim</i>. Philip Harris Hare, sec</addr>
-<addr>25 MANSION HOUSE CHAMBERS:&mdash;</addr>
+<addr>25 MANSION HOUSE CHAMBERS:&#8212;</addr>
 <addr>GROUND FLOOR.</addr>
 <addr>Hudson &amp; Kennedy, wine &amp; spirit merchants</addr>
 <addr><i>Warrant Finance Co</i></addr>
 <addr>Richardson&amp;Co.stock &amp;share bro</addr>
-<addr>26 ST. ANTHOLIN'S CHAMBERS :&mdash;</addr>
+<addr>26 ST. ANTHOLIN'S CHAMBERS :&#8212;</addr>
 <addr>GROUND FLOOR.</addr>
 <addr>Wills Geo.&amp; Richd.&amp; Co.merchts
 FIRST FLOOR FRONT.</addr>
@@ -16511,7 +16511,7 @@ Thos. Chas. Trotman, sec</addr>
 <addr>Baxter Richard Wakeham &amp;Co. manufacturers' agents</addr>
 <addr>Goodland John, drapers' agent</addr>
 <addr>8 Rothschild Frank Samuel, importer of fancy goods</addr>
-<addr>Wetzlar Fr&egrave;res,briar wd.pipe ma</addr>
+<addr>Wetzlar Fr&#232;res,briar wd.pipe ma</addr>
 <addr>9 Mander Henry, mantle manfctr</addr>
 <addr>11 Horsley William, solicitor</addr>
 <addr>12 EdgecombeGeo.working jeweller</addr>
@@ -17095,7 +17095,7 @@ weavers (New Sun works)</addr>
 <addr>6 Dawson&amp;Son, ladies'bootmakers</addr>
 <addr>7 Fentum Martin, ivory carver</addr>
 <addr>8 &amp; 9 Asser Solomon,artificl.florist</addr>
-<addr>10 &amp; 11 Tomlinson George, mosaic marble dep&ocirc;t</addr>
+<addr>10 &amp; 11 Tomlinson George, mosaic marble dep&#244;t</addr>
 <addr>12 &amp; 13 Carmouche Eugene, dealer in paintings</addr>
 <addr>14 &amp; 15 Bidlake Wm. Seth, jeweller</addr>
 <addr>16 &amp; 17 Smith Thomas, bootmaker</addr>
@@ -17150,7 +17150,7 @@ weavers (New Sun works)</addr>
 <addr>7 Gaball Henry, brace &amp; shirt ma</addr>
 </street>
 <street>
-<head>Burlington mews,</head><head2>Westmoreland road</i> (<b>W.</b>)</head2>
+<head>Burlington mews,</head><head2>Westmoreland road (<b>W.</b>)</head2>
 <map>MAP E9.</map>
 <addr>1 Chappuis John Julius, carman</addr>
 <addr>7 Hopkins Thomas, livery stables</addr>
@@ -17227,7 +17227,7 @@ weavers (New Sun works)</addr>
 <addr>60 Armstrong Miss Catherine</addr>
 </street>
 <street>
-<head>Burn street,</head><head2><i>Carr st. Limehouse fields (E.)</head2><map>MAP S9.</map>
+<head>Burn street,</head><head2><i>Carr st. Limehouse fields (E.)</i></head2><map>MAP S9.</map>
 <addr>10 <i>Devonshire Arms</i>, Hy.Geo.Penny</addr>
 <addr>1 Miles James, firewood dealer</addr>
 <addr>Porcas Horatio Nelson, lightrmn</addr>
@@ -17256,7 +17256,7 @@ weavers (New Sun works)</addr>
 <addr><i>Cross Keys, Coffee Tavern Co. Lim</i></addr>
 </street>
 <street>
-<head>Burnside st.,</head><head2>63 <i>Grove rd. Mile end rd,(E)</head2>
+<head>Burnside st.,</head><head2>63 <i>Grove rd. Mile end rd,(E)</i></head2>
 <map>MAP S7.</map>
 <addr>9 Maddin Charles, fibre dresser</addr>
 <addr>37 Carter Jas. Stphn. ticket writer</addr>
@@ -17360,7 +17360,7 @@ weavers (New Sun works)</addr>
 <addr>37A, Pratt Albert, dairy</addr>
 <addr>38 Topple Robert, tailor</addr>
 <addr>39 Black Thomas, shoemaker</addr>
-<addr>St. Mary's Catholic School</i></addr>
+<addr>St. Mary's Catholic School</addr>
 <addr>43 Mound Thomas, carver &amp; gilder</addr>
 <addr>45 Haddow George, beer retailer</addr>
 <addr>49&amp;12 Callass George, fruiterer</addr>
@@ -17368,7 +17368,7 @@ weavers (New Sun works)</addr>
 <addr>51 Greig Francis, plumber &amp; glazier</addr>
 </street>
 <street>
-<head>Burwood mews,</head><head2>3 <i>Titchborne st. &amp; 2 Burwood pl. Edgware road (<b>W.</b>)</head2>
+<head>Burwood mews,</head><head2>3 <i>Titchborne st.</i> &amp; 2 Burwood pl. Edgware road (<b>W.</b>)</head2>
 <map>MAP K9.</map>
 <addr>Eastman &amp; Son, dyers</addr>
 <addr>4 Tozer Samuel, farrier</addr>
@@ -17392,7 +17392,7 @@ weavers (New Sun works)</addr>
 <addr>12 <i>Clay Cross Co</i>. (chief office)</addr>
 </street>
 <street>
-<head>Bury court,</head><head2>19 <i>St. Mary Axe</i>. (<b>E.C.) (CITY)</head2><map>MAP O9.</map>
+<head>Bury court,</head><head2>19 <i>St. Mary Axe</i>. (<b>E.C.</b>) (CITY)</head2><map>MAP O9.</map>
 <addr>1 Millossovich Nicholas &amp; Co.mers</addr>
 <addr>Sallmann Chas. &amp; co. merchants</addr>
 <addr>1 &amp; 2 &amp; Wustlich,engrvrs.&amp;c</addr>
@@ -17661,11 +17661,11 @@ Rev. Henry Irwin Cummins &amp; Norwood Earle, esq. hon.secs</addr>
 <street>
 <head>Butcher row,</head><head2><i>Ratcliff</i>(<b>E.</b>), 123 <i>Broad st. to Brook st</i>.</head2>
 <map>MAP S9.</map>
-<addr>3&frac12; Evans Henry, licensed carman</addr>
+<addr>3&#189; Evans Henry, licensed carman</addr>
 <addr>4 Smith James, ship smith</addr>
 <addr>ST. JAMES'S CHURCH Becker Rev. Ferdinand Wilhelm, M.A. (Vicarage)</addr>
 <addr>10 Boik Thomas, brassfounder</addr>
-<addr>10&frac12; Symons John &amp; Co. cider mers</addr>
+<addr>10&#189; Symons John &amp; Co. cider mers</addr>
 <addr>14 Lonsdale Joseph, grocer</addr>
 <xst>here is Brook street</xst>
 <addr>1A, Jones &amp; Mason, methylated spirit makers</addr>
